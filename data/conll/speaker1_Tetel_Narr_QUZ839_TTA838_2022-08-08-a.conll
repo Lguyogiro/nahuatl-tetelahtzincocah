@@ -1,0 +1,5213 @@
+# sent_id = 1701
+# text = pues este quemah nechpactia neneh tipiyasqueh se tlanonotztl de non
+# text[orig] = pues este kemah nech paktia neneh ti piaskeh se tlanunutstl de nun
+# text[spa] = pues este, si, me gusta este tener una platica de eso
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 14.11
+# timestamp[end] = 20.666
+1	pues	spa
+2	este	spa
+3	quemah	nhi
+4	nechpactia	nhi
+5	neneh	nhi
+6	tipiyasqueh	nhi
+7	se	nhi
+8	tlanonotztl	nhi
+9	de	spa
+10	non	nhi
+
+# sent_id = 1702
+# text = cualtzin se trabajo cualtzin este pero pues mas que nada
+# text[orig] = kualtsin se trabajo kualtsin este pero pues mas que nada
+# text[spa] = bonito, un trabajo bonito, este  pero pues mas que nada
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 21.74
+# timestamp[end] = 28.518
+1	cualtzin	nhi
+2	se	nhi
+3	trabajo	spa
+4	cualtzin	nhi
+5	este	spa
+6	pero	spa
+7	pues	spa
+8	mas	spa
+9	que	spa
+10	nada	spa
+
+# sent_id = 1703
+# text = amati quemeh de tlen tipo de cali ticniqui timatis o tipiyah tiempo timononotzasqueh de quenin mochihchiua se cali
+# text[orig] = amati kemeh de tlen tipo de kali tik niki ti  matis o ti piah tiempo ti mu nunutsaskeh de kenin mu chihchihua se kali
+# text[spa] = no se como de que tipo de casa quieres saber o, tenemos tiempo para platicar de como se construye una casa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 29.232
+# timestamp[end] = 38.232
+1	amati	nhi
+2	quemeh	adapted-spanish-loan
+3	de	spa
+4	tlen	nhi
+5	tipo	spa
+6	de	nhi
+7	cali	spa
+8	ticniqui	nhi
+9	timatis	nhi
+10	o	spa
+11	tipiyah	nhi
+12	tiempo	spa
+13	timononotzasqueh	nhi
+14	de	spa
+15	quenin	nhi
+16	mochihchiua	nhi
+17	se	nhi
+18	cali	nhi
+
+# sent_id = 1704
+# text = este amati mox titlahtlani quemeh lo que es de loza
+# text[orig] = este amati mux ti tlajtlani kemeh lo que es de loza
+# text[spa] = este, no se si preguntas como lo que es de loza
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 39.593
+# timestamp[end] = 44.393
+1	este	spa
+2	amati	nhi
+3	mox	nhi
+4	titlahtlani	nhi
+5	quemeh	nhi
+6	lo	spa
+7	que	spa
+8	es	spa
+9	de	spa
+10	loza	spa
+
+# sent_id = 1705
+# text = o de se tejado o de se lamina, o de lamina porque nochi non nochi non quipiya de o sea quipiya de motas
+# text[orig] = o de se tejado o de se lamina, o de lamina porque nuchi nun nuchi nun ki pia de osa ki pia de ki pia de mutas
+# text[spa] = o de un tejado, o de una lamina, o de lamina porque todo eso, tod eso tiene que, osea se tiene que ver
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 45.08
+# timestamp[end] = 55.858
+1	o	spa
+2	de	spa
+3	se	nhi
+4	tejado	spa
+5	o	spa
+6	de	spa
+7	se	nhi
+8	lamina,	spa
+9	o	spa
+10	de	spa
+11	lamina	spa
+12	porque	spa
+13	nochi	nhi
+14	non	nhi
+15	nochi	nhi
+16	non	nhi
+17	quipiya	nhi
+18	de	spa
+19	o	spa
+20	sea	spa
+21	quipiya	nhi
+22	de	spa
+23	motas	nhi
+
+# sent_id = 1706
+# text = desde cuando mopeualtis se cali masequihto tla neh nechiluisqueh ey ticchihchiuasqueh se cabaña
+# text[orig] = desde cuando mu pehualtis se kali mu se kijto tla nej nech iljuiskeh, hey tik chihchihuaskeh se cabaña
+# text[spa] = desde cuando se inicia una casa, digamos que si ami me dicen, hey vamos a construir una cabaña
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 56.475
+# timestamp[end] = 63.375
+1	desde	spa
+2	cuando	spa
+3	mopeualtis	nhi
+4	se	nhi
+5	cali	nhi
+6	masequihto	nhi
+7	tla	nhi
+8	neh	nhi
+9	nechiluisqueh	nhi
+10	ey	intj
+11	ticchihchiuasqueh	nhi
+12	se	nhi
+13	cabaña	spa
+
+# sent_id = 1707
+# text = nicpiya de nimomacas idea tzocotzin quenin youi se cabaña
+# text[orig] = nik pia de ni mu makas idea tsokotsin kenin yuhui se cabaña
+# text[spa] = tengo que darme una idea un poc de como va una cabaña
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 64.31
+# timestamp[end] = 69.176
+1	nicpiya	nhi
+2	de	spa
+3	nimomacas	nhi
+4	idea	spa
+5	tzocotzin	nhi
+6	quenin	nhi
+7	youi	nhi
+8	se	nhi
+9	cabaña	spa
+
+# sent_id = 1708
+# text = uan tla nechiluisqueh chihchiuasqueh se cali este habitacional para familia
+# text[orig] = huan tla nech iljuiskeh chihchihuaskeh se kali este habitacional para familia
+# text[spa] = y si me dicen que vamos a construir una casa este habitacional para familia
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 70.24
+# timestamp[end] = 77.751
+1	uan	nhi
+2	tla	nhi
+3	nechiluisqueh	nhi
+4	chihchiuasqueh	nhi
+5	se	nhi
+6	cali	nhi
+7	este	spa
+8	habitacional	spa
+9	para	spa
+10	familia	spa
+
+# sent_id = 1709
+# text = noual nicniqui nicmatis tla mocontemplarohtoc para dos pisos
+# text[orig] = nu hual nik niki ni matis tla mo contemplaruhtok para dos pisos
+# text[spa] = tambien necesito saber si se esta contemplando para dos pisos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 79.29
+# timestamp[end] = 84.979
+1	noual	adapted-spanish-loan
+2	nicniqui	nhi
+3	nicmatis	nhi
+4	tla	nhi
+5	mocontemplarohtoc	mixed
+6	para	spa
+7	dos	spa
+8	pisos	spa
+
+# sent_id = 1710
+# text = o san para se piso uan tlenoh ica quipantzacuasqueh
+# text[orig] = o san para se piso huan tleno ik ki pantsakuaskeh
+# text[spa] = o solo para un piso y con que la van a tapar
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 85.842
+# timestamp[end] = 89.776
+1	o	spa
+2	san	nhi
+3	para	spa
+4	se	nhi
+5	piso	spa
+6	uan	nhi
+7	tlenoh	nhi
+8	ica	nhi
+9	quipantzacuasqueh	nhi
+
+# sent_id = 1711
+# text = loza
+# text[orig] = loza
+# text[spa] = loza
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 92.994
+# timestamp[end] = 93.872
+1	loza	spa
+
+# sent_id = 1712
+# text = quemah pues xiquita matimononotzacan tzocotzin sobre se cali
+# text[orig] = kema pues xi kita mu ti mu nunutsakan tsokotsin sobre se kali
+# text[spa] = si pues mira vamos a platicar un poco sobre una casa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 103.765
+# timestamp[end] = 108.987
+1	quemah	nhi
+2	pues	spa
+3	xiquita	nhi
+4	matimononotzacan	nhi
+5	tzocotzin	nhi
+6	sobre	spa
+7	se	nhi
+8	cali	nhi
+
+# sent_id = 1713
+# text = este nican ticateh itich toaltipetl Tetelancingo Zacatlan Puebla
+# text[orig] = este, nikan ti kateh itich tu altepetl tetelahtzingo zacatlan puebla
+# text[spa] = este, aqui estamos en nuestro pueblo tetelantzingo zacatlan puebla
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 110.616
+# timestamp[end] = 116.771
+1	este	spa
+2	nican	nhi
+3	ticateh	nhi
+4	itich	nhi
+5	toaltipetl	nhi
+6	Tetelancingo	NE-Place
+7	Zacatlan	NE-Place
+8	Puebla	NE-Place
+
+# sent_id = 1714
+# text = lugar campa neneh
+# text[orig] = lugar campa neneh
+# text[spa] = lugar donde este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 117.577
+# timestamp[end] = 119.288
+1	lugar	spa
+2	campa	nhi
+3	neneh	nhi
+
+# sent_id = 1715
+# text = tipiyah tehuan tiricos de puro titl pos eso casi casi quihtoa toaltepetl tetelancingo
+# text[orig] = ti piah tejuan ti ricos de puro titl por eso casi casi kijtuhua tu altepetl tetelahtzingo
+# text[spa] = tenemos, nosotros somos ricos de pura  piedra por eso casi casi dice nuestro puebo tetelantzingo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 121.085
+# timestamp[end] = 128.363
+1	tipiyah	nhi
+2	tehuan	nhi
+3	tiricos	spa
+4	de	spa
+5	puro	spa
+6	titl	nhi
+7	pos	spa
+8	eso	spa
+9	casi	spa
+10	casi	spa
+11	quihtoa	nhi
+12	toaltepetl	nhi
+13	tetelancingo	NE-Place
+
+# sent_id = 1716
+# text = catqui miac titl uan para se cali mochiuas
+# text[orig] = katki miak titl huan para se kali mu chihuas
+# text[spa] = hay mucha piedra y para hacer una casa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 129.931
+# timestamp[end] = 132.787
+1	catqui	nhi
+2	miac	nhi
+3	titl	nhi
+4	uan	nhi
+5	para	nhi
+6	se	nhi
+7	cali	nhi
+8	mochiuas	nhi
+
+# sent_id = 1717
+# text = pues primero nican temi titl pero tla teh timomaca cuenta tiyoh para ne tlatilol
+# text[orig] = pues primero nikan temi titl pero tla teh ti mu maka cuenta tiyuh para ne tlatilol
+# text[spa] = pues primero aqui hay mucha piedra pero si tu te das cuenta, vas a la loma
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 133.973
+# timestamp[end] = 140.006
+1	pues	spa
+2	primero	spa
+3	nican	nhi
+4	temi	nhi
+5	titl	nhi
+6	pero	spa
+7	tla	nhi
+8	teh	nhi
+9	timomaca	nhi
+10	cuenta	spa
+11	tiyoh	nhi
+12	para	spa
+13	ne	nhi
+14	tlatilol	nhi
+
+# sent_id = 1718
+# text = catqui se tipo de titl, tiyoh para nepa tipan tlahco atentl catqui oc se titl
+# text[orig] = katki se tipo de titl, tiyuh para nipa tipa tlajko atentl katki okse titl
+# text[spa] = hay un tipo de de piedra, vas para por el rio hay otra piedra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 140.81
+# timestamp[end] = 147.12
+1	catqui	nhi
+2	se	nhi
+3	tipo	spa
+4	de	spa
+5	titl,	spa
+6	tiyoh	nhi
+7	para	spa
+8	nepa	nhi
+9	tipan	nhi
+10	tlahco	nhi
+11	atentl	nhi
+12	catqui	nhi
+13	oc	nhi
+14	se	nhi
+15	titl	nhi
+
+# sent_id = 1719
+# text = nican centro catqui oc se titl amo, amo igualito amo lo mismo, amo lo mismo
+# text[orig] = nikan centro katki okse titl amo, amo igualito amo lo mismo, amo lo mismo
+# text[spa] = aqui en el centro hay otra  piedra, no, no son iguales , no es lo mismo, no es lo mismo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 148.2
+# timestamp[end] = 154.09
+1	nican	nhi
+2	centro	spa
+3	catqui	nhi
+4	oc	nhi
+5	se	nhi
+6	titl	nhi
+7	amo,	nhi
+8	amo	nhi
+9	igualito	spa
+10	amo	nhi
+11	lo	spa
+12	mismo,	spa
+13	amo	nhi
+14	lo	spa
+15	mismo	spa
+
+# sent_id = 1720
+# text = catqui exactamente
+# text[orig] = katki, exactamente
+# text[spa] = hay, exactamente
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 155.35
+# timestamp[end] = 157.19
+1	catqui	nhi
+2	exactamente	spa
+
+# sent_id = 1721
+# text = pues tehuan como nican tiricos ica titl
+# text[orig] = pues tejuan como nikan ti ricos ika titl
+# text[spa] = pues nosotros como aki somos ricos de piedra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 158.185
+# timestamp[end] = 161.195
+1	pues	spa
+2	tehuan	nhi
+3	como	spa
+4	nican	nhi
+5	tiricos	spa
+6	ica	nhi
+7	titl	nhi
+
+# sent_id = 1722
+# text = ticmomacah in gusto de, lujo de nin titl amo uan nicanati o nicualica yen nicanca cachi cuacualtzin
+# text[orig] = tik mu makan gusto de lujo de a nin titll amo huan ni kanati o ni kualika yen nikanka kachi kuakualtsin
+# text[spa] = nos damos el gusto de, lujo de que esta piedra no y voy a traer este es mas bonito
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 162.165
+# timestamp[end] = 170.285
+1	ticmomacah	nhi
+2	in	nhi
+3	gusto	spa
+4	de,	spa
+5	lujo	spa
+6	de	spa
+7	nin	nhi
+8	titl	nhi
+9	amo	nhi
+10	uan	nhi
+11	nicanati	nhi
+12	o	spa
+13	nicualica	nhi
+14	yen	nhi
+15	nicanca	nhi
+16	cachi	nhi
+17	cuacualtzin	nhi
+
+# sent_id = 1723
+# text = pero campa amo catqui quicoah sa yen pues tlen quinamaquiltiah mas tohtolontic amo cuahcualtzin pero quicoah uan ye non quitlaliah itich in cimientos
+# text[orig] = peron kampa amo katki ki kuhuah sa yen pues tlen ki namakiltiyah mas tohtoluntik amo kuahkualtsin pero ki kuhuah huan ye nun ki tlaliah itich in cimientos
+# text[spa] = pero donde no hay, compran solo el de este pues lo que venden aunque sea de vola no esta bonito pero lo compran y eso es el que le ponen en los cimientos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 171.775
+# timestamp[end] = 182.785
+1	pero	spa
+2	campa	nhi
+3	amo	nhi
+4	catqui	nhi
+5	quicoah	nhi
+6	sa	nhi
+7	yen	nhi
+8	pues	spa
+9	tlen	nhi
+10	quinamaquiltiah	nhi
+11	mas	nhi
+12	tohtolontic	nhi
+13	amo	nhi
+14	cuahcualtzin	nhi
+15	pero	nhi
+16	quicoah	spa
+17	uan	nhi
+18	ye	nhi
+19	non	nhi
+20	quitlaliah	nhi
+21	itich	nhi
+22	in	nhi
+23	cimientos	spa
+
+# sent_id = 1724
+# text = pero para se cali mochihchiua primero mota in lugar
+# text[orig] = pero para se kali mu chihchihua primero mutan lugar
+# text[spa] = pero para ver como se construye  una casa, primero se ve el lugar
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 183.655
+# timestamp[end] = 189.135
+1	pero	spa
+2	para	spa
+3	se	nhi
+4	cali	nhi
+5	mochihchiua	nhi
+6	primero	spa
+7	mota	nhi
+8	in	nhi
+9	lugar	spa
+
+# sent_id = 1725
+# text = ich in tlali campa neneh mochiuas cali
+# text[orig] = ichin tlali kampa nenen mu chihuas kali
+# text[spa] = en la tierra en donde se va a construir la casa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 189.98
+# timestamp[end] = 193.44
+1	ich	nhi
+2	in	nhi
+3	tlali	nhi
+4	campa	nhi
+5	neneh	nhi
+6	mochiuas	nhi
+7	cali	nhi
+
+# sent_id = 1726
+# text = uan motamachiua de acuerdo quenin tetecomeh quiniqueh in cali
+# text[orig] = huan mu tlamachihua deacuerdo kenin tetekumeh kiniken kali
+# text[spa] = y se mide deacuerdo como los dueños quieren la casa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 194.315
+# timestamp[end] = 200.355
+1	uan	nhi
+2	motamachiua	nhi
+3	de	spa
+4	acuerdo	spa
+5	quenin	nhi
+6	tetecomeh	nhi
+7	quiniqueh	nhi
+8	in	nhi
+9	cali	nhi
+
+# sent_id = 1727
+# text = uan motrazaroua, modibujaroua in cali modibujaroua
+# text[orig] = huan mu tla trasaruhua mu dibujaruhuan kali mu dibujaruhua
+# text[spa] = y se traza, se dibuja la casa, se dibuja
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 201.43
+# timestamp[end] = 207.94
+1	uan	nhi
+2	motrazaroua,	mixed
+3	modibujaroua	mixed
+4	in	nhi
+5	cali	nhi
+6	modibujaroua	mixed
+
+# sent_id = 1728
+# text = itich se libreta itich se este amatl secdibujaroua quenin secniqui
+# text[orig] = itich se libreta itich se este amatl sek dibujaruhua kenin sek niki
+# text[spa] = en una libreta, en un papel, dibujamos como lo queremos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 208.81
+# timestamp[end] = 215.71
+1	itich	nhi
+2	se	nhi
+3	libreta	spa
+4	itich	nhi
+5	se	nhi
+6	este	spa
+7	amatl	nhi
+8	secdibujaroua	mixed
+9	quenin	nhi
+10	secniqui	nhi
+
+# sent_id = 1729
+# text = se tlatamachiua a ver mox techmacas medidas una vez ya ticpiyah non
+# text[orig] = se tla tamachihua aver mux tech makas medidas una vez ya tik piah nun
+# text[spa] = medimos, aver si nos da  las medidas, una vez que ya tenemos eso
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 216.61
+# timestamp[end] = 222.33
+1	se	nhi
+2	tlatamachiua	nhi
+3	a	spa
+4	ver	spa
+5	mox	nhi
+6	techmacas	nhi
+7	medidas	spa
+8	una	spa
+9	vez	spa
+10	ya	spa
+11	ticpiyah	nhi
+12	non	nhi
+
+# sent_id = 1730
+# text = mopeualtia, pues lo primero tlen mochiua
+# text[orig] = mu pehualtiia, pues lo primero tlen mu chihua
+# text[spa] = se empieza, pues lo primero que se hace
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 223.815
+# timestamp[end] = 226.315
+1	mopeualtia,	nhi
+2	pues	spa
+3	lo	spa
+4	primero	spa
+5	tlen	nhi
+6	mochiua	nhi
+
+# sent_id = 1731
+# text = mo... motlachcua, motrazaroua mas bien motrazaroua
+# text[orig] = mu, mu tlachkua, mu tla trasaruhua mas bien mu tla trasaruhua
+# text[spa] = se, se rasca, se trasa, mas bien se traza
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 227.6
+# timestamp[end] = 232.97
+1	mo...	nhi
+2	motlachcua,	nhi
+3	motrazaroua	mixed
+4	mas	spa
+5	bien	spa
+6	motrazaroua	mixed
+
+# sent_id = 1732
+# text = secpanoltia tehuan sequihtoa reventón y escuadra
+# text[orig] = sek panultia tejuan sek kihtuhua reventon y escuadra
+# text[spa] = le pasamos, nosotros decimos, reventon y escuadra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 233.67
+# timestamp[end] = 237.83
+1	secpanoltia	nhi
+2	tehuan	nhi
+3	sequihtoa	nhi
+4	reventón	spa
+5	y	spa
+6	escuadra	spa
+
+# sent_id = 1733
+# text = motlalia escuadra de acuerdo quenin isqui in cali uan peua motlachcua setlamarcaroua ica in tinixtl
+# text[orig] = mu tlalia escuadra de acuedo kenin iskin kali huan pehua mu tlachkua se tla marcaruhua ikan tinixtli
+# text[spa] = se pone la escuadra de acuerdo como va estar la casa y se empieza a rascar, marcamos con la cal
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 238.75
+# timestamp[end] = 245.74
+1	motlalia	nhi
+2	escuadra	spa
+3	de	spa
+4	acuerdo	spa
+5	quenin	nhi
+6	isqui	nhi
+7	in	nhi
+8	cali	nhi
+9	uan	nhi
+10	peua	nhi
+11	motlachcua	nhi
+12	setlamarcaroua	mixed
+13	ica	nhi
+14	in	nhi
+15	tinixtl	nhi
+
+# sent_id = 1734
+# text = setlamarcaroua, para mayoui derecho campa setlachcuatiuh secmarcaroua neneh campa yasqueh in columnas secmarcaroua in zapatas
+# text[orig] = se tla marcaruhua, para ma yuhui derecho kampa se tlachkuatiuh sek marcaruhua nenen campa yasken columnas sek marcaruhuan zapatas
+# text[spa] = marcamos, para que vaya derecho en donde vamos rascando, maracmos este donde van a ir  las columnas, marcamos las zapatas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 247.07
+# timestamp[end] = 257.33
+1	setlamarcaroua,	mixed
+2	para	spa
+3	mayoui	nhi
+4	derecho	spa
+5	campa	nhi
+6	setlachcuatiuh	nhi
+7	secmarcaroua	nhi
+8	neneh	nhi
+9	campa	nhi
+10	yasqueh	nhi
+11	in	nhi
+12	columnas	spa
+13	secmarcaroua	mixed
+14	in	nhi
+15	zapatas	spa
+
+# sent_id = 1735
+# text = una vez yomotlachcuac nochi
+# text[orig] = una vez yu mu tlachkuak nuchi
+# text[spa] = una vez que ya se rasco todo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 258.27
+# timestamp[end] = 260.34
+1	una	spa
+2	vez	spa
+3	yomotlachcuac	nhi
+4	nochi	nhi
+
+# sent_id = 1736
+# text = ya peuah mochiuah in zapatas uan columnas
+# text[orig] = ya pehuan mu chihuan zapatas huan columnas
+# text[spa] = ya se empiezan a hacer las zapatas y las columnas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 262.62
+# timestamp[end] = 267.58
+1	ya	spa
+2	peuah	nhi
+3	mochiuah	nhi
+4	in	nhi
+5	zapatas	spa
+6	uan	nhi
+7	columnas	spa
+
+# sent_id = 1737
+# text = uan zapatas masequihto tla ticchiuasqueh se cali de dos pisos
+# text[orig] = huan  zapatas mu se kihto tla tik chihuaskeh se kali de dos pisos
+# text[spa] = y las zapatas digamos si vamos a hacer una casa de dos pisos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 269.1
+# timestamp[end] = 274.98
+1	uan	nhi
+2	zapatas	spa
+3	masequihto	nhi
+4	tla	nhi
+5	ticchiuasqueh	nhi
+6	se	nhi
+7	cali	nhi
+8	de	spa
+9	dos	spa
+10	pisos	spa
+
+# sent_id = 1738
+# text = pues zapatas por minimo tehuan o neh nocaso niquinchiua de uno por uno un metro por un metro
+# text[orig] = pues zapatas por minimo tejuan o neh nu caso ni kin chihua de uno por uno un metro por un metro
+# text[spa] = pues la zapatas por minimo nosotros o en mi caso las hago de uno por uno, un metro por un metro
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 275.985
+# timestamp[end] = 284.325
+1	pues	spa
+2	zapatas	spa
+3	por	spa
+4	minimo	spa
+5	tehuan	nhi
+6	o	spa
+7	neh	nhi
+8	nocaso	mixed
+9	niquinchiua	nhi
+10	de	spa
+11	uno	spa
+12	por	spa
+13	uno	spa
+14	un	spa
+15	metro	spa
+16	por	spa
+17	un	spa
+18	metro	spa
+
+# sent_id = 1739
+# text = o depende in superficie tla tlalixtl mamochihchiuacan de uno veinte por uno veinte para ohcon cana mayor fuerza
+# text[orig] = o depende superficie tla tlalixtl mu mu chihchihuakan de uno veinte por uno veinte para ujkon kana mayor fuerza
+# text[spa] = o depende de la superficie si es de bajada se hagan de uno veinte por uno veinte para que asi agarre mayor fuerza
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 285.46
+# timestamp[end] = 294.38
+1	o	spa
+2	depende	spa
+3	in	nhi
+4	superficie	spa
+5	tla	nhi
+6	tlalixtl	nhi
+7	mamochihchiuacan	nhi
+8	de	spa
+9	uno	spa
+10	veinte	spa
+11	por	spa
+12	uno	spa
+13	veinte	spa
+14	para	spa
+15	ohcon	nhi
+16	cana	nhi
+17	mayor	spa
+18	fuerza	spa
+
+# sent_id = 1740
+# text = una vez yomotlalihqueh in zapatas moarmarouah, in columnas sequimicxicohcoloa in barillas uan sequinpantzintlalia
+# text[orig] = una vez yu mu tlalijken zapatas mu armaruhuan columnas se kim ikxkuhkuluhua barillas huan se kin pan tsintlalia
+# text[spa] = una ves que ya se pusieron las zapatas, se arman las columnas, doblamos las barillas y las ponemos abajo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 296.025
+# timestamp[end] = 304.435
+1	una	spa
+2	vez	spa
+3	yomotlalihqueh	nhi
+4	in	nhi
+5	zapatas	spa
+6	moarmarouah,	mixed
+7	in	nhi
+8	columnas	spa
+9	sequimicxicohcoloa	nhi
+10	in	nhi
+11	barillas	spa
+12	uan	nhi
+13	sequinpantzintlalia	nhi
+
+# sent_id = 1741
+# text = uan sequimilpia ica alambre ich in zapatas uan neneh
+# text[orig] = huan se ki milpia ika alambre ichin zapatas huan neneh
+# text[spa] = y las amarramos con alambre en las zapatas y este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 305.265
+# timestamp[end] = 309.965
+1	uan	nhi
+2	sequimilpia	nhi
+3	ica	nhi
+4	alambre	spa
+5	ich	nhi
+6	in	nhi
+7	zapatas	spa
+8	uan	nhi
+9	neneh	nhi
+
+# sent_id = 1742
+# text = secchihchiua revoltura, cemento, grava
+# text[orig] = sek chihchihua revoltura, cemento, grava,
+# text[spa] = hacemos la revoltura, cemento, grava
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 310.995
+# timestamp[end] = 314.875
+1	secchihchiua	nhi
+2	revoltura,	spa
+3	cemento,	spa
+4	grava	spa
+
+# sent_id = 1743
+# text = arena, arena secpiya de sequicuis yen de río para mejor fuerza, es mucho mejor
+# text[orig] = arena, arena sek pia de se kikuis yen de rio para mejor fuerza, es mucho mejor
+# text[spa] = arena, la arena que tenemos que ocupar es la de rio para mejor fuerza, es mucho mejor
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 316.34
+# timestamp[end] = 323.46
+1	arena,	spa
+2	arena	spa
+3	secpiya	nhi
+4	de	spa
+5	sequicuis	nhi
+6	yen	nhi
+7	de	spa
+8	río	spa
+9	para	spa
+10	mejor	spa
+11	fuerza,	spa
+12	es	spa
+13	mucho	spa
+14	mejor	spa
+
+# sent_id = 1744
+# text = cachi macizo mocaua cachi chicauac, cachi quipiya fuerza cachi amarraroua
+# text[orig] = kachi masiso mu kahua cachi chikahuak, cachi ki pia fuerza cachi amarraruhua mejor
+# text[spa] = se queda mas masiso, mas fuerte, tiene mas fuerza, amarra mejor
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 325.21
+# timestamp[end] = 329.64
+1	cachi	nhi
+2	macizo	spa
+3	mocaua	nhi
+4	cachi	nhi
+5	chicauac,	nhi
+6	cachi	nhi
+7	quipiya	nhi
+8	fuerza	spa
+9	cachi	nhi
+10	amarraroua	mixed
+
+# sent_id = 1745
+# text = non nochi seccoa tehuan nican seccoa hasta Tetela o de nin lado ya para San Emmanuel Tenango uili seccoa uan ica non secchihchiua uan ya seccolaroua in zapatas
+# text[orig] = nun nuchi sek kuhua tejuan nikan sek kuhua hasta tetela o de nin lado ya para san emmanuel tenango huili sek kuhua huan ika nun sek chihchihua huan yi sek kin colaruhua zapatas
+# text[spa] = todo eso lo compramos, nosotros aca lo compramos hasta tetela o de este lado ya para san emmanuel tenango podemos compralo y con eso ya las hacemos y ya colamos las zapatas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 330.52
+# timestamp[end] = 339.83
+1	non	nhi
+2	nochi	nhi
+3	seccoa	nhi
+4	tehuan	nhi
+5	nican	nhi
+6	seccoa	nhi
+7	hasta	spa
+8	Tetela	NE-Place
+9	o	spa
+10	de	spa
+11	nin	spa
+12	lado	spa
+13	ya	spa
+14	para	spa
+15	San	NE-Place
+16	Emmanuel	NE-Place
+17	Tenango	NE-Place
+18	uili	nhi
+19	seccoa	nhi
+20	uan	nhi
+21	ica	nhi
+22	non	nhi
+23	secchihchiua	nhi
+24	uan	nhi
+25	ya	nhi
+26	seccolaroua	mixed
+27	in	nhi
+28	zapatas	spa
+
+# sent_id = 1746
+# text = columnas ya ihcatoqueh columnas motlalihtiueh de acuerdo quenin isqui in cali porque in columnas simi importantes yehuan este
+# text[orig] = columnas ya ijkatukeh columnas mu tlalihtuhuen de acuerdo kenin iskin kali porquen columnas simi importante yejuan este
+# text[spa] = las columnas ya estan paradas, las columnas se ponen de acuerdo de como va estar la casa porque las columnas son muy importantes ellas este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 340.89
+# timestamp[end] = 348.9
+1	columnas	spa
+2	ya	spa
+3	ihcatoqueh	nhi
+4	columnas	spa
+5	motlalihtiueh	nhi
+6	de	spa
+7	acuerdo	spa
+8	quenin	nhi
+9	isqui	nhi
+10	in	nhi
+11	cali	nhi
+12	porque	spa
+13	in	nhi
+14	columnas	spa
+15	simi	nhi
+16	importantes	spa
+17	yehuan	nhi
+18	este	spa
+
+# sent_id = 1747
+# text = de, yehuan cargas yehuan tlen tlamemesqueh, muros noyuhqui tlamemeh pero in principales, principales yen columnas
+# text[orig] = de, yejuan cargas yejuan tlen tla memeskeh, muros nu tlamemeh peron principales, principales yen columnas
+# text[spa] = de, ellas cargan, son las que cargan, los muros tambien cargan pero los principales, principales son las columnas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 350.39
+# timestamp[end] = 358.4
+1	de,	spa
+2	yehuan	nhi
+3	cargas	spa
+4	yehuan	nhi
+5	tlen	nhi
+6	tlamemesqueh,	nhi
+7	muros	spa
+8	noyuhqui	nhi
+9	tlamemeh	nhi
+10	pero	spa
+11	in	nhi
+12	principales,	spa
+13	principales	spa
+14	yen	nhi
+15	columnas	spa
+
+# sent_id = 1748
+# text = uan tlen cachi principales nochi in tlen youeh esquinas y centros yehuan principal
+# text[orig] = huan tlen cachi principales nuchen tlen yuhuen esquinas, esquinas y centros yejuan principal
+# text[spa] = y el que es mas principal todos los que van a en las esquinas, esquinas y centros, esos son lo principal
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 359.1
+# timestamp[end] = 366.22
+1	uan	nhi
+2	tlen	nhi
+3	cachi	nhi
+4	principales	spa
+5	nochi	nhi
+6	in	nhi
+7	tlen	nhi
+8	youeh	nhi
+9	esquinas	spa
+10	y	spa
+11	centros	spa
+12	yehuan	nhi
+13	principal	spa
+
+# sent_id = 1749
+# text = tlacah yi mocalaquihtiueh in ocsiquen castillos intermedios pero quipiya de isqueh cargas de centro ohcon
+# text[orig] = tla kah yi mu kalakihtihuen oksiken castillitos intermedios pero ki pia de iskeh cargas de centro, ujkon
+# text[spa] = si, ya se  van metiendo otros castillitos intermedio pero tiene que ser cargas de centro, asi
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 367.7
+# timestamp[end] = 375.833
+1	tlacah	nhi
+2	yi	nhi
+3	mocalaquihtiueh	nhi
+4	in	nhi
+5	ocsiquen	nhi
+6	castillos	spa
+7	intermedios	spa
+8	pero	spa
+9	quipiya	nhi
+10	de	spa
+11	isqueh	nhi
+12	cargas	spa
+13	de	spa
+14	centro	spa
+15	ohcon	nhi
+
+# sent_id = 1750
+# text = una vez yomo... yomopancolarohqueh tehuan sequihtoa zapatas, yomocolarohqueh uan ya mo... tla tzocotzin tlalixtl
+# text[orig] = una vez yu mu pan cularuhkeh tejuan se kijtuhua zapatas, yu mu colaruhkeh huan ya mu, tla tsokotsin tla ixtlalix
+# text[spa] = yna vez que ya se colaron, nosotros decimos zapatas, ya se colaron y ya se, si esta un poco de bajada
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 376.697
+# timestamp[end] = 385.663
+1	una	spa
+2	vez	spa
+3	yomo...	nhi
+4	yomopancolarohqueh	mixed
+5	tehuan	nhi
+6	sequihtoa	nhi
+7	zapatas,	spa
+8	yomocolarohqueh	mixed
+9	uan	nhi
+10	ya	spa
+11	mo...	nhi
+12	tla	nhi
+13	tzocotzin	nhi
+14	tlalixtl	nhi
+
+# sent_id = 1751
+# text = ixtzonic tehuan sequicui titl ya mopipichoa para mo... mopanoltia niveles uan secpipichoa in titl secllamaruilia cimientos
+# text[orig] = ix tsonik tejuan se kikui titl ya mu pipichuhua para mu, mu panultia niveles huan sek pipichuhua titl sek llamarjuilia simientos
+# text[spa] = de lado, nosotros usamos la piedra se pega para que, se, se pasa los niveles y le pegamos la piedra le llamamos simientos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 387.231
+# timestamp[end] = 396.22
+1	ixtzonic	nhi
+2	tehuan	nhi
+3	sequicui	nhi
+4	titl	nhi
+5	ya	spa
+6	mopipichoa	nhi
+7	para	spa
+8	mo...	nhi
+9	mopanoltia	nhi
+10	niveles	spa
+11	uan	nhi
+12	secpipichoa	nhi
+13	in	nhi
+14	titl	nhi
+15	secllamaruilia	mixed
+16	cimientos	spa
+
+# sent_id = 1752
+# text = tla en caso oisquia parejito, tla parejito de todas maneras setlachcua campa yas in cimiento siquen quixmateh por mamposteo
+# text[orig] = tla en caso u iski tlal parejito, tla parejito de todas  maneras  se tlachkua campa yas cimiento siken kixmaten por mamposteo
+# text[spa] = si en casa la tierra esta pareja, tierra parejita de todas maneras rascamos donde va a ir el cimiento unos lo conocen por mamposteo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 397.154
+# timestamp[end] = 407.087
+1	tla	nhi
+2	en	spa
+3	caso	spa
+4	oisquia	nhi
+5	parejito,	spa
+6	tla	nhi
+7	parejito	spa
+8	de	spa
+9	todas	spa
+10	maneras	spa
+11	setlachcua	nhi
+12	campa	nhi
+13	yas	nhi
+14	in	nhi
+15	cimiento	spa
+16	siquen	nhi
+17	quixmateh	nhi
+18	por	spa
+19	mamposteo	spa
+
+# sent_id = 1753
+# text = uan ompa ya secpipichoa in titl mopipichoa in titl moescogeroa tlen tipo titl sequicuis pues in tlen cuahcual in titl yeh ye non
+# text[orig] = huan umpa ya sek pipichuhuan titl mu pipichuhuan titl mu escojeruhua tlen tipo titl se kikuis pues tlen kuahkual titl yeh ye nun
+# text[spa] = y ahi ya le pegamos la piedra  se pega la piedra se escoje que tipo de piedra vamos a ocupar pues la que es buena piedra es esa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 408.623
+# timestamp[end] = 417.356
+1	uan	nhi
+2	ompa	nhi
+3	ya	nhi
+4	secpipichoa	nhi
+5	in	nhi
+6	titl	nhi
+7	mopipichoa	nhi
+8	in	nhi
+9	titl	nhi
+10	moescogeroa	mixed
+11	tlen	nhi
+12	tipo	spa
+13	titl	nhi
+14	sequicuis	nhi
+15	pues	spa
+16	in	nhi
+17	tlen	nhi
+18	cuahcual	nhi
+19	in	nhi
+20	titl	nhi
+21	yeh	nhi
+22	ye	nhi
+23	non	nhi
+
+# sent_id = 1754
+# text = san quemeh neh nictlasohtla simi in titl neh niquixmatilia non tiquitl quemeh albañil, neh simi nictlasohtla in titl tlen quemeh cuadrado rectangular
+# text[orig] = san kemeh ne nik tlasojtla simi titl neh nu ni kixmatilia nun tikitl kemeh albañil, neh simi nik tlasuhtla titl tlen kemeh cuadrado rectangular
+# text[spa] = que es como ami me gusta mucho la piedra, yo conozco ese trabajo como albañil, ami me gusta mucho la piedra que es como cuadrado rectangular
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 418.003
+# timestamp[end] = 428.126
+1	san	nhi
+2	quemeh	adapted-spanish-loan
+3	neh	nhi
+4	nictlasohtla	nhi
+5	simi	nhi
+6	in	nhi
+7	titl	nhi
+8	neh	nhi
+9	niquixmatilia	nhi
+10	non	nhi
+11	tiquitl	nhi
+12	quemeh	adapted-spanish-loan
+13	albañil,	spa
+14	neh	nhi
+15	simi	nhi
+16	nictlasohtla	nhi
+17	in	nhi
+18	titl	nhi
+19	tlen	nhi
+20	quemeh	adapted-spanish-loan
+21	cuadrado	spa
+22	rectangular	spa
+
+# sent_id = 1755
+# text = simi porque nimachilia non titl quipiya mejor amarre
+# text[orig] = simi porque ni muchilia nun titl ki pia mejor amarre
+# text[spa] = mucho porque siento que esa piedra tiene mejor amarre
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 428.338
+# timestamp[end] = 432.627
+1	simi	nhi
+2	porque	spa
+3	nimachilia	nhi
+4	non	nhi
+5	titl	nhi
+6	quipiya	nhi
+7	mejor	spa
+8	amarre	spa
+
+# sent_id = 1756
+# text = porque ica, porque in tlen catqui titl quemeh san tohtolontic amo igual moilpia
+# text[orig] = porque ika, porquen tlen katki titl kemeh san tuhtuluntik amo igual mu ulpia
+# text[spa] = porque con ese, porque hay piedra que es como bola y no amarra igual
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 433.457
+# timestamp[end] = 440.046
+1	porque	spa
+2	ica,	nhi
+3	porque	spa
+4	in	nhi
+5	tlen	nhi
+6	catqui	nhi
+7	titl	nhi
+8	quemeh	adapted-spanish-loan
+9	san	nhi
+10	tohtolontic	nhi
+11	amo	nhi
+12	igual	spa
+13	moilpia	nhi
+
+# sent_id = 1757
+# text = uan tlen cualtzin titl siqui san quemeh uiuiyac pahpatlachtic cualtzin non sectectiu uan quemah sequilpihtiu quipiya de yas titl quipiya de yas tejido
+# text[orig] = huan tlen kualtsin titl siki san kemeh huihuiak pahpatlachtik cualtsin nun sek tektiuh huan kemah se kilpihtiu ki pia de yas titl ki pia de yas tejido
+# text[spa] = y las que son piedras bonitas unas son como largas aplastadas, las bamos acostando y si lo vamos amarrando, tiene que ir, la piedra tiene que ir tejida
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 441.227
+# timestamp[end] = 452.483
+1	uan	nhi
+2	tlen	nhi
+3	cualtzin	nhi
+4	titl	nhi
+5	siqui	nhi
+6	san	nhi
+7	quemeh	adapted-spanish-loan
+8	uiuiyac	nhi
+9	pahpatlachtic	nhi
+10	cualtzin	nhi
+11	non	nhi
+12	sectectiu	nhi
+13	uan	nhi
+14	quemah	nhi
+15	sequilpihtiu	nhi
+16	quipiya	nhi
+17	de	spa
+18	yas	nhi
+19	titl	nhi
+20	quipiya	nhi
+21	de	spa
+22	yas	nhi
+23	tejido	spa
+
+# sent_id = 1758
+# text = sequincuatrapearohtiu se... sequinchiutiu ihquin niquita siqueh albañiles san quiuiuipantiuitzeh in uile uan se linea de lado a lado uan titl yeh amo ohcon quipiya de isqui, titl ya quemeh in bloc
+# text[orig] = se kin cuatrapearuhtiuh se kin chihtiuh ijkin ni kita sikeh albañiles san ki huihuipantihuitsen huile huan se linea de lado a lado huan titl yeh amo ujkon ki pia de iski, titl ya kemen blok
+# text[spa] = las vamos cuatrapeando, las vamos haciendo asi,veo que unos a lbañiles solo las van ensimando asi, se puede y una linea de lado a lado y la piedra no tiene que ir la piedra, ya es como el blokc
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 453.236
+# timestamp[end] = 466.414
+1	sequincuatrapearohtiu	mixed
+2	se...	nhi
+3	sequinchiutiu	nhi
+4	ihquin	nhi
+5	niquita	nhi
+6	siqueh	nhi
+7	albañiles	spa
+8	san	nhi
+9	quiuiuipantiuitzeh	nhi
+10	in	nhi
+11	uile	nhi
+12	uan	nhi
+13	se	nhi
+14	linea	spa
+15	de	spa
+16	lado	spa
+17	a	spa
+18	lado	spa
+19	uan	nhi
+20	titl	nhi
+21	yeh	nhi
+22	amo	nhi
+23	ohcon	nhi
+24	quipiya	nhi
+25	de	nhi
+26	isqui,	nhi
+27	titl	nhi
+28	ya	nhi
+29	quemeh	nhi
+30	in	nhi
+31	bloc	spa
+
+# sent_id = 1759
+# text = block ihquin moilpihtiu se zig-zag tictemolia se... neneh mezcla uan non mezcla mitzuicas hasta quisati hasta tlacpac pero ihquin ihquin ihquin
+# text[orig] = blok ijkin mulpihtiu se zig zag tik temulia sen nenen meztla huan nun mextla mits huikas hasta kisatih hasta tlakpak pero ijkin ijkin ijkin
+# text[spa] = el blokc asi se va amarrando asi un zig zag le buscas una este mezcla y esa meztla te va a llevar hasta salir hasta arriba pero asi, asi ,asi
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 466.905
+# timestamp[end] = 477.35
+1	block	spa
+2	ihquin	nhi
+3	moilpihtiu	nhi
+4	se	nhi
+5	zig-zag	spa
+6	tictemolia	nhi
+7	se...	nhi
+8	neneh	nhi
+9	mezcla	spa
+10	uan	nhi
+11	non	nhi
+12	mezcla	spa
+13	mitzuicas	nhi
+14	hasta	spa
+15	quisati	nhi
+16	hasta	spa
+17	tlacpac	nhi
+18	pero	spa
+19	ihquin	nhi
+20	ihquin	nhi
+21	ihquin	nhi
+
+# sent_id = 1760
+# text = titl casi lo mismo quipiya de isqui ihquin para ne para nican para ne para nican ihquin nochi isqui amarrado tanto de nin lado tanto en medio nochi quipiya de isqui ohcon
+# text[orig] = titl casi lo mismo ki pia de iski ijkin para ne para nikan para ne para nikan ijkin nuchi iski amarrado tanto de nin lado tanto enmedio nuchi ki pia de iski ujkon
+# text[spa] = la piedra es casi lo mismo, tiene que ser asi para alla para aca para alla para aca asi todo tiene que ser amarrado tanto de este lado, tanto de enmedio todo tiene que ser asi
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 478.097
+# timestamp[end] = 490.219
+1	titl	nhi
+2	casi	spa
+3	lo	spa
+4	mismo	spa
+5	quipiya	nhi
+6	de	spa
+7	isqui	nhi
+8	ihquin	nhi
+9	para	spa
+10	ne	nhi
+11	para	spa
+12	nican	nhi
+13	para	spa
+14	ne	nhi
+15	para	spa
+16	nican	nhi
+17	ihquin	nhi
+18	nochi	nhi
+19	isqui	nhi
+20	amarrado	spa
+21	tanto	spa
+22	de	spa
+23	nin	nhi
+24	lado	spa
+25	tanto	spa
+26	en	spa
+27	medio	spa
+28	nochi	nhi
+29	quipiya	nhi
+30	de	spa
+31	isqui	nhi
+32	ohcon	nhi
+
+# sent_id = 1761
+# text = para amo uitzis amo xitinis una vez yotictlaleh titl nochi momamposteo campa yi ticpiya de tiahsis monivel depende quenin tiniqui mai mocal
+# text[orig] = para amo huitsis amo xitinis una vez yu tik tlale titl nuchi mu mamposteo kampa yi tik pia de ti asis mu nivel depende kenin ti niki mui mukal
+# text[spa] = para que no se caiga, que no se deshaga, una ves que ya pusiste la piedra todo tu mamposteo, donde tiene que llegar tu nivel depende como quieres que este tu casa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 491.419
+# timestamp[end] = 502.563
+1	para	spa
+2	amo	nhi
+3	uitzis	nhi
+4	amo	nhi
+5	xitinis	nhi
+6	una	spa
+7	vez	spa
+8	yotictlaleh	nhi
+9	titl	nhi
+10	nochi	nhi
+11	momamposteo	mixed
+12	campa	nhi
+13	yi	nhi
+14	ticpiya	nhi
+15	de	spa
+16	tiahsis	nhi
+17	monivel	mixed
+18	depende	spa
+19	quenin	nhi
+20	tiniqui	nhi
+21	mai	nhi
+22	mocal	nhi
+
+# sent_id = 1762
+# text = ya tictlalilia itrabe, itrabe uan ne
+# text[orig] = ya tik tlalilia y trabe, y trabe huan neh
+# text[spa] = ya le pones su trabe, su trabe y este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 503.34
+# timestamp[end] = 510.562
+1	ya	spa
+2	tictlalilia	nhi
+3	itrabe,	mixed
+4	itrabe	mixed
+5	uan	nhi
+6	ne	nhi
+
+# sent_id = 1763
+# text = mocolaroa non, non trabe pura barilla ica siqui anillos depende construcción tlen ticchiuas pero se cali de dos pisos pues ica moanillos de moestribos
+# text[orig] = mu colaruhua nun, nun trabe pura barilla ika siki anillos depende construccion tlen tik chihuas pero se kali de dos pisos pues ika mu anillos de mu estribos
+# text[spa] = se cuela esa trave, pura barilla con unos anillos depende  de la construccion que vas a hacer pero una casa de dos pisos pues con tus anillos de, tus estribos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 512.189
+# timestamp[end] = 524.522
+1	mocolaroa	mixed
+2	non,	nhi
+3	non	nhi
+4	trabe	spa
+5	pura	spa
+6	barilla	spa
+7	ica	nhi
+8	siqui	nhi
+9	anillos	spa
+10	depende	spa
+11	construcción	spa
+12	tlen	nhi
+13	ticchiuas	nhi
+14	pero	spa
+15	se	nhi
+16	cali	spa
+17	de	spa
+18	dos	spa
+19	pisos	spa
+20	pues	spa
+21	ica	nhi
+22	moanillos	mixed
+23	de	spa
+24	moestribos	mixed
+
+# sent_id = 1764
+# text = de doce por por veinte o de quince por, por veinte pero canteadito isqui para ohcon tla de doce por veinte
+# text[orig] = de doce por por veinte, o de quince por, por veinte pero canteadito iski para ujkon tla de doce por veinte
+# text[spa] = de doce por, por veinte, o de quince por, por veinte, pero tiene que ser canteadito para que asi, si es de doce por veinte
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 525.991
+# timestamp[end] = 535.702
+1	de	spa
+2	doce	spa
+3	por	spa
+4	por	spa
+5	veinte	spa
+6	o	spa
+7	de	spa
+8	quince	spa
+9	por,	spa
+10	por	spa
+11	veinte	spa
+12	pero	spa
+13	canteadito	spa
+14	isqui	nhi
+15	para	spa
+16	ohcon	nhi
+17	tla	nhi
+18	de	spa
+19	doce	spa
+20	por	spa
+21	veinte	spa
+
+# sent_id = 1765
+# text = moconcreto terminarohtih de quince por veintitres
+# text[orig] = mu concreto terinaruti de quince por veintitres
+# text[spa] = tu concreto va a terminar de quince por veintitres
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 536.27
+# timestamp[end] = 539.56
+1	moconcreto	mixed
+2	terminarohtih	mixed
+3	de	spa
+4	quince	spa
+5	por	spa
+6	veintitres	spa
+
+# sent_id = 1766
+# text = non nochi alrededor tictlalilia uan tlen atravesaroa uan tlatlahcoyan desde ompa ticchiua primer amarre nochi ya
+# text[orig] = nun nuchi al rededor tik tlalilia huan tlen atravezaruhua huan tlatlajkuyan para desde umpa tik chihua primer amarre nuchi ya
+# text[spa] = ese lo vas a poner todo alrededor y lo que atraviezan y en medio para que desde ahi, haces tu primer amarre ya todo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 540.51
+# timestamp[end] = 548.97
+1	non	nhi
+2	nochi	nhi
+3	alrededor	spa
+4	tictlalilia	nhi
+5	uan	nhi
+6	tlen	nhi
+7	atravesaroa	mixed
+8	uan	nhi
+9	tlatlahcoyan	nhi
+10	desde	spa
+11	ompa	nhi
+12	ticchiua	nhi
+13	primer	spa
+14	amarre	spa
+15	nochi	nhi
+16	ya	spa
+
+# sent_id = 1767
+# text = para tla canin se lado quiniquis timos panpatzcalaquis tlali
+# text[orig] = para tla kanin se lado ki nikis timus panpatskalakis tlali
+# text[spa] = para que si en un lado se quiera bajar, se exprime la tierra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 549.38
+# timestamp[end] = 553.39
+1	para	spa
+2	tla	nhi
+3	canin	nhi
+4	se	nhi
+5	lado	spa
+6	quiniquis	nhi
+7	timos	nhi
+8	panpatzcalaquis	nhi
+9	tlali	nhi
+
+# sent_id = 1768
+# text = necah columna campa quiniquis panpatzcalaquis mas se dos tres centimetros uilica quipiya de quitilanas nochi in cali uan timos
+# text[orig] = nekah columna camapa ki nikis panpatskalakis mas se dos tres centimetros huilika ki pia de ki tilanas nuchin kali huan timus
+# text[spa] = esa columna en donde se quiera exprimir aunque unos dos tres centimetros, tpuedee jalar toda la casa y va a bajar
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 554.63
+# timestamp[end] = 563.25
+1	necah	nhi
+2	columna	spa
+3	campa	nhi
+4	quiniquis	nhi
+5	panpatzcalaquis	nhi
+6	mas	spa
+7	se	nhi
+8	dos	spa
+9	tres	spa
+10	centimetros	spa
+11	uilica	nhi
+12	quipiya	nhi
+13	de	spa
+14	quitilanas	nhi
+15	nochi	nhi
+16	in	nhi
+17	cali	nhi
+18	uan	nhi
+19	timos	nhi
+
+# sent_id = 1769
+# text = pero para non masucedero mas facil tla nion se columna oc se amo timoa nion tleno
+# text[orig] = pero para nun mu sucedero mas facil tla niun se columna okse amo timuhua nuin tleno
+# text[spa] = pero para que pase eso es mas facil si ninguna columna o otra no baja ni nada
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 563.97
+# timestamp[end] = 569.69
+1	pero	spa
+2	para	spa
+3	non	nhi
+4	masucedero	mixed
+5	mas	spa
+6	facil	spa
+7	tla	nhi
+8	nion	adapted-spanish-loan
+9	se	spa
+10	columna	nhi
+11	oc	nhi
+12	se	nhi
+13	amo	nhi
+14	timoa	nhi
+15	nion	adapted-spanish-loan
+16	tleno	nhi
+
+# sent_id = 1770
+# text = mas facil mocauas pilcatos neneh columna ayic timos porque ilpitoc nochi
+# text[orig] = mas facil mu kahuas pilkatus nenen columna ayik timus porque ilpitok nuchi
+# text[spa] = es mas facil que se quede colgada la columna y ninca va a bajar porque esta todo amarrado
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 571.17
+# timestamp[end] = 578.48
+1	mas	spa
+2	facil	spa
+3	mocauas	nhi
+4	pilcatos	nhi
+5	neneh	nhi
+6	columna	spa
+7	ayic	nhi
+8	timos	nhi
+9	porque	spa
+10	ilpitoc	nhi
+11	nochi	nhi
+
+# sent_id = 1771
+# text = una vez yotictlaleh non neneh mo... mo... este, mocadena motrabe de amarre
+# text[orig] = una vez yu tik tlale nun neneh mu, mu este, mu cadena mu trabe de amarre
+# text[spa] = una vez que ya pusiste esa este, tu tu este, tu cadena, tu trave de amarre
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 580.33
+# timestamp[end] = 590.17
+1	una	spa
+2	vez	spa
+3	yotictlaleh	nhi
+4	non	nhi
+5	neneh	nhi
+6	mo...	nhi
+7	mo...	nhi
+8	este,	spa
+9	mocadena	mixed
+10	motrabe	mixed
+11	de	spa
+12	amarre	spa
+
+# sent_id = 1772
+# text = ompa ya uitz tlen tlanimilil tla de bloc o de tabique
+# text[orig] = umpa ya huits tlen tlanimilil tla de blok o de tabique
+# text[spa] = ahi ya viene la idea si es de blokc o de tabique
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 591.82
+# timestamp[end] = 596.67
+1	ompa	nhi
+2	ya	nhi
+3	uitz	nhi
+4	tlen	nhi
+5	tlanimilil	nhi
+6	tla	nhi
+7	de	spa
+8	block	spa
+9	o	spa
+10	de	spa
+11	tabique	spa
+
+# sent_id = 1773
+# text = o ya sea de piedra nuevamente tla de piedra mochiuas in cali de nochi titl de nochi titl mochiua
+# text[orig] = o ya sea de piedra nuevamente tla de piedra mu chihuas kali de nuchi titl de nuchi titl mu chihua
+# text[spa] = o ya sea de piedra nuevamente, si es de piedra, si la casa se hace todo de piedra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 597.89
+# timestamp[end] = 604.43
+1	o	spa
+2	ya	spa
+3	sea	spa
+4	de	spa
+5	piedra	spa
+6	nuevamente	spa
+7	tla	nhi
+8	de	spa
+9	piedra	spa
+10	mochiuas	nhi
+11	in	nhi
+12	cali	nhi
+13	de	spa
+14	nochi	nhi
+15	titl	nhi
+16	de	spa
+17	nochi	nhi
+18	titl	nhi
+19	mochiua	nhi
+
+# sent_id = 1774
+# text = ompa tiquitas tla quenin isqui motrabe quipiya de isqui cachi patlauac para titl ompa motzintlalis ocsipa
+# text[orig] = umpa ti kitas tla kenin iski mu trabe ki pia de iski kachi patlahuak para titl umpa mu tsin tlalis uksipa
+# text[spa] = ahi vas a  ver si, como va ser tu trave, tiene que ser mas ancha para que la piedra otra vez siente  ahi
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 605.87
+# timestamp[end] = 612.97
+1	ompa	nhi
+2	tiquitas	nhi
+3	tla	nhi
+4	quenin	nhi
+5	isqui	nhi
+6	motrabe	mixed
+7	quipiya	nhi
+8	de	spa
+9	isqui	nhi
+10	cachi	nhi
+11	patlauac	nhi
+12	para	spa
+13	titl	nhi
+14	ompa	nhi
+15	motzintlalis	nhi
+16	ocsipa	nhi
+
+# sent_id = 1775
+# text = pero tla matitlahtocan de block o de tabique pues entonces
+# text[orig] = pero tla mu ti tlajtukan de blok o de tabique pues entonces
+# text[spa] = pero si hablamos de blokc o de tabique pues entonces
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 614.33
+# timestamp[end] = 619.52
+1	pero	spa
+2	tla	nhi
+3	matitlahtocan	nhi
+4	de	spa
+5	block	spa
+6	o	spa
+7	de	spa
+8	tabique	spa
+9	pues	spa
+10	entonces	spa
+
+# sent_id = 1776
+# text = moca... motrabe mitzserviroa cuali de doce por quin... doce por veinte moestribo o quince por veinte o por veinticinco moestribo mitzcualtilia cuali
+# text[orig] = mu trabe mits servirua kualai de doce por quin, doce por veinte mu estribo o quince por veinte o por veinticinco mu estribo mits kualtilia kuali
+# text[spa] = tu trabe te va a servir bien de doce por quin, doce por veinte tu estribo, o quince por veinte o por veinticinco tu estribo te sirve bien
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 620.9
+# timestamp[end] = 631.51
+1	moca...	nhi
+2	motrabe	mixed
+3	mitzserviroa	mixed
+4	cuali	nhi
+5	de	spa
+6	doce	spa
+7	por	spa
+8	quin...	nhi
+9	doce	spa
+10	por	spa
+11	veinte	spa
+12	moestribo	mixed
+13	o	spa
+14	quince	spa
+15	por	spa
+16	veinte	spa
+17	o	spa
+18	por	spa
+19	veinticinco	spa
+20	moestribo	mixed
+21	mitzcualtilia	nhi
+22	cuali	nhi
+
+# sent_id = 1777
+# text = ompa ticolaroa mo... motrabes ocsipa ica in cemento
+# text[orig] = umpa ti colaruhua mu mu trabes oksipa ikan cemento
+# text[spa] = ahi, ya cuelas tus trabes otra vez con cemento
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 634.109
+# timestamp[end] = 638.99
+1	ompa	nhi
+2	ticolaroa	mixed
+3	mo...	spa
+4	motrabes	mixed
+5	ocsipa	spa
+6	ica	spa
+7	in	spa
+8	cemento	nhi
+
+# sent_id = 1778
+# text = arena y grava ocsipa tictlalilia nochi alrededor neneh
+# text[orig] = arena y graba oksipa tik tlalilia nuchi al rededor neneh
+# text[spa] = arena, graba otra vez le pones, todo al rededor este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 639.725
+# timestamp[end] = 644.353
+1	arena	spa
+2	y	spa
+3	grava	spa
+4	ocsipa	nhi
+5	tictlalilia	nhi
+6	nochi	nhi
+7	alrededor	spa
+8	neneh	nhi
+
+# sent_id = 1779
+# text = ti... tictlalia uan ya ticpeualtia neneh moblock encima de non trabe tlen otictlaleh
+# text[orig] = ti, tik tlalia huan ya tik pehualtiya neneh mu blok encima de nun trave tle u tik tlale
+# text[spa] = le , le pones y ya le empiezas este tu blokc encima de esa trabe que pusiste
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 645.595
+# timestamp[end] = 655.94
+1	ti...	nhi
+2	tictlalia	nhi
+3	uan	nhi
+4	ya	nhi
+5	ticpeualtia	nhi
+6	neneh	nhi
+7	moblock	mixed
+8	encima	spa
+9	de	spa
+10	non	nhi
+11	trabe	spa
+12	tlen	nhi
+13	otictlaleh	nhi
+
+# sent_id = 1780
+# text = pani, pani den trabe tlen otictlaleh ompa ticpipichoa ica tinixtl
+# text[orig] = pani, pani den trabe tlen u tik tlale umpa tik pipichuhua ika tinixtl
+# text[spa] = ensima, ensima de la trabe que pusiste ahi vas a pegar con cal
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 657.346
+# timestamp[end] = 663.018
+1	pani,	nhi
+2	pani	nhi
+3	den	mixed
+4	trabe	spa
+5	tlen	nhi
+6	otictlaleh	nhi
+7	ompa	nhi
+8	ticpipichoa	nhi
+9	ica	nhi
+10	tinixtl	nhi
+
+# sent_id = 1781
+# text = antes neneh in tinixtl nican occhiuayah octlatayah titl oquixpihpinayan cansa catqui titl tlen cualtia para tinixtl
+# text[orig] = antes nenen tinixtl nikan uk chihuayan ok tlatayah titl ok ixpihpinayan kah san katki titl tlen kualtilla para tinixtl
+# text[spa] = antes la cal aqui la hacian, quemaban puedras, juntaban solo ay piedras que sirven para cal
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 663.832
+# timestamp[end] = 671.641
+1	antes	spa
+2	neneh	nhi
+3	in	nhi
+4	tinixtl	nhi
+5	nican	nhi
+6	occhiuayah	nhi
+7	octlatayah	nhi
+8	titl	nhi
+9	oquixpihpinayan	nhi
+10	cansa	nhi
+11	catqui	nhi
+12	titl	nhi
+13	tlen	nhi
+14	cualtia	nhi
+15	para	spa
+16	tinixtl	nhi
+
+# sent_id = 1782
+# text = istac titl
+# text[orig] = istak titl
+# text[spa] = piedra blanca
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 672.055
+# timestamp[end] = 673.21
+1	istac	nhi
+2	titl	nhi
+
+# sent_id = 1783
+# text = pero axan acmo mochiua nican axan nochi no yomocau tons cachi mejor tiyoueh ticcoatiueh ne Tetela
+# text[orig] = pero axan akmo mu chihua nikan axa nuchi nu yu mukauh tons kachi mejor ti yuhueh tik kuhuatihueh ne tetela
+# text[spa] = pero ahora ya no se hace aqui, ahora todo eso ya se dejo entonces es mejor, vamos a comprar alla en tetela
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 675.116
+# timestamp[end] = 683.134
+1	pero	spa
+2	axan	nhi
+3	acmo	nhi
+4	mochiua	nhi
+5	nican	nhi
+6	axan	nhi
+7	nochi	nhi
+8	no	nhi
+9	yomocau	nhi
+10	tons	spa
+11	cachi	nhi
+12	mejor	spa
+13	tiyoueh	nhi
+14	ticcoatiueh	nhi
+15	ne	nhi
+16	Tetela	NE-Place
+
+# sent_id = 1784
+# text = uan yi quehcotia uan tehuan nican ticchihchiuah in mezcla
+# text[orig] = huan yi kehkutiyah huan tejuan nikan  tik chihchihuan mezcla
+# text[spa] = y ya lo traen y ya nosotrosa aca hacemos la mezcla
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 684.205
+# timestamp[end] = 687.305
+1	uan	nhi
+2	quehcotia	nhi
+3	yi	nhi
+4	uan	nhi
+5	tehuan	nhi
+6	nican	nhi
+7	ticchihchiuah	nhi
+8	in	nhi
+9	mezcla	spa
+
+# sent_id = 1785
+# text = ya ticchihchiuah in mezcla
+# text[orig] = ya tik chihchihuan meztla
+# text[spa] = ya hacemos la mezcla
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 688.941
+# timestamp[end] = 690.486
+1	ya	spa
+2	ticchihchiuah	nhi
+3	in	nhi
+4	mezcla	spa
+
+# sent_id = 1786
+# text = nehuatl niquihtoa queh albañil neh nechpactia nipiyilia confianza itich neneh columnas
+# text[orig] = nejuatl ni kihtuhua keh albañil neh nech paktia ni pihilia confianza itich neneh columnas
+# text[spa] = yo digo que como albañil a mi me gusta, le tengo confianza en las columnas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 691.679
+# timestamp[end] = 698.979
+1	nehuatl	nhi
+2	niquihtoa	nhi
+3	queh	adapted-spanish-loan
+4	albañil	spa
+5	neh	nhi
+6	nechpactia	nhi
+7	nipiyilia	nhi
+8	confianza	spa
+9	itich	nhi
+10	neneh	nhi
+11	columnas	spa
+
+# sent_id = 1787
+# text = zapatas trabes columnas cadenas lozas nictiquitiltia arena de río
+# text[orig] = zapatas trabes columnas cadenas losas nik tikitiltia arena de rio
+# text[spa] = zapatas traves, columna cadenas losas la trabajo con arena de rio
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 700.141
+# timestamp[end] = 705.805
+1	zapatas	spa
+2	trabes	spa
+3	columnas	spa
+4	cadenas	spa
+5	lozas	spa
+6	nictiquitiltia	nhi
+7	arena	spa
+8	de	spa
+9	río	spa
+
+# sent_id = 1788
+# text = pero para neneh mezcla para block nicpipichos o titl mopipichos o tabique mopipichos
+# text[orig] = pero para neneh mezcla para blok nik pipichus o titl mu pipichus u tabique mu pipichus
+# text[spa] = pero para la mezcla para pegar blokc o pegar piedra o pegar tabique
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 706.945
+# timestamp[end] = 714.927
+1	pero	spa
+2	para	spa
+3	neneh	nhi
+4	mezcla	spa
+5	para	spa
+6	block	spa
+7	nicpipichos	nhi
+8	o	spa
+9	titl	nhi
+10	mopipichos	nhi
+11	o	spa
+12	tabique	spa
+13	mopipichos	nhi
+
+# sent_id = 1789
+# text = simi nechpactia nictiquitiltis yen arena de mina o de banco quen quixmateh non amo itic non queh costic
+# text[orig] = simi nech paktia nik titis yen arena de mina o de banco ken kixmaten nun  amo itik nun keh kustik
+# text[spa] = me gusta trabajar mucho con la arena de mina o de banco como lo conocen, no pesa es como amarillo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 715.589
+# timestamp[end] = 723.316
+1	simi	nhi
+2	nechpactia	nhi
+3	nictiquitiltis	nhi
+4	yen	nhi
+5	arena	spa
+6	de	spa
+7	mina	spa
+8	o	spa
+9	de	spa
+10	banco	spa
+11	quen	nhi
+12	quixmateh	nhi
+13	non	nhi
+14	amo	nhi
+15	itic	nhi
+16	non	nhi
+17	queh	adapted-spanish-loan
+18	costic	nhi
+
+# sent_id = 1790
+# text = yehuatl ica neneh nicpipichoa block
+# text[orig] = yejuatl ika neneh nik pipichuhua blok
+# text[spa] = con ese pego el blokc
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 724.551
+# timestamp[end] = 728.324
+1	yehuatl	nhi
+2	ica	nhi
+3	neneh	nhi
+4	nicpipichoa	nhi
+5	block	spa
+
+# sent_id = 1791
+# text = pues una vez mopipichoa de cuerdo quenin cuartos neneh monique
+# text[orig] = pues una vez mu pipichuhua de cuerdo kenin cuartos nene mu nikeh
+# text[spa] = pues una ves que se pega de acuerdo a cuantos cuartos se necesitan
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 729.517
+# timestamp[end] = 734.335
+1	pues	spa
+2	una	spa
+3	vez	spa
+4	mopipichoa	nhi
+5	de	spa
+6	cuerdo	spa
+7	quenin	nhi
+8	cuartos	spa
+9	neneh	nhi
+10	monique	nhi
+
+# sent_id = 1792
+# text = pero para se cali pues nehuatl neh simi nechpactia ich notlanimilil
+# text[orig] = pero para se kali pues nejuatl neh simi nech paktia ich nu tlanimilil
+# text[spa] = pero para una casa pues yo, a mi me gusta mucho en mis pensamiento
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 735.417
+# timestamp[end] = 740.499
+1	pero	spa
+2	para	spa
+3	se	nhi
+4	cali	nhi
+5	pues	spa
+6	nehuatl	nhi
+7	neh	nhi
+8	simi	nhi
+9	nechpactia	nhi
+10	ich	nhi
+11	notlanimilil	nhi
+
+# sent_id = 1793
+# text = se caltzintli simi nechpactia macpiya se espacio quemeh iportal
+# text[orig] = se i kaltsintli simi nech paktia muk pia se espacio kemeh y portal
+# text[spa] = una casa, me gustaque tenga un espacio como su portal
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 741.238
+# timestamp[end] = 746.974
+1	se	nhi
+2	caltzintli	nhi
+3	simi	nhi
+4	nechpactia	nhi
+5	macpiya	nhi
+6	se	nhi
+7	espacio	spa
+8	quemeh	adapted-spanish-loan
+9	iportal	mixed
+
+# sent_id = 1794
+# text = porque ohcon de repente quipiya, caltlampa
+# text[orig] = porque ujkon de rrepente ki pia, kaltlampa
+# text[spa] = porque asi derrepente tienes, abajo de la casa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 747.933
+# timestamp[end] = 750.933
+1	porque	spa
+2	ohcon	nhi
+3	de	spa
+4	repente	spa
+5	quipiya,	nhi
+6	caltlampa	nhi
+
+# sent_id = 1795
+# text = ticpiya se persona iuan aquin timonohnotztoc ich in tla ecauil o tla quiyohtoc timomiyanihtoc ompa
+# text[orig] = tik pia se persona ihuan akin ti mu nuhnutstok ichin tla ekahuil o tla kiyuhtok ti mu mayanihtok umpa
+# text[spa] = tienes una persona con quien estas platicando en la sombra o si esta lloviendo te protejes ahi
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 752.052
+# timestamp[end] = 759.506
+1	ticpiya	nhi
+2	se	nhi
+3	persona	spa
+4	iuan	nhi
+5	aquin	nhi
+6	timonohnotztoc	nhi
+7	ich	nhi
+8	in	nhi
+9	tla	nhi
+10	ecauil	nhi
+11	o	spa
+12	tla	nhi
+13	quiyohtoc	nhi
+14	timomiyanihtoc	nhi
+15	ompa	nhi
+
+# sent_id = 1796
+# text = uan neneh a veces cateh calimeh tlen amo quipiya nion balcón nion portal nion tleno
+# text[orig] = huan neneh, aveces kateh kalimeh tlen amo ki piah niun balcon niun portal niun tleno
+# text[spa] = y este, aveces hay casas que no tienen ni balcon ni un portal, nada
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 760.374
+# timestamp[end] = 767.848
+1	uan	nhi
+2	neneh	nhi
+3	a	spa
+4	veces	spa
+5	cateh	nhi
+6	calimeh	nhi
+7	tlen	nhi
+8	amo	nhi
+9	quipiya	nhi
+10	nion	adapted-spanish-loan
+11	balcón	spa
+12	nion	adapted-spanish-loan
+13	portal	spa
+14	nion	adapted-spanish-loan
+15	tleno	nhi
+
+# sent_id = 1797
+# text = pues o de una vez quiyauac o de una vez tlahtic secatqui
+# text[orig] = pues o de una vez kiyahuak o de una vez tlajtik se katki
+# text[spa] = pues, o de una ve afuera o de una vez estamos adentro
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 768.691
+# timestamp[end] = 771.637
+1	pues	spa
+2	o	spa
+3	de	spa
+4	una	spa
+5	vez	spa
+6	quiyauac	nhi
+7	o	spa
+8	de	spa
+9	una	spa
+10	vez	spa
+11	tlahtic	nhi
+12	secatqui	nhi
+
+# sent_id = 1798
+# text = uan neneh ohcon bueno non
+# text[orig] = hua neneh ujkon bueno nun
+# text[spa] = y este asi, bueno eso
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 772.834
+# timestamp[end] = 776.616
+1	uan	nhi
+2	neneh	nhi
+3	ohcon	nhi
+4	bueno	spa
+5	non	nhi
+
+# sent_id = 1799
+# text = mochiua uan primero secalaqui
+# text[orig] = mu chihua huan primero se kalaki
+# text[spa] = se hace y primero entramos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 777.517
+# timestamp[end] = 780.062
+1	mochiua	nhi
+2	uan	nhi
+3	primero	spa
+4	secalaqui	nhi
+
+# sent_id = 1800
+# text = pues lo primero secahsitih uilica se sala
+# text[orig] = pues lo primero se kahsitih huilika se sala
+# text[spa] = pues lo primero que encontramos, tiene que ser una sala
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 781.169
+# timestamp[end] = 783.987
+1	pues	spa
+2	lo	spa
+3	primero	spa
+4	secahsitih	nhi
+5	uilica	nhi
+6	se	nhi
+7	sala	spa
+
+# sent_id = 1801
+# text = uan de non sala campa quemeh uilis semoreuniroah timiaqueh
+# text[orig] = huan de nun sala  kampa kemeh huilis se mu reuniruhuan ti miakeh
+# text[spa] = y de esa sala, donde podemos reunirnos muchos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 785.059
+# timestamp[end] = 790.25
+1	uan	nhi
+2	de	spa
+3	non	nhi
+4	sala	spa
+5	campa	nhi
+6	quemeh	adapted-spanish-loan
+7	uilis	nhi
+8	semoreuniroah	mixed
+9	timiaqueh	nhi
+
+# sent_id = 1802
+# text = non sala nechpactia mayoui macpiya conecte para itich se comedor uan den comedor ich cocina
+# text[orig] = nun sala nech paktia mu yuhui muk pia conecte para itich se comedor huan den comedor ich cocina
+# text[spa] = esa sala me gusta que vaya, que tenga conecte para con el comedor, y del comedor a la cocina
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 791.474
+# timestamp[end] = 798.229
+1	non	nhi
+2	sala	spa
+3	nechpactia	nhi
+4	mayoui	nhi
+5	macpiya	nhi
+6	conecte	spa
+7	para	spa
+8	itich	nhi
+9	se	nhi
+10	comedor	spa
+11	uan	nhi
+12	den	mixed
+13	comedor	spa
+14	ich	nhi
+15	cocina	spa
+
+# sent_id = 1803
+# text = uan recámaras pues a lo... lado contrario de.. den sala
+# text[orig] = huan recamaras pues a lo lado contrario de den sala
+# text[spa] = y las recamaras  pues al lados contrario de la sala
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 798.731
+# timestamp[end] = 802.968
+1	uan	nhi
+2	recámaras	spa
+3	pues	spa
+4	a	spa
+5	lo...	spa
+6	lado	spa
+7	contrario	spa
+8	de..	spa
+9	den	mixed
+10	sala	spa
+
+# sent_id = 1804
+# text = neh ohcon no... no... notlanimilil porque bueno pues antes nican calimeh quenyauili occhihchiuayah san se tlaihticoyoctic tlaihtiueyi uan ompa nochi neneh
+# text[orig] = neh ujkon nu nu, nu tlanimilil porque bueno pues antes nikan kalimeh ken ya huili ok chihchihuayan san se tla ijti kuyuktik tla ijti hueyi huan umpa nuchi neneh
+# text[spa] = asi es mi, mi idea porque bueno pues antes aqui las casas las haciando como sea, solo un hueco adentro, y grande y ahi todo este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 804.218
+# timestamp[end] = 815.081
+1	neh	nhi
+2	ohcon	nhi
+3	no...	nhi
+4	no...	nhi
+5	notlanimilil	nhi
+6	porque	spa
+7	bueno	spa
+8	pues	spa
+9	antes	spa
+10	nican	nhi
+11	calimeh	nhi
+12	quenyauili	nhi
+13	occhihchiuayah	nhi
+14	san	nhi
+15	se	nhi
+16	tlaihticoyoctic	nhi
+17	tlaihtiueyi	nhi
+18	uan	nhi
+19	ompa	nhi
+20	nochi	nhi
+21	neneh	nhi
+
+# sent_id = 1805
+# text = ompa nochi motzontentoqueh ompa cocheh ompa tlacuah nochi ompa uan pues por eso niquihtoa depende tlen tipo de cali
+# text[orig] = umpa nuchi mu tsontentuken umpa cuchen umpa tlakuah nuchi umpa huan pues por eso ni kijtuhua depende tlen tipo de kali mu chihchihuas
+# text[spa] = ahi estan todos amontonados ahi duermen ahi comen todo ahi y pues por eso digo depende que tipo de casa se va a hacer
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 816.093
+# timestamp[end] = 823.166
+1	ompa	nhi
+2	nochi	nhi
+3	motzontentoqueh	nhi
+4	ompa	nhi
+5	cocheh	nhi
+6	ompa	nhi
+7	tlacuah	nhi
+8	nochi	nhi
+9	ompa	nhi
+10	uan	nhi
+11	pues	spa
+12	por	spa
+13	eso	spa
+14	niquihtoa	nhi
+15	depende	spa
+16	tlen	nhi
+17	tipo	spa
+18	de	spa
+19	cali	nhi
+
+# sent_id = 1806
+# text = pero ohcon mochihchiuah, una vez yoticpipichoh nochi nen block
+# text[orig] = pero ujkon mu chihchihuan, una vez yu tik pipichu nuchi nen blok
+# text[spa] = pero asi se hacen y una vez que ya pegaste todo el blokc
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 824.318
+# timestamp[end] = 832.354
+1	pero	spa
+2	ohcon	nhi
+3	mochihchiuah,	nhi
+4	una	spa
+5	vez	spa
+6	yoticpipichoh	nhi
+7	nochi	nhi
+8	nen	nhi
+9	block	spa
+
+# sent_id = 1807
+# text = o titl o tabique pues nican casi ah... raro in tla se cali quitlalilia cinturón cinturón motlalilia
+# text[orig] = o titl o tabique pues nikan casi rraro tla se kali ki tlalilian cinturon cinturon mu tlalilia
+# text[spa] = o piedra o tabique pues aki casi es muy rraro si a una casa  le ponencinturon, se le pone cinturon
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 832.92
+# timestamp[end] = 842.774
+1	o	spa
+2	titl	nhi
+3	o	spa
+4	tabique	spa
+5	pues	spa
+6	nican	nhi
+7	casi	spa
+8	ah...	intj
+9	raro	spa
+10	in	nhi
+11	tla	nhi
+12	se	nhi
+13	cali	nhi
+14	quitlalilia	nhi
+15	cinturón	spa
+16	cinturón	spa
+17	motlalilia	nhi
+
+# sent_id = 1808
+# text = a uno veinte de altura den motrabe, cuando yotictlamico ica in cimiento ompa peua in block ticpipichoa
+# text[orig] = a uno veinte de altura den mu trabe, cuando yu tik tlamiko ihuan simiento umpa  pehuan blok tik pipichuhua
+# text[spa] = a uno veinte de alttura de tu trabe, donde ya terminaste los cimientos ahi empieza el blokc la pegas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 843.634
+# timestamp[end] = 852.27
+1	a	spa
+2	uno	spa
+3	veinte	spa
+4	de	spa
+5	altura	spa
+6	den	mixed
+7	motrabe,	mixed
+8	cuando	spa
+9	yotictlamico	nhi
+10	ica	nhi
+11	in	nhi
+12	cimiento	spa
+13	ompa	nhi
+14	peua	nhi
+15	in	nhi
+16	block	spa
+17	ticpipichoa	nhi
+
+# sent_id = 1809
+# text = cinco, seis hiladas de block uan ompa yi tictlatiuilia maitoca cinturón yen tlen nochi tla ocsipa tlalpia
+# text[orig] = cinco, seis hiladas de blok huan umpa yi tik tlatihuilia mu ituka cinturon yentlen nuchi tla oksipa tlalpia
+# text[spa] = cinco o seis hiladas de blokc y ahi ya le tiras ese que se llama conturon es que que otra vez amarra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 852.734
+# timestamp[end] = 862.489
+1	cinco,	spa
+2	seis	spa
+3	hiladas	spa
+4	de	spa
+5	block	spa
+6	uan	nhi
+7	ompa	nhi
+8	yi	nhi
+9	tictlatiuilia	nhi
+10	maitoca	nhi
+11	cinturón	spa
+12	yen	nhi
+13	tlen	nhi
+14	nochi	nhi
+15	tla	nhi
+16	ocsipa	nhi
+17	tlalpia	nhi
+
+# sent_id = 1810
+# text = de lado a lado nochi alrededor entre muros tlalpia
+# text[orig] = de lado a lado nuchi alrededor entre muros tlalpia
+# text[spa] = de lado a lado, todo alrededor, amarra entre muros
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 863.173
+# timestamp[end] = 868.128
+1	de	spa
+2	lado	spa
+3	a	spa
+4	lado	spa
+5	nochi	nhi
+6	alrededor	spa
+7	entre	spa
+8	muros	spa
+9	tlalpia	nhi
+
+# sent_id = 1811
+# text = para ohcon amo cah cuarteaduras de neneh den cali o amo, amo venceros o amo tlen pero como tehuan nican
+# text[orig] = para ujkon amo kah cuarteaduras de nenen den kali o amo, amo venceros o amo tlen pero como tejuan nika
+# text[spa] = para que asi no hay cuarteaduras de este de la casa o no, no se vence o nada pero como nosotros aca
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 868.863
+# timestamp[end] = 876.691
+1	para	spa
+2	ohcon	nhi
+3	amo	nhi
+4	cah	nhi
+5	cuarteaduras	spa
+6	de	spa
+7	neneh	nhi
+8	den	mixed
+9	cali	nhi
+10	o	spa
+11	amo,	nhi
+12	amo	nhi
+13	venceros	mixed
+14	o	spa
+15	amo	nhi
+16	tlen	nhi
+17	pero	spa
+18	como	spa
+19	tehuan	nhi
+20	nican	nhi
+
+# sent_id = 1812
+# text = nican terreno macizo non simi quichiuah campa catqui simi neneh
+# text[orig] = nikan terreno maciso nun simi ki chihuah kampa katki simi neneh
+# text[spa] = aqui el terreno es masiso, eso lo hacen mas  donde es muy este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 877.561
+# timestamp[end] = 882.851
+1	nican	nhi
+2	terreno	spa
+3	macizo	spa
+4	non	nhi
+5	simi	nhi
+6	quichiuah	nhi
+7	campa	nhi
+8	catqui	nhi
+9	simi	nhi
+10	neneh	nhi
+
+# sent_id = 1813
+# text = campa, ándale uan, uan simi cah lugares campa tlen papatzcalaqui quihtoah cah atl tlatzintlan
+# text[orig] = kampa, andale huan,huan simi kah lugares campa tlampapatskalaki kihtuhuan kah atl  tlatsintlan
+# text[spa] = donde, andale y, y es muy, hay lugares donde  se unde la tierra dicen que hay agua abajo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 884.196
+# timestamp[end] = 890.516
+1	campa,	nhi
+2	ándale	spa
+3	uan,	nhi
+4	uan	nhi
+5	simi	nhi
+6	cah	nhi
+7	lugares	spa
+8	campa	nhi
+9	tlen	nhi
+10	papatzcalaqui	nhi
+11	quihtoah	nhi
+12	cah	nhi
+13	atl	nhi
+14	tlatzintlan	nhi
+
+# sent_id = 1814
+# text = tons non mochiua para amo ma... amo uitzi in cali pero tehuan nican casi amo amo tlalolini casi amo este
+# text[orig] = tons nun mu chihua para amo mu, amo huitsi kali, pero tejuan nikan casi amo amo tlal ulini kasi amo este
+# text[spa] = entonces eso se hace para que no, no se caiga la casa, pero nosotros aca casi no no hay temblores casi no este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 891.258
+# timestamp[end] = 899.34
+1	tons	spa
+2	non	nhi
+3	mochiua	nhi
+4	para	spa
+5	amo	nhi
+6	ma...	nhi
+7	amo	nhi
+8	uitzi	nhi
+9	in	nhi
+10	cali	nhi
+11	pero	spa
+12	tehuan	nhi
+13	nican	nhi
+14	casi	spa
+15	amo	nhi
+16	amo	nhi
+17	tlalolini	nhi
+18	casi	spa
+19	amo	nhi
+20	este	spa
+
+# sent_id = 1815
+# text = ayamo cachi sucederoa non cosas quemeh itich ciudad
+# text[orig] = ayamo kachi sucederuhua nun cosas kemeh itich ciudad
+# text[spa] = todavia no suceden mucho esas cosas como en la ciudad
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 900.282
+# timestamp[end] = 903.164
+1	ayamo	nhi
+2	cachi	nhi
+3	sucederoa	mixed
+4	non	nhi
+5	cosas	spa
+6	quemeh	adapted-spanish-loan
+7	itich	nhi
+8	ciudad	spa
+
+# sent_id = 1816
+# text = uan neneh
+# text[orig] = huan neneh
+# text[spa] = y este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 904.669
+# timestamp[end] = 905.36
+1	uan	nhi
+2	neneh	nhi
+
+# sent_id = 1817
+# text = pues entonces casi raro realmente nican amaquin quitlalilia calcinturón sa yen trabe tlatzintlan
+# text[orig] = pues entonces casi rraro realmente nikan amakin ki tlalilia  calcinturon sa yen trabe tlatsintlan
+# text[spa] = pues entonces casi es rraro, realmente aqui nadien le pone cinturon solo la trabe abajo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 907.067
+# timestamp[end] = 913.248
+1	pues	spa
+2	entonces	spa
+3	casi	spa
+4	raro	spa
+5	realmente	spa
+6	nican	nhi
+7	amaquin	nhi
+8	quitlalilia	nhi
+9	calcinturón	mixed
+10	sa	nhi
+11	yen	nhi
+12	trabe	spa
+13	tlatzintlan	nhi
+
+# sent_id = 1818
+# text = uan in tlacpac ocsipa campa yoticterminarotoh once hiladas de block ya sectlatiuilia cadena
+# text[orig] = huan tlakpak oksipa campa yu tik terminarutoh once hiladas de blok ya sek tlatihuilia cadena
+# text[spa] = y arriba  otra vez donde ya se terminaron las once hiladas de blokc ya se le avienta la cadena
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 914.306
+# timestamp[end] = 923.006
+1	uan	nhi
+2	in	nhi
+3	tlacpac	nhi
+4	ocsipa	nhi
+5	campa	nhi
+6	yoticterminarotoh	mixed
+7	once	spa
+8	hiladas	spa
+9	de	spa
+10	block	spa
+11	ya	spa
+12	sectlatiuilia	nhi
+13	cadena	spa
+
+# sent_id = 1819
+# text = ocsipa lo mismo nomas que in ompa depende tla san para dos pisos tiyoueh in ica in neneh in cali
+# text[orig] = oksipa lo mismo nomas que nunpa depende tla san para dos pisos ti yuhueh ikan nenen kali
+# text[spa] = otra vez lo mismo nadamas que ahi depende si es solo vamos por dos pisos para la casa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 923.485
+# timestamp[end] = 929.994
+1	ocsipa	nhi
+2	lo	spa
+3	mismo	spa
+4	nomas	spa
+5	que	spa
+6	in	nhi
+7	ompa	nhi
+8	depende	spa
+9	tla	nhi
+10	san	nhi
+11	para	spa
+12	dos	spa
+13	pisos	spa
+14	tiyoueh	nhi
+15	in	nhi
+16	ica	nhi
+17	in	nhi
+18	neneh	nhi
+19	in	nhi
+20	cali	nhi
+
+# sent_id = 1820
+# text = pues se cadenas... cadenas o estribos san de diez por veinticinco, mocolaroa a veintitres o a veintidos
+# text[orig] = pues se cadenas, cadenas o estribos san de diez por veinticinco, mu colaruhua a veinti tres o a veinti dos
+# text[spa] = pues unas cadenas, cadenas o estribos solo de diez por veinticinco, se cuela de veintitres o veintidos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 930.689
+# timestamp[end] = 939.58
+1	pues	spa
+2	se	nhi
+3	cadenas...	spa
+4	cadenas	spa
+5	o	spa
+6	estribos	spa
+7	san	nhi
+8	de	spa
+9	diez	spa
+10	por	spa
+11	veinticinco,	spa
+12	mocolaroa	mixed
+13	a	spa
+14	veintitres	spa
+15	o	spa
+16	a	spa
+17	veintidos	spa
+
+# sent_id = 1821
+# text = mocaua descubierto barillas den tlacpac para loza motlatiuilia
+# text[orig] = mu kahua descubierto barillas den tlakpak para losa mu tlatihuilia
+# text[spa] = se quedan descubiertas las barillas de arriba para  que se le ponga la loza
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 940.42
+# timestamp[end] = 945.311
+1	mocaua	nhi
+2	descubierto	spa
+3	barillas	spa
+4	den	mixed
+5	tlacpac	nhi
+6	para	spa
+7	loza	spa
+8	motlatiuilia	nhi
+
+# sent_id = 1822
+# text = uehcaua, noual nicniqui quemeh ya que timononotztoqueh ich in nin puntos mamoaclararo porque miac tocniuan neh niccaquilia tlen neneh
+# text[orig] = huejkahua, nuhual nik niki kemeh ya  que ti mu nunutstukeh ichi nin puntos mu maclararo porque miak tuknihuan neh nik kakilia tlen nenen
+# text[spa] = si tarda, tambien quiero como, ya que estamos hablando de este punto, que se aclare porque muchas personas yo les escucho a los que este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 951.837
+# timestamp[end] = 961.765
+1	uehcaua,	nhi
+2	noual	adapted-spanish-loan
+3	nicniqui	nhi
+4	quemeh	adapted-spanish-loan
+5	ya	spa
+6	que	spa
+7	timononotztoqueh	nhi
+8	ich	nhi
+9	in	nhi
+10	nin	nhi
+11	puntos	spa
+12	mamoaclararo	mixed
+13	porque	spa
+14	miac	nhi
+15	tocniuan	nhi
+16	neh	nhi
+17	niccaquilia	nhi
+18	tlen	nhi
+19	neneh	nhi
+
+# sent_id = 1823
+# text = nican cachi yen tlen yi chicauaqueh quihtouah, que bueno que, que oticchihchiu mocal de loza ohcon
+# text[orig] = nikan kachi yen tlen yi chikahuaken kihtuhuan, que bueno que, que u tik chihchiuh mu kal de losa ujkon
+# text[spa] = nan
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 962.157
+# timestamp[end] = 971.093
+1	nican	nhi
+2	cachi	nhi
+3	yen	nhi
+4	tlen	nhi
+5	yi	nhi
+6	chicauaqueh	nhi
+7	quihtouah,	nhi
+8	que	spa
+9	bueno	spa
+10	que,	spa
+11	que	spa
+12	oticchihchiu	nhi
+13	mocal	spa
+14	de	spa
+15	loza	spa
+16	ohcon	nhi
+
+# sent_id = 1824
+# text = para siempre isqui pero amo milauac noual no san quipiya icaducidad noual quipiya
+# text[orig] = para siempre iski, pero amo milahuak, nu hual nu san ki pia y caducidad nuhual ki pia
+# text[spa] = va estar para siempre, pero no es cierto, tambien tiene su caducidad, tambien tiene
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 971.773
+# timestamp[end] = 980.618
+1	para	spa
+2	siempre	spa
+3	isqui	nhi
+4	pero	spa
+5	amo	nhi
+6	milauac	nhi
+7	noual	adapted-spanish-loan
+8	no	nhi
+9	san	nhi
+10	quipiya	nhi
+11	icaducidad	mixed
+12	noual	adapted-spanish-loan
+13	quipiya	nhi
+
+# sent_id = 1825
+# text = cierto se lamina se tejahcal porque secmouilia in ehecatl ualas uan yocahcoc o quemeh opalanqueh
+# text[orig] = cierto, se lamina se tejahkal porque sek muhuilia ejekatl hualas huan yu kahkuhk o kumeh u palankeh
+# text[spa] = cierto, una lamina una casa de teja porquetenemos miedo que venga el aire  y que lo levante o los palos ya se pudrieron
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 981.493
+# timestamp[end] = 990.765
+1	cierto	spa
+2	se	nhi
+3	lamina	spa
+4	se	nhi
+5	tejahcal	mixed
+6	porque	spa
+7	secmouilia	nhi
+8	in	nhi
+9	ehecatl	nhi
+10	ualas	nhi
+11	uan	nhi
+12	yocahcoc	nhi
+13	o	spa
+14	quemeh	adapted-spanish-loan
+15	opalanqueh	nhi
+
+# sent_id = 1826
+# text = quinpatilisqueh pero quipatlah, pero se loza pues noual llegaroa momento cuando
+# text[orig] = kin patiliskeh pero ki patlah, pero se losa pues nuhual yegaruhua momento cuando
+# text[spa] = les van a cambiar pero lo cambian pero una loza  pues tambien llega el momento cuando
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 991.332
+# timestamp[end] = 999.787
+1	quinpatilisqueh	nhi
+2	pero	spa
+3	quipatlah,	nhi
+4	pero	spa
+5	se	nhi
+6	loza	spa
+7	pues	spa
+8	noual	adapted-spanish-loan
+9	llegaroa	mixed
+10	momento	spa
+11	cuando	spa
+
+# sent_id = 1827
+# text = uilica qui... quitlatiuiah porque, porque ya, ya panoa este acmo cualtia
+# text[orig] = huilika ki, ki tlatihuia porque, porque ya, ya panuhua este akmo kualtiya
+# text[spa] = lo tienen que, que tirar porque, porque ya, ya paso, este ya no sirve
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1002.263
+# timestamp[end] = 1009.972
+1	uilica	nhi
+2	qui...	nhi
+3	quitlatiuiah	nhi
+4	porque,	spa
+5	porque	spa
+6	ya,	spa
+7	ya	spa
+8	panoa	nhi
+9	este	spa
+10	acmo	nhi
+11	cualtia	nhi
+
+# sent_id = 1828
+# text = ah yomo... yopeu chihcoliui xa tiquita seyoui tlaueyican miac campa quintlatiuihtoque in calimeh uan ocsipa quinpeualtiyah nuevo
+# text[orig] = yu mu, yu peuh chihkulihui xa ti kita se yuhui tlahueyikan miak campa kin tlatihuihtuken kalimeh huan oksipa kin pehualtiyah nuevo
+# text[spa] = ya se, ya empezo a a doblarse, alomejor ves cuando vamos a lugares grandes hay mucho donde estan tirando las casas y otra vez las inician de nuevo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1011.04
+# timestamp[end] = 1019.64
+1	ah	intj
+2	yomo...	nhi
+3	yopeu	nhi
+4	chihcoliui	nhi
+5	xa	nhi
+6	tiquita	nhi
+7	seyoui	nhi
+8	tlaueyican	nhi
+9	miac	nhi
+10	campa	nhi
+11	quintlatiuihtoque	nhi
+12	in	nhi
+13	calimeh	nhi
+14	uan	nhi
+15	ocsipa	nhi
+16	quinpeualtiyah	nhi
+17	nuevo	spa
+
+# sent_id = 1829
+# text = pues yeh yen non san tehuan mas o semochante de loza semochantia de loza
+# text[orig] = pues yeh yen nun san tejuan mas u se mu chante de losa se mu chantia de losa
+# text[spa] = pues es eso o aunque nosotros que hicimos nuestra casa de loza, contruimos nuestra casa de loza
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1020.404
+# timestamp[end] = 1024.658
+1	pues	spa
+2	yeh	nhi
+3	yen	nhi
+4	non	nhi
+5	san	nhi
+6	tehuan	nhi
+7	mas	spa
+8	o	spa
+9	semochante	nhi
+10	de	spa
+11	loza	spa
+12	semochantia	nhi
+13	de	spa
+14	loza	spa
+
+# sent_id = 1830
+# text = con el paso de los años y años uilica quidemolerosqueh para occipa quiyectlalisqueh
+# text[orig] = con el paso de los años y años huilika ki demoleruskeh para uksipa ki yektlaliskeh
+# text[spa] = con el paso de los años y año lo tienen que demoler para  otravez acomodarlo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1025.788
+# timestamp[end] = 1032.961
+1	con	spa
+2	el	spa
+3	paso	spa
+4	de	spa
+5	los	spa
+6	años	spa
+7	y	spa
+8	años	spa
+9	uilica	nhi
+10	quidemolerosqueh	mixed
+11	para	spa
+12	occipa	nhi
+13	quiyectlalisqueh	nhi
+
+# sent_id = 1831
+# text = pero niquihtoa pues, a veces tlen queh amo secquiyecmatilia quihtoah o para nochin vida para todo para siempre amo milauac
+# text[orig] = pero ni kihtuhua, aveces tlen keh amo sek ki yek matilia kihtuhuan u para nuchin vida para todo para siempre amo milahuak
+# text[spa] = pero digo, pues aveces los que no le sabemos bien dicen que para toda la vida, para todo para siempre, no es cierto
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1034.39
+# timestamp[end] = 1043.499
+1	pero	spa
+2	niquihtoa	nhi
+3	pues,	spa
+4	a	spa
+5	veces	spa
+6	tlen	nhi
+7	queh	adapted-spanish-loan
+8	amo	nhi
+9	secquiyecmatilia	nhi
+10	quihtoah	nhi
+11	o	spa
+12	para	spa
+13	nochin	nhi
+14	vida	spa
+15	para	spa
+16	todo	spa
+17	para	spa
+18	siempre	spa
+19	amo	nhi
+20	milauac	nhi
+
+# sent_id = 1832
+# text = quemah cachi uehcaua, es muy cierto nican amo timopreocuparohtos o yopalanqueh in comeh tipatlas y ya tlachocholocatoc in teja
+# text[orig] = kemah cachi huejkahua, es muy cierto nikan amo ti mu preocuparuhtos o yu palanken cumeh ti patlas y ya tla chuchulukatok in teja
+# text[spa] = si dura mas, es muy cierto, aquii no te vas a estar preocupando de que ya se pudrieron los palos lo vas a cambiar ya esta goteando la teja
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1044.743
+# timestamp[end] = 1054.016
+1	quemah	nhi
+2	cachi	nhi
+3	uehcaua,	nhi
+4	es	spa
+5	muy	spa
+6	cierto	spa
+7	nican	nhi
+8	amo	nhi
+9	timopreocuparohtos	mixed
+10	o	spa
+11	yopalanqueh	nhi
+12	in	nhi
+13	comeh	nhi
+14	tipatlas	nhi
+15	y	spa
+16	ya	spa
+17	tlachocholocatoc	nhi
+18	in	nhi
+19	teja	spa
+
+# sent_id = 1833
+# text = pero amo pero solamente pues mo... mocaua cuali den principio porque in tla amo cuali mocaua amo quipiya caso que mai de loza
+# text[orig] = pero amo pero solamente pues mu mu kahua kuali den principio porquen tla amo kuali mu kahua amo ki pia kaso ke mui de losa
+# text[spa] = pero no, pero solamente pues se queda bien del principio porque si no queda bien no tiene caso que sea de loza
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1054.84
+# timestamp[end] = 1063.94
+1	pero	spa
+2	amo	nhi
+3	pero	spa
+4	solamente	spa
+5	pues	spa
+6	mo...	nhi
+7	mocaua	nhi
+8	cuali	nhi
+9	den	mixed
+10	principio	spa
+11	porque	spa
+12	in	nhi
+13	tla	nhi
+14	amo	nhi
+15	cuali	nhi
+16	mocaua	nhi
+17	amo	nhi
+18	quipiya	nhi
+19	caso	spa
+20	que	spa
+21	mai	nhi
+22	de	spa
+23	loza	spa
+
+# sent_id = 1834
+# text = uan tla acalactoc
+# text[orig] = huan tla akalaktuk
+# text[spa] = y este entrando agua
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1065.057
+# timestamp[end] = 1066.184
+1	uan	nhi
+2	tla	nhi
+3	acalactoc	nhi
+
+# sent_id = 1835
+# text = es que cuando non sucederoa
+# text[orig] = esque cuando nun sucederuhua
+# text[spa] = esque cuando eso pasa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1069.353
+# timestamp[end] = 1072.934
+1	es	spa
+2	que	spa
+3	cuando	spa
+4	non	nhi
+5	sucederoa	mixed
+
+# sent_id = 1836
+# text = casi casi por lo regular yen cuando motlalia loza motlacolaroa
+# text[orig] = casi casi por lo regular yen cuando mu tlalia losa mu tlacolaruhua
+# text[spa] = casi casi por lo regular, es cuando se pone la loza cuando se cuela
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1074.256
+# timestamp[end] = 1080.583
+1	casi	spa
+2	casi	spa
+3	por	spa
+4	lo	spa
+5	regular	spa
+6	yen	nhi
+7	cuando	spa
+8	motlalia	nhi
+9	loza	spa
+10	motlacolaroa	mixed
+
+# sent_id = 1837
+# text = uan tonatoc chicauac uan entonces cuando motlacolaroa mientras tiquitineh quitlehcoltihtoqueh neneh revoltura
+# text[orig] = huan tunatok chikahuak huan entonces cuando mu tla colaruhua mientras tikitineh ki tlehkultihtuken nenen revoltura
+# text[spa] = y esta haciendo mucho calor y entonces cuando se cuela mientras los trabajadores suben este la revoltura
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1081.6
+# timestamp[end] = 1090.128
+1	uan	nhi
+2	tonatoc	nhi
+3	chicauac	nhi
+4	uan	nhi
+5	entonces	spa
+6	cuando	spa
+7	motlacolaroa	mixed
+8	mientras	spa
+9	tiquitineh	nhi
+10	quitlehcoltihtoqueh	nhi
+11	neneh	nhi
+12	revoltura	spa
+
+# sent_id = 1838
+# text = moniqui mocuidarohtas porque in campa yoseualpeuato ya peua chihchicaui ya tehuan secteneua ya moprestaroua ica in pinson
+# text[orig] = mu niki mu cuidaruhtas´porquen kampa yu se hual pehuato ya pehua chihchikahui ya tejuan sek tenehua ya mu prestaruhua ikan pinson
+# text[spa] = se necesita que se vaya cuidando porque donde ya se empezo ya empieza a endurecerse nosotros le nombramos se presta con el pinson
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1090.959
+# timestamp[end] = 1099.396
+1	moniqui	nhi
+2	mocuidarohtas	mixed
+3	porque	spa
+4	in	nhi
+5	campa	nhi
+6	yoseualpeuato	nhi
+7	ya	spa
+8	peua	nhi
+9	chihchicaui	nhi
+10	ya	spa
+11	tehuan	nhi
+12	secteneua	nhi
+13	ya	spa
+14	moprestaroua	mixed
+15	ica	nhi
+16	in	nhi
+17	pinson	spa
+
+# sent_id = 1839
+# text = entonces tla ya peua ohcon de una vez ya maì ocse persona tlen yi cuali mahmagatiu para macompactaro
+# text[orig] = entonces tla ya pehua ujkon de una vez ya mui okse persona tlen yi kual mahmatiuh para mu compactaro
+# text[spa] = entonces si ya empieza asi de una vez ya otra  persona le va pegando para que se compacte
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1100.147
+# timestamp[end] = 1107.12
+1	entonces	spa
+2	tla	nhi
+3	ya	spa
+4	peua	nhi
+5	ohcon	nhi
+6	de	spa
+7	una	spa
+8	vez	spa
+9	ya	spa
+10	maì	nhi
+11	ocse	nhi
+12	persona	spa
+13	tlen	nhi
+14	yi	nhi
+15	cuali	nhi
+16	mahmagatiu	nhi
+17	para	spa
+18	macompactaro	mixed
+
+# sent_id = 1840
+# text = porque cuando tonatoc chicauac
+# text[orig] = porquen cuando tonatok chikahuak
+# text[spa] = porque cuando hace mucho calor
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1107.884
+# timestamp[end] = 1109.712
+1	porque	spa
+2	cuando	spa
+3	tonatoc	nhi
+4	chicauac	nhi
+
+# sent_id = 1841
+# text = porque in cuando tonatoc chicauac, uan acmo secchiuas cuenta nochi tlatlapaca
+# text[orig] = porquen cuando tunatok chikahuak, hua akmo sek chihuas kuenta nuchi tlatlapaka
+# text[spa] = porque cuando hace mucho calor y no le hacemos caso todo se cuartea
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1111.622
+# timestamp[end] = 1117.822
+1	porque	spa
+2	in	nhi
+3	cuando	spa
+4	tonatoc	nhi
+5	chicauac,	nhi
+6	uan	nhi
+7	acmo	nhi
+8	secchiuas	nhi
+9	cuenta	spa
+10	nochi	nhi
+11	tlatlapaca	nhi
+
+# sent_id = 1842
+# text = nochi tlatlapaca uan despues una vez yotlatlapacac mas ocmoseccohtinto
+# text[orig] = nuchi tlatlapaka huan despues una vez yu tlatlapakak mas uk mu sek kuhtinto
+# text[spa] = todo se cuartea y despues una vez de que ya se cuarteo aunque le estemos golpeando
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1118.061
+# timestamp[end] = 1124.161
+1	nochi	nhi
+2	tlatlapaca	nhi
+3	uan	nhi
+4	despues	spa
+5	una	spa
+6	vez	spa
+7	yotlatlapacac	nhi
+8	mas	spa
+9	ocmoseccohtinto	nhi
+
+# sent_id = 1843
+# text = acmo acmo moquitzquia no ya mocaua ohcon para siempre amo uitzis
+# text[orig] = akmo akmo mu kitskia nu ya mu kahua ujkon para siempre, amo huitsis
+# text[spa] = ya no, ya no se agarra eso ya se queda asi para siempre, no se cae
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1124.986
+# timestamp[end] = 1130.895
+1	acmo	nhi
+2	acmo	nhi
+3	moquitzquia	nhi
+4	no	nhi
+5	ya	spa
+6	mocaua	nhi
+7	ohcon	nhi
+8	para	spa
+9	siempre	spa
+10	amo	nhi
+11	uitzis	nhi
+
+# sent_id = 1844
+# text = pero tla acalaqui amo uitzis porque barillas tlaquitzquihtoqueh tlalpihtoqueh yehuan
+# text[orig] = pero tla akalaki amo huitsis porque barillas tlakitskihtuken tlalpihtuken yejuan
+# text[spa] = pero entra  el agua, no se cae porque las barillas estan agarrando, amarrando ellas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1131.342
+# timestamp[end] = 1136.961
+1	pero	spa
+2	tla	spa
+3	acalaqui	nhi
+4	amo	nhi
+5	uitzis	nhi
+6	porque	spa
+7	barillas	spa
+8	tlaquitzquihtoqueh	nhi
+9	tlalpihtoqueh	nhi
+10	yehuan	nhi
+
+# sent_id = 1845
+# text = pero acmo secxauanilis atl pues tla chocholocas
+# text[orig] = pero akmo sek xahuanilis atl pues tla chuchulukas
+# text[spa] = pero ya no, si le regamos agua pues va a gotear
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1137.867
+# timestamp[end] = 1141.167
+1	pero	spa
+2	acmo	nhi
+3	secxauanilis	nhi
+4	atl	nhi
+5	pues	spa
+6	tla	nhi
+7	chocholocas	nhi
+
+# sent_id = 1846
+# text = quemah
+# text[orig] = kemah
+# text[spa] = si
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1150.583
+# timestamp[end] = 1151.156
+1	quemah	nhi
+
+# sent_id = 1847
+# text = la que pasa mitziluis tla chocholoca itich focos
+# text[orig] = lo que pasa mits iljuis tla chochuluka itich focos
+# text[spa] = lo que pasa, te voy a decir si esta goteando en los focos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1166.31
+# timestamp[end] = 1170.564
+1	la	spa
+2	que	spa
+3	pasa	spa
+4	mitziluis	nhi
+5	tla	nhi
+6	chocholoca	nhi
+7	itich	nhi
+8	focos	spa
+
+# sent_id = 1848
+# text = cateh albañiles in tlen, neh no, timati nican oticchiuqueh tocal nican oticchiucah in tocal omitlan ocse ticchiutoque in ompa omitlan
+# text[orig] = kateh albañiles tlen, neh nu, ti mati nikan u tik chiujkeh tu kal nikan chiujkan tukal omitlan okse tik chiuhtuken umpa omitlan
+# text[spa] = ay albañiles que, yo tambien, sabes que aqui hicimos nuestra casa, habiamos hecho nuestra casa en omitlan, estamos haciendo otra  ahi en omitlan
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1171.866
+# timestamp[end] = 1181.466
+1	cateh	nhi
+2	albañiles	spa
+3	in	nhi
+4	tlen,	nhi
+5	neh	nhi
+6	no,	nhi
+7	timati	nhi
+8	nican	nhi
+9	oticchiuqueh	nhi
+10	tocal	nhi
+11	nican	nhi
+12	oticchiucah	nhi
+13	in	nhi
+14	tocal	nhi
+15	omitlan	NE-Place
+16	ocse	nhi
+17	ticchiutoque	nhi
+18	in	nhi
+19	ompa	nhi
+20	omitlan	NE-Place
+
+# sent_id = 1849
+# text = xiquita neh nofocos in quen niquintlalia campa quisaqui in chalup... este in cable quintzin caja tzohtzocotzi
+# text[orig] = xi ki tan nu focos ken ni kin tlalia kampa kisakin chalupa, este cable kintsin caja tsujtsukutsi
+# text[spa] = ve , yo mis focos lo que pongo donde viene a salir la chalupa, este el cable la caja esta asi de chiquita
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1182.74
+# timestamp[end] = 1191.185
+1	xiquita	nhi
+2	neh	nhi
+3	nofocos	mixed
+4	in	nhi
+5	quen	nhi
+6	niquintlalia	nhi
+7	campa	nhi
+8	quisaqui	nhi
+9	in	nhi
+10	chalup...	spa
+11	este	spa
+12	in	nhi
+13	cable	spa
+14	quintzin	nhi
+15	caja	spa
+16	tzohtzocotzi	nhi
+
+# sent_id = 1850
+# text = setiquiti diferente, uan neh niquita nocniu neneh, se nocniu oc cachi nocniu Jonathan yeh lozas
+# text[orig] = se tikiti diferente, huan ne ni kita nukniuh nenen, se nukniuh o kachi nuknuih jonathan yej losas
+# text[spa] = trabajamos diferente, y yo veo que mi hermano este uno de mis hermanos, mas mi hermano jonathan, el las lozas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1192.195
+# timestamp[end] = 1200.395
+1	setiquiti	nhi
+2	diferente,	spa
+3	uan	nhi
+4	neh	nhi
+5	niquita	nhi
+6	nocniu	nhi
+7	neneh,	nhi
+8	se	nhi
+9	nocniu	nhi
+10	oc	nhi
+11	cachi	nhi
+12	nocniu	nhi
+13	Jonathan	NE-Person
+14	yeh	nhi
+15	lozas	spa
+
+# sent_id = 1851
+# text = quinchiua quintlalia botes itoca botes uehcapantiqueh ihquin
+# text[orig] = kin chihua, kin tlalia botes i tuka botes huejkapantikeh ijkin
+# text[spa] = las hace, les pone botes, se llaman botes que son asi de altos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1201.684
+# timestamp[end] = 1206.902
+1	quinchiua	nhi
+2	quintlalia	nhi
+3	botes	spa
+4	itoca	nhi
+5	botes	spa
+6	uehcapantiqueh	nhi
+7	ihquin	nhi
+
+# sent_id = 1852
+# text = tlen quihtosniqui non bote uehcapantic diez centimetros o doce tlen quihtosniqui, que quisaqui nican tlatzintla
+# text[orig] = tlen kijtusniki nun bote huejkapantik diez centimetros  o doce tlen kigtusniki, ke kisaki nikan tlatsintla
+# text[spa] = que quiere decir ese bote alto diez centimetros o doce que quiere decir, que va salir aqui abajo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1208.556
+# timestamp[end] = 1218.32
+1	tlen	nhi
+2	quihtosniqui	nhi
+3	non	nhi
+4	bote	spa
+5	uehcapantic	nhi
+6	diez	spa
+7	centimetros	spa
+8	o	spa
+9	doce	spa
+10	tlen	nhi
+11	quihtosniqui,	nhi
+12	que	spa
+13	quisaqui	nhi
+14	nican	nhi
+15	tlatzintla	nhi
+
+# sent_id = 1853
+# text = uan quisati in tlacpac
+# text[orig] = huan kisatin tlakpak
+# text[spa] = y va a salir arriba
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1218.757
+# timestamp[end] = 1220.347
+1	uan	nhi
+2	quisati	nhi
+3	in	nhi
+4	tlacpac	nhi
+
+# sent_id = 1854
+# text = amo quipantzacua uan tla quipantzacua se centímetro
+# text[orig] = amo ki pan tsakua huan tla ki pan tsakua se  centimetro
+# text[spa] = no lo tapa y si lo tapa un centimetro
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1222.199
+# timestamp[end] = 1226.526
+1	amo	nhi
+2	quipantzacua	nhi
+3	uan	nhi
+4	tla	nhi
+5	quipantzacua	nhi
+6	se	nhi
+7	centímetro	spa
+
+# sent_id = 1855
+# text = tzocopintzin entonces neh amo, neh ayic nechpactia non tipo de cosas
+# text[orig] = tsokopintsin entonces ne amo, neh ayik  nech paktia nun tipo de cosas
+# text[spa] = poquito, entonces a mi no me gusta, a  mi nunca me gusta ese tipo de cosas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1227.456
+# timestamp[end] = 1232.539
+1	tzocopintzin	nhi
+2	entonces	spa
+3	neh	nhi
+4	amo,	nhi
+5	neh	nhi
+6	ayic	nhi
+7	nechpactia	nhi
+8	non	nhi
+9	tipo	spa
+10	de	spa
+11	cosas	spa
+
+# sent_id = 1856
+# text = non mo... quincueh campa la verdad temi tomen ricohyotl uan ohcon quemeh in quintlalihtiue uan niman yi quiterminarohtiueh nochi
+# text[orig] = nun mu, kinkueh kampa la  verdad temi tumen ricuhyutl huan ujkon kemen kin tlalihtihuen huan niman yi ki  terminaruhtihuen nuchi
+# text[spa] = eso los ocupan donde la verdad hay mucho dinero, ricos y asi como les van poniendo y luego lo van terminando todo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1233.416
+# timestamp[end] = 1242.598
+1	non	nhi
+2	mo...	nhi
+3	quincueh	nhi
+4	campa	nhi
+5	la	spa
+6	verdad	spa
+7	temi	nhi
+8	tomen	adapted-spanish-loan
+9	ricohyotl	mixed
+10	uan	nhi
+11	ohcon	nhi
+12	quemeh	adapted-spanish-loan
+13	in	nhi
+14	quintlalihtiue	nhi
+15	uan	nhi
+16	niman	nhi
+17	yi	mixed
+18	quiterminarohtiueh	mixed
+19	nochi	nhi
+
+# sent_id = 1857
+# text = tlamihtiueh pues ohcon quemah pero san sectlalis san porque sectlalis ohcon amo
+# text[orig] = tlamihtihuen pues ujkon kemah pero san sek tlalis san porque sek tlalis ujkon amo
+# text[spa] = lo van terminando pues asi si pero si solo se pone nadamas porque se le va a poner, asi no
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1243.439
+# timestamp[end] = 1250.458
+1	tlamihtiueh	nhi
+2	pues	spa
+3	ohcon	nhi
+4	quemah	nhi
+5	pero	spa
+6	san	nhi
+7	sectlalis	nhi
+8	san	nhi
+9	porque	spa
+10	sectlalis	nhi
+11	ohcon	nhi
+12	amo	nhi
+
+# sent_id = 1858
+# text = uan neneh pero bueno neh niquihtoa pues ompa cada quien, pero neh noforma de pensar pues
+# text[orig] = huan neneh pero bueno ne ni kihtuhua pues umpa cada quien, pero neh nu forma de pensar pues
+# text[spa] = y este, pero bueno yo digo que pues ahi cada quien, pero yo mi forma de pensar pues
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1252.657
+# timestamp[end] = 1260.539
+1	uan	nhi
+2	neneh	nhi
+3	pero	spa
+4	bueno	spa
+5	neh	nhi
+6	niquihtoa	nhi
+7	pues	spa
+8	ompa	nhi
+9	cada	spa
+10	quien,	spa
+11	pero	spa
+12	neh	nhi
+13	noforma	mixed
+14	de	spa
+15	pensar	spa
+16	pues	spa
+
+# sent_id = 1859
+# text = la mera verdad amo niquihtos o nicchiuas cali de diseño este lujosas y todo amo
+# text[orig] = la mera verdad amo ni kijtos kanan nik chihuas kali de diseño este lujosas y todo amo
+# text[spa] = le mera verdad no voy a decir que alomejor voy a hacer una casa de diseño, este lujosas y todo, no
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1261.578
+# timestamp[end] = 1269.333
+1	la	spa
+2	mera	spa
+3	verdad	spa
+4	amo	nhi
+5	niquihtos	nhi
+6	o	spa
+7	nicchiuas	nhi
+8	cali	nhi
+9	de	spa
+10	diseño	spa
+11	este	spa
+12	lujosas	spa
+13	y	spa
+14	todo	spa
+15	amo	nhi
+
+# sent_id = 1860
+# text = pero al final de todo, neneh se cali mota lujosa amo tanto porque, en partes quemah
+# text[orig] = pero al final de todo, nenen se kali muta lujosa amo tanto porque en partes kemah
+# text[spa] = pero al final de todo, este una casa se ve lujosa, no tanto porque, en partes si
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1270.169
+# timestamp[end] = 1280.096
+1	pero	spa
+2	al	spa
+3	final	spa
+4	de	spa
+5	todo,	spa
+6	neneh	nhi
+7	se	nhi
+8	cali	nhi
+9	mota	nhi
+10	lujosa	spa
+11	amo	nhi
+12	tanto	spa
+13	porque,	spa
+14	en	spa
+15	partes	spa
+16	quemah	nhi
+
+# sent_id = 1861
+# text = en partes quemah porque cateh diseñadores, pero a nivel nehuatl nican amo niquixmati se persona diseñador
+# text[orig] = en partes kemah porque kateh diseñadores deveras diseñadores, pero a nivel nejuatl nikah amo ni kixmati se persona diseñador
+# text[spa] = en partes si porque hay diseñadores deveras diseñadores, pero a nivel , yo aqui no conozco a una persona diseñador
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1280.986
+# timestamp[end] = 1290.267
+1	en	spa
+2	partes	spa
+3	quemah	nhi
+4	porque	spa
+5	cateh	nhi
+6	diseñadores,	spa
+7	pero	spa
+8	a	spa
+9	nivel	spa
+10	nehuatl	nhi
+11	nican	nhi
+12	amo	nhi
+13	niquixmati	nhi
+14	se	nhi
+15	persona	spa
+16	diseñador	spa
+
+# sent_id = 1862
+# text = lo unico in tlen quitemaca vista yeh yen tomen den patrones yehuatl non tlen quimaca lujo
+# text[orig] = lo unico tlen ki te maka vista yeh yen tumen den patrones yejuatl nun tlen ki makah lujo
+# text[spa] = lo unico que da vista, es el dinero de los patrones, eso es lo que da lujo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1291.516
+# timestamp[end] = 1299.08
+1	lo	spa
+2	unico	spa
+3	in	nhi
+4	tlen	nhi
+5	quitemaca	nhi
+6	vista	spa
+7	yeh	nhi
+8	yen	nhi
+9	tomen	adapted-spanish-loan
+10	den	mixed
+11	patrones	spa
+12	yehuatl	nhi
+13	non	nhi
+14	tlen	nhi
+15	quimaca	nhi
+16	lujo	spa
+
+# sent_id = 1863
+# text = non quemeh tehuan tlen amo secpiya pues mas osecniquisquiaya
+# text[orig] = nun kemen tejuan tlen amo u sek pia pues mas u sek nikiskiaya
+# text[spa] = eso es como nosotros, los que no tenemos pues aunque quisieramos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1300.565
+# timestamp[end] = 1307.265
+1	non	nhi
+2	quemeh	adapted-spanish-loan
+3	tehuan	nhi
+4	tlen	nhi
+5	amo	nhi
+6	secpiya	nhi
+7	pues	spa
+8	mas	spa
+9	osecniquisquiaya	nhi
+
+# sent_id = 1864
+# text = yosecualchihchiu se caltzintli uan yeh cualquier caltzintli mota cuacualtzin siempre cuando mai terminado
+# text[orig] = yu sek kual chihchiuh se kaltsintli huan yeh cualkier kaltsintli muta kuakualtsin siempre cuando mu i terminado
+# text[spa] = ya construimos una casita y cualquier casita se ve bonita siempre y cuando este terminada
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1307.97
+# timestamp[end] = 1315.289
+1	yosecualchihchiu	nhi
+2	se	nhi
+3	caltzintli	nhi
+4	uan	nhi
+5	yeh	nhi
+6	cualquier	spa
+7	caltzintli	nhi
+8	mota	nhi
+9	cuacualtzin	nhi
+10	siempre	spa
+11	cuando	spa
+12	mai	nhi
+13	terminado	nhi
+
+# sent_id = 1865
+# text = cuali, cuali pero in tla amo pues amo
+# text[orig] = kuali, kuali peron tla amo pues amo
+# text[spa] = bien, bien pero si no pues no
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1315.959
+# timestamp[end] = 1319.414
+1	cuali,	nhi
+2	cuali	nhi
+3	pero	spa
+4	in	nhi
+5	tla	nhi
+6	amo	nhi
+7	pues	spa
+8	amo	nhi
+
+# sent_id = 1866
+# text = pero neh niquihtoa pues amo nicmati, amo nidiseñador, amo pero lo basico o lo principal quemah niquixmati uan quemah nicmati quenin mochihchiua se se cali quenin quipiya de yas
+# text[orig] = pero ne ni kijtuhua pues amo nik mati, amo ni diseñador, amo pero lo basico o lo principal kemah nik ixmati huan kemah nik mati kenin mu chihchihua se se kali kenin ki pia de yas
+# text[spa] = pero yo digo, pues no se no soy diseñador no, pero lo basico lo principal  si lo conozco y si se como se construye una , una casa como tiene que ir
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1320.079
+# timestamp[end] = 1333.672
+1	pero	spa
+2	neh	nhi
+3	niquihtoa	nhi
+4	pues	nhi
+5	amo	nhi
+6	nicmati,	nhi
+7	amo	nhi
+8	nidiseñador,	mixed
+9	amo	nhi
+10	pero	spa
+11	lo	spa
+12	basico	spa
+13	o	spa
+14	lo	spa
+15	principal	spa
+16	quemah	nhi
+17	niquixmati	nhi
+18	uan	nhi
+19	quemah	nhi
+20	nicmati	nhi
+21	quenin	nhi
+22	mochihchiua	nhi
+23	se	nhi
+24	se	nhi
+25	cali	nhi
+26	quenin	nhi
+27	quipiya	nhi
+28	de	nhi
+29	yas	nhi
+
+# sent_id = 1867
+# text = y niveles quipiya de morespetaros, siqui tocniuan mas ya chicauaqueh
+# text[orig] = y niveles kenin ki pia de mu respetaros, siki tuknihuan mas ya chikahuaken
+# text[spa] = sus niveles como se tienen que respetar, unas personas aunque ya son grandes
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1334.435
+# timestamp[end] = 1340.108
+1	y	spa
+2	niveles	spa
+3	quipiya	nhi
+4	de	spa
+5	morespetaros,	mixed
+6	siqui	nhi
+7	tocniuan	nhi
+8	mas	spa
+9	ya	spa
+10	chicauaqueh	nhi
+
+# sent_id = 1868
+# text = uan tla construiroah itich... quichiuah se cali inacasco carretera itenco carretera uan quicaua cali tlaltoctoc
+# text[orig] = huan tla construiruhuan itich ki chihuan se kali i nakasku carretera itenco carretera huan ki kahua kali tlaltuktok
+# text[spa] = y construyen una carretera en, hacen una casa a un lado de la carretera, a la orilla de la carretera y dejan la casa enterrada
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1340.809
+# timestamp[end] = 1349.528
+1	uan	nhi
+2	tla	nhi
+3	construiroah	mixed
+4	itich...	nhi
+5	quichiuah	nhi
+6	se	nhi
+7	cali	nhi
+8	inacasco	nhi
+9	carretera	spa
+10	itenco	nhi
+11	carretera	spa
+12	uan	nhi
+13	quicaua	nhi
+14	cali	nhi
+15	tlaltoctoc	nhi
+
+# sent_id = 1869
+# text = se oa... oa... ihquin quen uitz carretera ihquin quicaua derechito cali uan yeh amo ohcon quipiya de isqui
+# text[orig] = se o ijkin ken huits carretera ijkin ki kahuah derechito kali huan yeh amo ujkon ki pia de iski
+# text[spa] = uno, o asi como viene la carretera, asi le dejan derechito la casa y eso no tiene que ser asi
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1350.619
+# timestamp[end] = 1359.225
+1	se	nhi
+2	oa...	nhi
+3	oa...	nhi
+4	ihquin	nhi
+5	quen	nhi
+6	uitz	nhi
+7	carretera	spa
+8	ihquin	nhi
+9	quicaua	nhi
+10	derechito	spa
+11	cali	nhi
+12	uan	nhi
+13	yeh	nhi
+14	amo	nhi
+15	ohcon	nhi
+16	quipiya	nhi
+17	de	spa
+18	isqui	nhi
+
+# sent_id = 1870
+# text = se cali itich se orilla den neneh carretera quipiya de isqui tlacpac
+# text[orig] = se kali itich se orilla den carretera ki pia de iski tlakpak
+# text[spa] = una casa a la orilla de la carretera tiene que estar arriba
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1359.774
+# timestamp[end] = 1365.202
+1	se	nhi
+2	cali	nhi
+3	itich	nhi
+4	se	nhi
+5	orilla	spa
+6	den	mixed
+7	neneh	nhi
+8	carretera	spa
+9	quipiya	nhi
+10	de	spa
+11	isqui	nhi
+12	tlacpac	nhi
+
+# sent_id = 1871
+# text = muy bajo que este o por muy mas amo mai hasta temohteh tlacpac pero mínimo se diez quince veinte centímetros
+# text[orig] = muy bajo que este o por muy mas amo mu i hasta temuhteh tlakpak pero minimo se diez quince veinte centimetros
+# text[spa] = muy bajo que este o por muy, aunque no este muy arriba pero minimo unos diez quince veinte centimetros
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1366.403
+# timestamp[end] = 1376.548
+1	muy	spa
+2	bajo	spa
+3	que	spa
+4	este	spa
+5	o	spa
+6	por	spa
+7	muy	spa
+8	mas	spa
+9	amo	nhi
+10	mai	nhi
+11	hasta	spa
+12	temohteh	nhi
+13	tlacpac	nhi
+14	pero	spa
+15	mínimo	spa
+16	se	nhi
+17	diez	spa
+18	quince	spa
+19	veinte	spa
+20	centímetros	spa
+
+# sent_id = 1872
+# text = quipiya de isqui tlacpac, tla catqui desnivel de carretera tla se lado inivel ceros pero ocse lado mai uehcapan
+# text[orig] = ki pia de iski tlakpak, tla katki desnivel de carretera tla se lado y nivel ceros pero okse lado mui huejkapan
+# text[spa] = tiene que estar arriba, si hay desnivel en la carretera, si un lado su nivel es ceros pero el otro lado que sea alto
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1377.406
+# timestamp[end] = 1386.07
+1	quipiya	nhi
+2	de	nhi
+3	isqui	nhi
+4	tlacpac,	nhi
+5	tla	nhi
+6	catqui	nhi
+7	desnivel	spa
+8	de	spa
+9	carretera	spa
+10	tla	nhi
+11	se	nhi
+12	lado	spa
+13	inivel	mixed
+14	ceros	spa
+15	pero	spa
+16	ocse	nhi
+17	lado	spa
+18	mai	nhi
+19	uehcapan	nhi
+
+# sent_id = 1873
+# text = pero in tla ticcauatiueh tlatzintla uan ixtzonic ocse lado pues cachi tlatzintla
+# text[orig] = peron tla tik cahuatihuen tlatsintla huan ixtsonik okse lado pues kachi tlatsintla
+# text[spa] = pero si lo dejamos abajo y esta delado pues en el otro lado va estar mas abajo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1387.173
+# timestamp[end] = 1391.955
+1	pero	spa
+2	in	nhi
+3	tla	nhi
+4	ticcauatiueh	nhi
+5	tlatzintla	nhi
+6	uan	nhi
+7	ixtzonic	nhi
+8	ocse	nhi
+9	lado	spa
+10	pues	spa
+11	cachi	nhi
+12	tlatzintla	nhi
+
+# sent_id = 1874
+# text = pero pues neh niquihtoa para ohcon se cali pues ohcon mochiua uan niquihtoa titl moseleccionaroa noual secpiya de sequixmatilis titl
+# text[orig] = pero pues ne ni kihtuhua para ujkon se kali pues ujkon mu chihua huan ni kijtuhua  titl mu seleccionaruhua nuhual sek pia de sek kixmatilis titl
+# text[spa] = pero pues yo digo para una casa asi, pues asi se hace y digo pues la piedra se selcciona tambien tenemos que conocer la piedra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1393.762
+# timestamp[end] = 1401.207
+1	pero	spa
+2	pues	spa
+3	neh	nhi
+4	niquihtoa	nhi
+5	para	spa
+6	ohcon	nhi
+7	se	nhi
+8	cali	nhi
+9	pues	nhi
+10	ohcon	nhi
+11	mochiua	nhi
+12	uan	nhi
+13	niquihtoa	nhi
+14	titl	nhi
+15	moseleccionaroa	mixed
+16	noual	adapted-spanish-loan
+17	secpiya	nhi
+18	de	spa
+19	sequixmatilis	nhi
+20	titl	nhi
+
+# sent_id = 1875
+# text = porque catqui titl tlen tehuan nican ticteneuah itoca tipoxactitl
+# text[orig] = porque katki titl tlen tejuan nikan tik tenehuan ituka tipuxaktitl
+# text[spa] = porque hay piedra que nosotros aqui le nombramos como piedra deforme
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1401.342
+# timestamp[end] = 1405.805
+1	porque	spa
+2	catqui	nhi
+3	titl	nhi
+4	tlen	nhi
+5	tehuan	nhi
+6	nican	nhi
+7	ticteneuah	nhi
+8	itoca	nhi
+9	tipoxactitl	nhi
+
+# sent_id = 1876
+# text = tictlalia uan san nochi neneh titiyica
+# text[orig] = tik tlalia huan san nuchi neneh titillica
+# text[spa] = le ponemos y todo este se deshase
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1406.533
+# timestamp[end] = 1409.706
+1	tictlalia	nhi
+2	uan	nhi
+3	san	nhi
+4	nochi	nhi
+5	neneh	nhi
+6	titiyica	nhi
+
+# sent_id = 1877
+# text = tiyini entonces amayic serviros non titl para cimientos porque ticualmemeltis toneladas de, nochi xitinis
+# text[orig] = tillini entonces amayik serviros nun titl para simientos porque ti kualmemehtis toneladas de , nuchi xitinis
+# text[spa] = se deshase, entonces nunca va a servir esa piedra para cimientos porque le vas a cargar toneladas de, todo se va a deshaser
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1410.35
+# timestamp[end] = 1419.786
+1	tiyini	nhi
+2	entonces	spa
+3	amayic	nhi
+4	serviros	mixed
+5	non	nhi
+6	titl	nhi
+7	para	spa
+8	cimientos	spa
+9	porque	spa
+10	ticualmemeltis	nhi
+11	toneladas	spa
+12	de,	spa
+13	nochi	nhi
+14	xitinis	nhi
+
+# sent_id = 1878
+# text = xitinis, antes oquinchiuayah yi tlen tonal oquinchiuayah calimeh ica soquitl mezcla titl
+# text[orig] = xitinis, antes u kin chihuayan yi tlen tunal u kin chihuayan kalimeh ika sokitl, mexcla titl
+# text[spa] = se va a deshacer, antes las hacian hace años hacian las casas con lodo, mezcla piedra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1421.437
+# timestamp[end] = 1428.337
+1	xitinis,	nhi
+2	antes	spa
+3	oquinchiuayah	nhi
+4	yi	nhi
+5	tlen	nhi
+6	tonal	nhi
+7	oquinchiuayah	nhi
+8	calimeh	nhi
+9	ica	nhi
+10	soquitl	nhi
+11	mezcla	spa
+12	titl	nhi
+
+# sent_id = 1879
+# text = ica soquitl
+# text[orig] = ika sokitl
+# text[spa] = con lodo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1429.495
+# timestamp[end] = 1430.377
+1	ica	nhi
+2	soquitl	nhi
+
+# sent_id = 1880
+# text = solo que neneh, non tlali especial amo cualquier tlali
+# text[orig] = solo que neneh, nun tlali especial amo cualquier tlali
+# text[spa] = solo que este, esa tierra es especial no es cualquier tierra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1432.852
+# timestamp[end] = 1437.634
+1	solo	spa
+2	que	spa
+3	neneh,	nhi
+4	non	nhi
+5	tlali	nhi
+6	especial	spa
+7	amo	nhi
+8	cualquier	spa
+9	tlali	nhi
+
+# sent_id = 1881
+# text = nixtlal exacto, yehuatl non nican tetelancingo simi catqui ic nepa campa quiteneua nixtlal
+# text[orig] = nixtlal exacto, yejuatl nun nikan tetelanzingo simi katki ik nipa campa ki tenehuan nixtlal
+# text[spa] = ..........exacto eso es lo que aqui en tetelantzingo hay mucho por alla donde le nombran tierra gris
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1439.126
+# timestamp[end] = 1445.744
+1	nixtlal	nhi
+2	exacto,	spa
+3	yehuatl	nhi
+4	non	nhi
+5	nican	nhi
+6	tetelancingo	NE-Place
+7	simi	nhi
+8	catqui	nhi
+9	ic	nhi
+10	nepa	nhi
+11	campa	nhi
+12	quiteneua	nhi
+13	nixtlal	nhi
+
+# sent_id = 1882
+# text = yehuatl in occuiyah uan o... cuali milauac cuali oquisaya non, non tlaltzintli
+# text[orig] = yejuatl uk kuiyah huan u, kuali milak kuali u kisaya nun, nun tlaltsintli
+# text[spa] = ocupaban eso y bien deveras, salia bien esa esa tierra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1447.434
+# timestamp[end] = 1453.816
+1	yehuatl	nhi
+2	in	nhi
+3	occuiyah	nhi
+4	uan	nhi
+5	o...	nhi
+6	cuali	nhi
+7	milauac	nhi
+8	cuali	nhi
+9	oquisaya	nhi
+10	non,	nhi
+11	non	nhi
+12	tlaltzintli	nhi
+
+# sent_id = 1883
+# text = teh tiquita ahorita calimeh cateh uan neneh ihcatoqueh, in tipantl ihcatoc mas ocachi yoquiyoh ca nochi xiuitl ipan acmo quipiya teja amo quipiya lamina
+# text[orig] = teh ti kita ahorita kalimeh kateh huan neneh ijkatukeh, tipantl ijkatok mas u kachi yu kiyou ka nuchi xihuitl ipan akmo ki pia teja, amo ki pia lamina
+# text[spa] = tu ves ahorita hay casas y estan paradas, la barda esta parada aunque ya llovio cuantos años en sima y no tiene teja no tiene lamina
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1454.895
+# timestamp[end] = 1465.487
+1	teh	nhi
+2	tiquita	nhi
+3	ahorita	spa
+4	calimeh	nhi
+5	cateh	nhi
+6	uan	nhi
+7	neneh	nhi
+8	ihcatoqueh,	nhi
+9	in	nhi
+10	tipantl	nhi
+11	ihcatoc	nhi
+12	mas	spa
+13	ocachi	nhi
+14	yoquiyoh	nhi
+15	ca	nhi
+16	nochi	nhi
+17	xiuitl	nhi
+18	ipan	nhi
+19	acmo	nhi
+20	quipiya	nhi
+21	teja	spa
+22	amo	nhi
+23	quipiya	nhi
+24	lamina	spa
+
+# sent_id = 1884
+# text = pero amo uitzi
+# text[orig] = pero amo huitsi
+# text[spa] = pero no se cae
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1465.996
+# timestamp[end] = 1466.924
+1	pero	spa
+2	amo	nhi
+3	uitzi	nhi
+
+# sent_id = 1885
+# text = ocatca cuali uan ocatca tlen otiquitiyah cuali otlalpayah
+# text[orig] = u katka kuali huan u katka tlen u tikitiyah kuali u tlalpayah
+# text[spa] = estaba bien y estaban los que trabajaban bien,  amarraban
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1469.246
+# timestamp[end] = 1474.564
+1	ocatca	nhi
+2	cuali	nhi
+3	uan	nhi
+4	ocatca	nhi
+5	tlen	nhi
+6	otiquitiyah	nhi
+7	cuali	nhi
+8	otlalpayah	nhi
+
+# sent_id = 1886
+# text = quilpihtiueh in titl de veras cualtzin
+# text[orig] = kilpihtuhuen titl deberas kualtsin
+# text[spa] = van amarrando la piedra deveras bien
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1475.127
+# timestamp[end] = 1477.472
+1	quilpihtiueh	nhi
+2	in	nhi
+3	titl	nhi
+4	de	spa
+5	veras	spa
+6	cualtzin	nhi
+
+# sent_id = 1887
+# text = neh neh nepa no titlaconstruirohqueh Omitlan quihtoah nocniuan
+# text[orig] = neh neh nipa nu ti tla construiruhkeh omitlan kihtuhuan nuknihuan
+# text[spa] = yo, yo alla donde construimos en omitlan, dicen mis hermanos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1483.54
+# timestamp[end] = 1489.167
+1	neh	nhi
+2	neh	nhi
+3	nepa	nhi
+4	no	nhi
+5	titlaconstruirohqueh	mixed
+6	Omitlan	NE-Place
+7	quihtoah	nhi
+8	nocniuan	nhi
+
+# sent_id = 1888
+# text = acmo necesitaroa columnas para tlen niquintlalia columnas, yehuan noquixmate albañilería
+# text[orig] = akmo necesitaruhua columnas para tlen ni kin tlaleh columnas, yejuan nu kixmateh albañileria
+# text[spa] = no necesita columnas para que le puse colunmas, ellos tambien conocen lo de albañileria
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1490.328
+# timestamp[end] = 1496.828
+1	acmo	nhi
+2	necesitaroa	mixed
+3	columnas	spa
+4	para	spa
+5	tlen	nhi
+6	niquintlalia	nhi
+7	columnas,	spa
+8	yehuan	nhi
+9	noquixmate	nhi
+10	albañilería	spa
+
+# sent_id = 1889
+# text = no más que neh nimoluia, error, neh nicmati que quemah quinecesitaroa columnas
+# text[orig] = nomas ke neh ni muljuia, error, nej nik mati ke kemah ki necesitaruhua columnas
+# text[spa] = nadamas que yo me digo, error, yo se que si necesita columnas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1498.283
+# timestamp[end] = 1504.693
+1	no	spa
+2	más	spa
+3	que	spa
+4	neh	nhi
+5	nimoluia,	nhi
+6	error,	spa
+7	neh	nhi
+8	nicmati	nhi
+9	que	spa
+10	quemah	nhi
+11	quinecesitaroa	mixed
+12	columnas	spa
+
+# sent_id = 1890
+# text = neh nipiyas fe, niisqui cuali bien niisqui nitranquilo niisqui cualtzin
+# text[orig] = neh ni pias fe, ni iski kuali bien ni iski ni trankilo ni iski kualtsin
+# text[spa] = yo voy a tener fe de que voy a estar bien, voy a estar tranquilo, bonito
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1505.748
+# timestamp[end] = 1512.784
+1	neh	nhi
+2	nipiyas	nhi
+3	fe,	spa
+4	niisqui	nhi
+5	cuali	nhi
+6	bien	spa
+7	niisqui	nhi
+8	nitranquilo	mixed
+9	niisqui	nhi
+10	cualtzin	nhi
+
+# sent_id = 1891
+# text = acmo quinecesitaroa columnas
+# text[orig] = akmo ki necesitaruhua columnas
+# text[spa] = ya no necesita columnas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1513.728
+# timestamp[end] = 1515.174
+1	acmo	nhi
+2	quinecesitaroa	mixed
+3	columnas	spa
+
+# sent_id = 1892
+# text = pero onicniquiya titl oini uiuiyaqueh hasta ihquin pahpatlauaqueh cualtzitzin para ohcon milauac sequinmilpihtiu ihquin
+# text[orig] = pero u nik nikia titl u ini huihuiyakeh hasta ijkin pahpatlahuaken kualtsitsi para ujkon milak se kin milpihtiuh ijkin
+# text[spa] = pero queria que las piedras estuvieran grandes hasta asi, anchas, bonitas para asi deveras las vamos amarrando asi
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1516.536
+# timestamp[end] = 1525.5
+1	pero	spa
+2	onicniquiya	nhi
+3	titl	nhi
+4	oini	nhi
+5	uiuiyaqueh	nhi
+6	hasta	spa
+7	ihquin	nhi
+8	pahpatlauaqueh	nhi
+9	cualtzitzin	nhi
+10	para	spa
+11	ohcon	nhi
+12	milauac	nhi
+13	sequinmilpihtiu	nhi
+14	ihquin	nhi
+
+# sent_id = 1893
+# text = titl tlen ompa oahsic onicoh
+# text[orig] = titl tlen umpa u asik u nikuh
+# text[spa] = la piedra que ahi llego, la compre
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1526.693
+# timestamp[end] = 1529.611
+1	titl	nhi
+2	tlen	nhi
+3	ompa	nhi
+4	oahsic	nhi
+5	onicoh	nhi
+
+# sent_id = 1894
+# text = medio cuali pero tlen ompa oquis san tohtolontic tons por non modo neh onictlaleh columnas para mayor seguridad
+# text[orig] = medio kuali pero tlen umpa ukis san tuhtuluntik tons por nun modo neh u nik tlale columnas para mayor seguridad
+# text[spa] = medio bien pero la que ahi salio solo como bolitas entonces por ese modo yo le puse columnas para mayor seguridad
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1531.509
+# timestamp[end] = 1540.409
+1	medio	spa
+2	cuali	nhi
+3	pero	spa
+4	tlen	nhi
+5	ompa	nhi
+6	oquis	nhi
+7	san	nhi
+8	tohtolontic	nhi
+9	tons	spa
+10	por	spa
+11	non	nhi
+12	modo	spa
+13	neh	nhi
+14	onictlaleh	nhi
+15	columnas	spa
+16	para	spa
+17	mayor	spa
+18	seguridad	spa
+
+# sent_id = 1895
+# text = uan tlen bordo tlen tictzacuilihtoqueh amo ahauil
+# text[orig] = huan tlen bordo tlen tik tsakuilijtukeh amo ajahuil
+# text[spa] = y el bordo que estamos deteniendo no es un juego
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1541.599
+# timestamp[end] = 1545.799
+1	uan	nhi
+2	tlen	nhi
+3	bordo	spa
+4	tlen	nhi
+5	tictzacuilihtoqueh	nhi
+6	amo	nhi
+7	ahauil	nhi
+
+# sent_id = 1896
+# text = yeh quipiya de tictrancarosqueh cuali in bordo
+# text[orig] = yej ki pia de tik trancaruskeh kualin bordo
+# text[spa] = tenemos que retrancar bien el bordo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1546.931
+# timestamp[end] = 1550.013
+1	yeh	nhi
+2	quipiya	nhi
+3	de	spa
+4	tictrancarosqueh	mixed
+5	cuali	nhi
+6	in	nhi
+7	bordo	spa
+
+# sent_id = 1897
+# text = entonces pues yeh non quipiya de motas itich se construcción tlen tipo de titl
+# text[orig] = entonces pues yeh nun ki pia de mutas itich  se construccion tlen tipo de titl
+# text[spa] = entonces pues eso es lo que tenemos que ver en una construccion que tipo de piedra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1551.457
+# timestamp[end] = 1556.848
+1	entonces	spa
+2	pues	spa
+3	yeh	nhi
+4	non	nhi
+5	quipiya	nhi
+6	de	spa
+7	motas	nhi
+8	itich	nhi
+9	se	nhi
+10	construcción	spa
+11	tlen	nhi
+12	tipo	spa
+13	de	spa
+14	titl	nhi
+
+# sent_id = 1898
+# text = yeh neneh bueno es que a veces
+# text[orig] = ye neneh bueno, esque aveces
+# text[spa] = es este bueno, esque aveces
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1576.783
+# timestamp[end] = 1579.692
+1	yeh	nhi
+2	neneh	nhi
+3	bueno	spa
+4	es	spa
+5	que	spa
+6	a	spa
+7	veces	spa
+
+# sent_id = 1899
+# text = yen lugar, lugar campa motlaconstruiroa uan quenin tlatlamati campa motlaconstruiroa
+# text[orig] = yen lugar, lugar campa mu tla construiruhua huan kenin tlatlamati kampa mu tlaconstruiruhua
+# text[spa] = el lugar, el lugar en donde se construye y como es en donde se construye
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1580.942
+# timestamp[end] = 1586.787
+1	yen	nhi
+2	lugar,	spa
+3	lugar	spa
+4	campa	nhi
+5	motlaconstruiroa	mixed
+6	uan	nhi
+7	quenin	nhi
+8	tlatlamati	nhi
+9	campa	nhi
+10	motlaconstruiroa	mixed
+
+# sent_id = 1900
+# text = porque tla ticchiuasqueh queh tehuan nican se planada cuali ticmatisqueh quen miac atl ompa monichicos
+# text[orig] = porque tla tik chihuaskeh keh tejuan nikan se planada kuali tik matiskeh kemiak atl umpa mu nichikos
+# text[spa] = porque si vamos a hacer, como nosotros aca una aplanado, sabemos bien que se va juntar mucha agua
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1587.633
+# timestamp[end] = 1594.588
+1	porque	spa
+2	tla	nhi
+3	ticchiuasqueh	nhi
+4	queh	adapted-spanish-loan
+5	tehuan	nhi
+6	nican	nhi
+7	se	nhi
+8	planada	spa
+9	cuali	nhi
+10	ticmatisqueh	nhi
+11	quen	nhi
+12	miac	nhi
+13	atl	nhi
+14	ompa	nhi
+15	monichicos	nhi
+
+# sent_id = 1901
+# text = tiempos de quiyouitl uan tlali diferentes
+# text[orig] = tiempos de kiyouitl huan tlali diferentes
+# text[spa] = en tiempos de lluvia, y las tierras son diferentes
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1595.213
+# timestamp[end] = 1598.795
+1	tiempos	spa
+2	de	spa
+3	quiyouitl	nhi
+4	uan	nhi
+5	tlali	nhi
+6	diferentes	spa
+
+# sent_id = 1902
+# text = cah tlali campa quiyoui uan quiyoui pero in atl yeh pancalaqui uan pancalaqui uan cah lugares
+# text[orig] = kah tlali campa killuhui huan killuhui huan killuhui peron atl yeh pan kalaki huan pan kalaki huan kah lugares
+# text[spa] = hay tierras donde lluevey llueve y llueve pero el agua estra y entra  y hay lugares
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1599.499
+# timestamp[end] = 1606.117
+1	cah	nhi
+2	tlali	nhi
+3	campa	nhi
+4	quiyoui	nhi
+5	uan	nhi
+6	quiyoui	nhi
+7	pero	spa
+8	in	nhi
+9	atl	nhi
+10	yeh	nhi
+11	pancalaqui	nhi
+12	uan	nhi
+13	pancalaqui	nhi
+14	uan	nhi
+15	cah	nhi
+16	lugares	spa
+
+# sent_id = 1903
+# text = campa in tlaltzintli quiyoui uan yeh san pani nochi tectoc atl amo pancalaqui amo mofiltraroa
+# text[orig] = campan tlaltsintli, killuhui huan yeh sa pani nuchi tectok atl amo pan kalaki amo mu filtraruhua
+# text[spa] = donde la tierra, llueve y ya nadamas por esima esta el agua no entra no se filtra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1606.773
+# timestamp[end] = 1612.446
+1	campa	nhi
+2	in	nhi
+3	tlaltzintli	nhi
+4	quiyoui	nhi
+5	uan	nhi
+6	yeh	nhi
+7	san	nhi
+8	pani	nhi
+9	nochi	nhi
+10	tectoc	nhi
+11	atl	nhi
+12	amo	nhi
+13	pancalaqui	nhi
+14	amo	nhi
+15	mofiltraroa	mixed
+
+# sent_id = 1904
+# text = uan por eso quipiya de motas quenin mochiuas se cali tehuan nican pues yi tiquitah amo ticpiyah se canah... momota campa calactoc atl o amo
+# text[orig] = huan por eso ki pia de mutas kenin mu chihuas se kali tejuan nikan pues yi ti kitah amo tik piah se kanah mu muta kampa kalaktok atl o amo
+# text[spa] = y por eso se tiene que ver como se hace una casa nosotros aqui vemos que pues no tenemos algo como donde se vea que entra el agua o no
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1613.254
+# timestamp[end] = 1621.708
+1	uan	nhi
+2	por	spa
+3	eso	spa
+4	quipiya	nhi
+5	de	spa
+6	motas	nhi
+7	quenin	nhi
+8	mochiuas	nhi
+9	se	nhi
+10	cali	nhi
+11	tehuan	nhi
+12	nican	nhi
+13	pues	spa
+14	yi	nhi
+15	tiquitah	nhi
+16	amo	nhi
+17	ticpiyah	nhi
+18	se	nhi
+19	canah...	nhi
+20	momota	nhi
+21	campa	nhi
+22	calactoc	nhi
+23	atl	nhi
+24	o	spa
+25	amo	nhi
+
+# sent_id = 1905
+# text = quemah porque in ompa ohcon neneh, neneh, este i... in tlali campa yeh chanchiua puro costlal
+# text[orig] = kemah porque numpa ujkon nenen, nene, este tlali campa yeh chan chihua puro kostlal
+# text[spa] = si, porque ahi este ,este, la tierra en donde el vive es pura tierra amarilla
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1627.557
+# timestamp[end] = 1636.584
+1	quemah	nhi
+2	porque	spa
+3	in	nhi
+4	ompa	nhi
+5	ohcon	nhi
+6	neneh,	nhi
+7	neneh,	nhi
+8	este	spa
+9	i...	nhi
+10	in	nhi
+11	tlali	nhi
+12	campa	nhi
+13	yeh	nhi
+14	chanchiua	nhi
+15	puro	spa
+16	costlal	nhi
+
+# sent_id = 1906
+# text = uan yeh non simi amo, queh amo quicaua mafiltraro o amati queyeh
+# text[orig] = huan yeh nun simi amo, keh amo ki kahua mu filtraro o amati keyeh
+# text[spa] = y eso es lo que no deja que se filtre o no se por que
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1637.273
+# timestamp[end] = 1641.482
+1	uan	nhi
+2	yeh	nhi
+3	non	nhi
+4	simi	nhi
+5	amo,	nhi
+6	queh	adapted-spanish-loan
+7	amo	nhi
+8	quicaua	nhi
+9	mafiltraro	mixed
+10	o	spa
+11	amati	nhi
+12	queyeh	adapted-spanish-loan
+
+# sent_id = 1907
+# text = pero pues neneh ahora sí que por eso tla tehuan quemeh se albañil catqui lugares campa
+# text[orig] = pero pues neneh ora si que por esos tla tejuan kemeh se albañil katki lugares kampa
+# text[spa] = pero pues este ahora si que por eso, si nosotros como albañiles hay lugares donde
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1642.067
+# timestamp[end] = 1650.103
+1	pero	spa
+2	pues	spa
+3	neneh	nhi
+4	ahora	spa
+5	sí	spa
+6	que	spa
+7	por	spa
+8	eso	spa
+9	tla	nhi
+10	tehuan	nhi
+11	quemeh	adapted-spanish-loan
+12	se	nhi
+13	albañil	spa
+14	catqui	nhi
+15	lugares	spa
+16	campa	nhi
+
+# sent_id = 1908
+# text = catqui miac humedad uan catqui salitre, uan non salitre niman quintlamia neneh calimeh
+# text[orig] = katki miak humedad huan katki salitre, huan nun salitre niman kin tlamia nenen kalimeh
+# text[spa] = hay mucha humedad y hay salitre, y ese salitre luego acaba a las casa
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1650.816
+# timestamp[end] = 1657.452
+1	catqui	nhi
+2	miac	nhi
+3	humedad	spa
+4	uan	nhi
+5	catqui	nhi
+6	salitre,	spa
+7	uan	nhi
+8	non	nhi
+9	salitre	spa
+10	niman	nhi
+11	quintlamia	nhi
+12	neneh	nhi
+13	calimeh	nhi
+
+# sent_id = 1909
+# text = entonces, por eso tehuan se albañil uan secmati quenin secchiuas
+# text[orig] = entonces , por eso tejuan se albañil huan sek mati kenin sek chihuas
+# text[spa] = entonces por eso nosotros como albañil y sabemos como hacer
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1658.589
+# timestamp[end] = 1665.47
+1	entonces,	spa
+2	por	spa
+3	eso	spa
+4	tehuan	nhi
+5	se	nhi
+6	albañil	spa
+7	uan	nhi
+8	secmati	nhi
+9	quenin	nhi
+10	secchiuas	nhi
+
+# sent_id = 1910
+# text = quenin seccombatiros salitre, ich in Ciudad de México campa ich in nen ne tlacpac tlaueyican
+# text[orig] = kenin sek combatiros salitre, ichin ciudad de mexico campa ichi nen ne tlakpak tlahueyikan
+# text[spa] = como bamos a combatir el salitre, en la ciudad de mexico donde este alla riba en donde ya esta grande
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1666.548
+# timestamp[end] = 1674.457
+1	quenin	nhi
+2	seccombatiros	mixed
+3	salitre,	spa
+4	ich	nhi
+5	in	nhi
+6	Ciudad	NE-Place
+7	de	NE-Place
+8	México	NE-Place
+9	campa	nhi
+10	ich	nhi
+11	in	nhi
+12	nen	nhi
+13	ne	nhi
+14	tlacpac	nhi
+15	tlaueyican	nhi
+
+# sent_id = 1911
+# text = ic ne Chalco o la mayoría campa quinchiua calimeh catqui humedad catqui atl tlatzintlan
+# text[orig] = ik ne chalco o la mayoria kampa kin chihua  kalimeh katki humedad katki atl tlatsintlan
+# text[spa] = por alla en chalco la mayoria donde hacen casas, hay humedad, hay agua abajo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1676.337
+# timestamp[end] = 1683.128
+1	ic	nhi
+2	ne	nhi
+3	Chalco	NE-Place
+4	o	spa
+5	la	spa
+6	mayoría	spa
+7	campa	nhi
+8	quinchiua	nhi
+9	calimeh	nhi
+10	catqui	nhi
+11	humedad	spa
+12	catqui	nhi
+13	atl	nhi
+14	tlatzintlan	nhi
+
+# sent_id = 1912
+# text = quichiuah se cali uan ipan tres cuatro años salitre yeh yi tlehcotoc hasta ic tlahco muro ya niman ya tlehcotoc
+# text[orig] = ki chihuah se kali huan ipan tres cuatro años salitre yeh yi tlejkutok hasta ik tlajko muro ya niman ya tlejkutok
+# text[spa] = hacen una casa y en tres cuatro años, el salitre ya va subiendo hasta por la mitad del muro ya, luego va subiendo
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1684.22
+# timestamp[end] = 1691.82
+1	quichiuah	nhi
+2	se	nhi
+3	cali	nhi
+4	uan	nhi
+5	ipan	nhi
+6	tres	spa
+7	cuatro	spa
+8	años	spa
+9	salitre	spa
+10	yeh	nhi
+11	yi	nhi
+12	tlehcotoc	nhi
+13	hasta	spa
+14	ic	nhi
+15	tlahco	nhi
+16	muro	spa
+17	ya	spa
+18	niman	nhi
+19	ya	spa
+20	tlehcotoc	nhi
+
+# sent_id = 1913
+# text = ompa quichiuah quitlaliah hule, campa neneh ehco motrabe
+# text[orig] = umpa ki chihuah ki tlalia hule, kampa neneh ejko mu trabe
+# text[spa] = ahi hacen, le ponen hule, donde este llega tu trabe
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1692.891
+# timestamp[end] = 1700.355
+1	ompa	nhi
+2	quichiuah	nhi
+3	quitlaliah	nhi
+4	hule,	spa
+5	campa	nhi
+6	neneh	nhi
+7	ehco	nhi
+8	motrabe	mixed
+
+# sent_id = 1914
+# text = uan antes de mezcla quitlaliah hule, nailo, uan ompa ya pani quitlalia mezcla
+# text[orig] = huan antes de mezcla ki tlaliah hule, nailo, huan umpa ya pani  ki tlalia mezcla
+# text[spa] = y antes de la mezcla le ponen hule, nailo y ya encima le ponen la mezcla
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1702.082
+# timestamp[end] = 1709.318
+1	uan	nhi
+2	antes	spa
+3	de	spa
+4	mezcla	spa
+5	quitlaliah	nhi
+6	hule,	spa
+7	nailo,	spa
+8	uan	nhi
+9	ompa	nhi
+10	ya	spa
+11	pani	nhi
+12	quitlalia	nhi
+13	mezcla	spa
+
+# sent_id = 1915
+# text = pero ompa tla ticmomaca cuenta acmo molpihtoc mezcla iuan cadena ya quindividirohtoc hule
+# text[orig] = pero umpa tla tik mu maka cuenta akmo mulpihtok mezcla ihuan cadena ya kin dividiruhtok hule
+# text[spa] = pero ahi si te das cuenta ya no se esta amarrando la mezcla con la cadena ya los esta dividiendo el hule
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1710.583
+# timestamp[end] = 1719.464
+1	pero	spa
+2	ompa	nhi
+3	tla	nhi
+4	ticmomaca	nhi
+5	cuenta	spa
+6	acmo	nhi
+7	molpihtoc	nhi
+8	mezcla	spa
+9	iuan	nhi
+10	cadena	spa
+11	ya	spa
+12	quindividirohtoc	mixed
+13	hule	spa
+
+# sent_id = 1916
+# text = quemah noual cualtia porque ohcon quinchiuah in calimeh pero acmo moamarraroah pero ica non hule acmo quipanouia nene humedad
+# text[orig] = kemah nuhual kualtiya  porque u kin chihuan kalimeh pero akmo mu amarraruhuan pero ika nun hule akmo ki panuhuia nen humedad
+# text[spa] = si tambien sirve porque asi hacen las casas pero ya no se amarran pero con ese hule ya no pasa la humedad
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1722.671
+# timestamp[end] = 1730.426
+1	quemah	nhi
+2	noual	adapted-spanish-loan
+3	cualtia	nhi
+4	porque	spa
+5	ohcon	nhi
+6	quinchiuah	nhi
+7	in	nhi
+8	calimeh	nhi
+9	pero	spa
+10	acmo	nhi
+11	moamarraroah	mixed
+12	pero	spa
+13	ica	nhi
+14	non	nhi
+15	hule	spa
+16	acmo	nhi
+17	quipanouia	nhi
+18	nene	nhi
+19	humedad	spa
+
+# sent_id = 1917
+# text = tan facil, uan siqui quichiua ica chapopote
+# text[orig] = tan facil, huan siki ki chihua ika chapopote
+# text[spa] = tan facil, y unos lo hacen con chapopote
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1730.906
+# timestamp[end] = 1735.215
+1	tan	spa
+2	facil,	spa
+3	uan	nhi
+4	siqui	nhi
+5	quichiua	nhi
+6	ica	nhi
+7	chapopote	spa
+
+# sent_id = 1918
+# text = quiforraroah cadena trabe
+# text[orig] = ki forraruhuan cadena trabe
+# text[spa] = forran la cadena, trabe
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1735.434
+# timestamp[end] = 1739.743
+1	quiforraroah	mixed
+2	cadena	spa
+3	trabe	spa
+
+# sent_id = 1919
+# text = ihquin quiixtlalilia uan ompa yi peua neneh
+# text[orig] = ijkin ki ixtlalilia huan umpa yi pehuan neneh
+# text[spa] = asi le ponen y ahi ya empieza este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1740.511
+# timestamp[end] = 1743.638
+1	ihquin	nhi
+2	quiixtlalilia	nhi
+3	uan	nhi
+4	ompa	nhi
+5	yi	nhi
+6	peua	nhi
+7	neneh	nhi
+
+# sent_id = 1920
+# text = mezcla ica muro para tlacpac
+# text[orig] = mextla ika muro para tlakpak
+# text[spa] = la mezcla con el muro para arriba
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1744.227
+# timestamp[end] = 1746.281
+1	mezcla	spa
+2	ica	nhi
+3	muro	spa
+4	para	spa
+5	tlacpac	nhi
+
+# sent_id = 1921
+# text = ohcon quincombatiroah pero tehuan nicah amo ticpiyah neneh amo tipiya neneh
+# text[orig] = ujkon kin combatiruhuan pero tejuan nikah amo tik piah neneh amo ti piah neneh
+# text[spa] = asi lo combaten pero nosotros aca no tenemos este no tenemos este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1747.263
+# timestamp[end] = 1753.19
+1	ohcon	nhi
+2	quincombatiroah	mixed
+3	pero	spa
+4	tehuan	nhi
+5	nicah	nhi
+6	amo	nhi
+7	ticpiyah	nhi
+8	neneh	nhi
+9	amo	nhi
+10	tipiya	nhi
+11	neneh	nhi
+
+# sent_id = 1922
+# text = salitre pero tla tipiyasquiah humedad neh nimoluia quenin ticchiuasqueh quenin ticcombatirosqueh
+# text[orig] = salitre pero tla ti piyaskiah humedad ne ni muljuia kenin tik chihuaskeh kenin tik combatiruskeh
+# text[spa] = salitre pero si tuvieramos humedad yo me digo como le vamos a hacer, como lo vamos a combatir
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1754.806
+# timestamp[end] = 1761.224
+1	salitre	spa
+2	pero	spa
+3	tla	nhi
+4	tipiyasquiah	nhi
+5	humedad	spa
+6	neh	nhi
+7	nimoluia	nhi
+8	quenin	nhi
+9	ticchiuasqueh	nhi
+10	quenin	nhi
+11	ticcombatirosqueh	mixed
+
+# sent_id = 1923
+# text = ica in mamposteo de piedra
+# text[orig] = ikan mamposteo de piedra
+# text[spa] = con el mamposteo de piedra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1761.953
+# timestamp[end] = 1764.071
+1	ica	nhi
+2	in	nhi
+3	mamposteo	spa
+4	de	spa
+5	piedra	spa
+
+# sent_id = 1924
+# text = piedra una tla tiquita catqui humedad simi catqui humedad itich motlal campa titlaconstruiros
+# text[orig] = piedra una tla ti kita katki humedad simi katki humedad itich mutlal kampa ti tla contruiros
+# text[spa] = piedra, si ves que hay humedad, hay mucha humedad en tu terreno donde vas a construir
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1765.675
+# timestamp[end] = 1771.311
+1	piedra	spa
+2	una	spa
+3	tla	nhi
+4	tiquita	nhi
+5	catqui	nhi
+6	humedad	spa
+7	simi	nhi
+8	catqui	nhi
+9	humedad	spa
+10	itich	nhi
+11	motlal	nhi
+12	campa	nhi
+13	titlaconstruiros	mixed
+
+# sent_id = 1925
+# text = tons in titl xictlehcolti xictlehcolti uan xicpanoui in tlali mamocaua tlacpac
+# text[orig] = tons titl xik tlejkolti xik tlejkulti huan xik panuhui tlali mu mu kahua tlakpak
+# text[spa] = entonces sube la piedra, subela y repasa la tierra que se quede arriba
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1772.566
+# timestamp[end] = 1778.202
+1	tons	spa
+2	in	nhi
+3	titl	nhi
+4	xictlehcolti	nhi
+5	xictlehcolti	nhi
+6	uan	nhi
+7	xicpanoui	nhi
+8	in	nhi
+9	tlali	nhi
+10	mamocaua	nhi
+11	tlacpac	nhi
+
+# sent_id = 1926
+# text = amo niccreeroa humedad manihnimi itich in titl
+# text[orig] = amo nik creeruhua humedad mu nihnimi itich in titl
+# text[spa] = no creo que la humedad camine en la piedra
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1779.569
+# timestamp[end] = 1782.423
+1	amo	nhi
+2	niccreeroa	mixed
+3	humedad	spa
+4	manihnimi	nhi
+5	itich	nhi
+6	in	nhi
+7	titl	nhi
+
+# sent_id = 1927
+# text = titl uan titl uan titl amo quinihnimiltis humedad
+# text[orig] = titl huan titl huan titl amo ki nihnimiltis humedad
+# text[spa] = piedra y piedra y piedra no va a encaminar a la humedad
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1783.855
+# timestamp[end] = 1787.073
+1	titl	nhi
+2	uan	nhi
+3	titl	nhi
+4	uan	nhi
+5	titl	nhi
+6	amo	nhi
+7	quinihnimiltis	nhi
+8	humedad	spa
+
+# sent_id = 1928
+# text = entonces ompa, xi... motrabe uan yi youi nen mezcla muro amo tan como quiera porque tlali tlatzintlan uan momuro de block yeh hasta nican yi tlacpac
+# text[orig] = entonces umpa, mu trabe huan yi yuhui nen mezcla muro amo tan como quiera porque tlali tlatsintla huan mu muro de blok yeh hasta nika yi tlakpak
+# text[spa] = entonces ahi, tu trabe y de ahi ya va tu mezcla tu muro no es tanto como quiera porque la tierra esta abajo y tu muro de blokc ya esta hasta aqui arriba
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1788.012
+# timestamp[end] = 1798.318
+1	entonces	spa
+2	ompa,	nhi
+3	xi...	nhi
+4	motrabe	mixed
+5	uan	nhi
+6	yi	nhi
+7	youi	nhi
+8	nen	nhi
+9	mezcla	spa
+10	muro	spa
+11	amo	nhi
+12	tan	spa
+13	como	spa
+14	quiera	spa
+15	porque	spa
+16	tlali	nhi
+17	tlatzintlan	nhi
+18	uan	nhi
+19	momuro	mixed
+20	de	spa
+21	block	spa
+22	yeh	nhi
+23	hasta	spa
+24	nican	nhi
+25	yi	nhi
+26	tlacpac	nhi
+
+# sent_id = 1929
+# text = acmo, acmo quicontagiaros ica salitre
+# text[orig] = akmo, akmo ki contagiaros ika salitre
+# text[spa] = ya no, ya no lo contagia con salitre
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1799.104
+# timestamp[end] = 1801.767
+1	acmo,	nhi
+2	acmo	nhi
+3	quicontagiaros	mixed
+4	ica	nhi
+5	salitre	spa
+
+# sent_id = 1930
+# text = solo tla cualrecargaruiliah tlali, cualtemilia
+# text[orig] = solo tla kual re cargarjuiliah tlali, kual temilia
+# text[spa] = solo si le cargan de tierra, le llenan
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1803.748
+# timestamp[end] = 1806.939
+1	solo	nhi
+2	tla	nhi
+3	cualrecargaruiliah	mixed
+4	tlali,	nhi
+5	cualtemilia	nhi
+
+# sent_id = 1931
+# text = quemah ocsipa peuas ompa salitre porque tlali yeh mocontaminaroa, humedad quimopanoltilia
+# text[orig] = kemah oksipa pehuas umpa salitre porque tla liyeh mu contaminaruhua, humedad ki mu panultilia
+# text[spa] = si, otra vez va empezar ahi el salitre porque la tierra se contamina, se pasa la humedad
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1807.704
+# timestamp[end] = 1814.759
+1	quemah	nhi
+2	ocsipa	nhi
+3	peuas	nhi
+4	ompa	nhi
+5	salitre	spa
+6	porque	spa
+7	tlali	nhi
+8	yeh	nhi
+9	mocontaminaroa,	mixed
+10	humedad	spa
+11	quimopanoltilia	nhi
+
+# sent_id = 1932
+# text = uan tla secualrecargaros secualtemilis se imuro de block pues ompa quipeualtihtiquisa salitre
+# text[orig] = huan tla sek kual recargarus sek kual temilis se i muro de blok pues umpa ki pehualtihtikisa salitre
+# text[spa] = y si le recargamos, le llenamos a nuestro muro de blok pues ahi empieza el salitre
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1815.309
+# timestamp[end] = 1821.609
+1	uan	nhi
+2	tla	nhi
+3	secualrecargaros	mixed
+4	secualtemilis	nhi
+5	se	nhi
+6	imuro	mixed
+7	de	spa
+8	block	spa
+9	pues	spa
+10	ompa	nhi
+11	quipeualtihtiquisa	nhi
+12	salitre	spa
+
+# sent_id = 1933
+# text = pero nican pues amo nican nis tlaluaqui uan amo mota mox secpiya humedad
+# text[orig] = pero nikan pues amo nikan nis tlal huaki huan amo muta mux sek pia humedad
+# text[spa] = pero aqui pues no aki es como tierra seca y no se ve si tenemos humedad
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1822.313
+# timestamp[end] = 1827.886
+1	pero	spa
+2	nican	nhi
+3	pues	spa
+4	amo	nhi
+5	nican	nhi
+6	nis	nhi
+7	tlaluaqui	nhi
+8	uan	nhi
+9	amo	nhi
+10	mota	nhi
+11	mox	nhi
+12	secpiya	nhi
+13	humedad	spa
+
+# sent_id = 1934
+# text = quemah
+# text[orig] = kema
+# text[spa] = si
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1830.373
+# timestamp[end] = 1830.755
+1	quemah	nhi
+
+# sent_id = 1935
+# text = uan neneh pues uan tla secchiuas se cali quihtos se iteco
+# text[orig] = huan neneh pues huan tla sek chihuas se kali kihtos se i teko
+# text[spa] = y este pues, y si hacemos una casa, que diga nuestro patron
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1831.988
+# timestamp[end] = 1837.897
+1	uan	nhi
+2	neneh	nhi
+3	pues	spa
+4	uan	nhi
+5	tla	nhi
+6	secchiuas	nhi
+7	se	nhi
+8	cali	nhi
+9	quihtos	nhi
+10	se	nhi
+11	iteco	nhi
+
+# sent_id = 1936
+# text = amo, amo nictlalilis loza ni con el tiempo nicnimilia nitlalis loza, nicniqui san ica lamina
+# text[orig] = amo, amo nik tlalilis losa ni con el tiempo nik nimilia ni tlalis losa, nik niki san ika lamina
+# text[spa] = no, no le voy a poner loza, ni con el tiempo estoy pensando ponerle losa, lo quiero solo con lamina
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1838.532
+# timestamp[end] = 1844.859
+1	amo,	nhi
+2	amo	nhi
+3	nictlalilis	nhi
+4	loza	spa
+5	ni	spa
+6	con	spa
+7	el	spa
+8	tiempo	spa
+9	nicnimilia	nhi
+10	nitlalis	nhi
+11	loza,	spa
+12	nicniqui	nhi
+13	san	nhi
+14	ica	nhi
+15	lamina	spa
+
+# sent_id = 1937
+# text = entonces amo moniqui miac inversión para ualpeuas hasta quenin temohte reforzado chicauac porque tlamemes amo porque amo tlenoh quimemes realmente
+# text[orig] = entonces amo mu niki miak inversion para hual pehuas hasta kenin temuhteh reforzado, chikahuak porque tlamemes amo porque amo tlenoh ki memes realmente
+# text[spa] = entonces no se necesita mucha inversion para empezar, asi muy reforzado o fuerte porque va a cargar no, porque no va a cargar nada realmente
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1845.967
+# timestamp[end] = 1857.623
+1	entonces	spa
+2	amo	nhi
+3	moniqui	nhi
+4	miac	nhi
+5	inversión	spa
+6	para	spa
+7	ualpeuas	nhi
+8	hasta	spa
+9	quenin	nhi
+10	temohte	nhi
+11	reforzado	spa
+12	chicauac	nhi
+13	porque	spa
+14	tlamemes	nhi
+15	amo	nhi
+16	porque	spa
+17	amo	nhi
+18	tlenoh	nhi
+19	quimemes	nhi
+20	realmente	spa
+
+# sent_id = 1938
+# text = amo isqui itic in tlen quimemes, nochi non motlahtlani
+# text[orig] = amo iski itik tlen ki memes, nuchi nun mu tlahtlani
+# text[spa] = no va estar pesado lo que va a cargar, todo eso se pregunta
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1858.075
+# timestamp[end] = 1862.875
+1	amo	nhi
+2	isqui	nhi
+3	itic	nhi
+4	in	nhi
+5	tlen	nhi
+6	quimemes,	nhi
+7	nochi	nhi
+8	non	nhi
+9	motlahtlani	nhi
+
+# sent_id = 1939
+# text = uan siqui quihtoah pues mo... mochihchiua cuali ahorita nicpantzacuas ica lamina con el tiempo canah nictlalilis loza porque loza itic loza toneladas y toneladas
+# text[orig] = huan siki kintuhuan pues mumu chuhchihua kuali orita nik pantsakuas ika lamina con el tiempo kanah nik tlalilis losa porque losa itik losa toneladas y toneladas
+# text[spa] = y unos disen pues que se haga bien ahorita lo voy a tapar con lamina pero con el tiempo alomejor le pongo loza, porque la loza pesa, la loza son toneladas y toneladas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1863.254
+# timestamp[end] = 1874.072
+1	uan	nhi
+2	siqui	nhi
+3	quihtoah	nhi
+4	pues	spa
+5	mo...	nhi
+6	mochihchiua	nhi
+7	cuali	nhi
+8	ahorita	spa
+9	nicpantzacuas	nhi
+10	ica	nhi
+11	lamina	spa
+12	con	spa
+13	el	spa
+14	tiempo	spa
+15	canah	nhi
+16	nictlalilis	nhi
+17	loza	spa
+18	porque	spa
+19	loza	spa
+20	itic	nhi
+21	loza	spa
+22	toneladas	spa
+23	y	spa
+24	toneladas	spa
+
+# sent_id = 1940
+# text = quemah, itic simi
+# text[orig] = kemah, itik simi
+# text[spa] = si, es muy pesado
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1875.767
+# timestamp[end] = 1877.885
+1	quemah,	nhi
+2	itic	nhi
+3	simi	nhi
+
+# sent_id = 1941
+# text = ohcon yeh ohcon pero pues este
+# text[orig] = ujkon yeh ujkon pero pues este
+# text[spa] = asi, asi es pero, pues este
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1879.104
+# timestamp[end] = 1884.877
+1	ohcon	nhi
+2	yeh	nhi
+3	ohcon	nhi
+4	pero	spa
+5	pues	spa
+6	este	spa
+
+# sent_id = 1942
+# text = yeh ni... quen sequihtos neneh cualtzin non trabajo cualtzin
+# text[orig] = yeh ni ken se kihtos nenej kualtsin nun trabajo kualtsin
+# text[spa] = digamos que este es bonito, ese trabajo es bonito
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1886.869
+# timestamp[end] = 1890.606
+1	yeh	nhi
+2	ni...	nhi
+3	quen	nhi
+4	sequihtos	nhi
+5	neneh	nhi
+6	cualtzin	nhi
+7	non	nhi
+8	trabajo	spa
+9	cualtzin	nhi
+
+# sent_id = 1943
+# text = uan pues campa amo cah material campa amo cah titl cah... cateh altipemeh campa amo tlenoh titl quipiya pues quicoah
+# text[orig] = huan pues kampa amo kah material kampa amo kah titl kah, kateh altepemeh kampa amo tlenoh titl ki pia pues ki kuhuah
+# text[spa] = y pues donde no hay material, donde no hay piedra, hay pueblos en donde no hay nada de piedra pues la compran
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1891.612
+# timestamp[end] = 1899.567
+1	uan	nhi
+2	pues	spa
+3	campa	nhi
+4	amo	nhi
+5	cah	nhi
+6	material	spa
+7	campa	nhi
+8	amo	nhi
+9	cah	nhi
+10	titl	nhi
+11	cah...	nhi
+12	cateh	nhi
+13	altipemeh	nhi
+14	campa	nhi
+15	amo	nhi
+16	tlenoh	nhi
+17	titl	nhi
+18	quipiya	nhi
+19	pues	nhi
+20	quicoah	nhi
+
+# sent_id = 1944
+# text = quicoah uehca
+# text[orig] = ki kuhuah huehka
+# text[spa] = lo compran lejos
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1900.027
+# timestamp[end] = 1900.991
+1	quicoah	nhi
+2	uehca	nhi
+
+# sent_id = 1945
+# text = ohcon
+# text[orig] = ujkon
+# text[spa] = asi
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1903.86
+# timestamp[end] = 1904.642
+1	ohcon	nhi
+
+# sent_id = 1946
+# text = quemah, ohcon, yeh milauac
+# text[orig] = kemah, ujkon, yeh milahuak
+# text[spa] = si, asi, es verdad
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1908.834
+# timestamp[end] = 1911.507
+1	quemah,	nhi
+2	ohcon,	nhi
+3	yeh	nhi
+4	milauac	nhi
+
+# sent_id = 1947
+# text = quemah uan tlen tiquitis milauac moniqui macmatili quenin porque porque neh niquita in siquin tocniuan
+# text[orig] = kemah huan tlen tikitis milahuak mu niki muk matili kenin porque porque ne ni kitan sikin tuknihuan
+# text[spa] = si y el que va a trabajar deveras se necesita que sepa como porque porque yo veo que unas personas
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1932.465
+# timestamp[end] = 1941.556
+1	quemah	nhi
+2	uan	nhi
+3	tlen	nhi
+4	tiquitis	nhi
+5	milauac	nhi
+6	moniqui	nhi
+7	macmatili	nhi
+8	quenin	nhi
+9	porque	spa
+10	porque	spa
+11	neh	nhi
+12	niquita	nhi
+13	in	nhi
+14	siquin	nhi
+15	tocniuan	nhi
+
+# sent_id = 1948
+# text = quiualmahmanah in columnas chihchihcoltiqueh nochi nihnicuiltic uan bueno
+# text[orig] = ki hual mahmanah in columnas chihchihkultikeh nuchi nihnikuiltik huan bueno
+# text[spa] = paran sus columnas disparejas, todo de lado y bueno,
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1942.263
+# timestamp[end] = 1948.836
+1	quiualmahmanah	nhi
+2	in	nhi
+3	columnas	spa
+4	chihchihcoltiqueh	nhi
+5	nochi	nhi
+6	nihnicuiltic	nhi
+7	uan	nhi
+8	bueno	spa
+
+# sent_id = 1949
+# text = amo secpiya amo niquihtos canah niquixmatilia a la perfección pero quemah mas tzocotzin quipiya de secmatilis quenin yas
+# text[orig] = amo sek pia amo ni kihtos kanah ni kixmatilia a la perfeccion pero kemah mas tsokotsi ki pia de sek matilis kenin yas
+# text[spa] = so tenemos, no voy a decir que alomejor le conosco a la perfeccion pero si aunque poquito necesitamos saber como va
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1951.047
+# timestamp[end] = 1959.402
+1	amo	nhi
+2	secpiya	nhi
+3	amo	nhi
+4	niquihtos	nhi
+5	canah	nhi
+6	niquixmatilia	nhi
+7	a	spa
+8	la	spa
+9	perfección	spa
+10	pero	spa
+11	quemah	nhi
+12	mas	spa
+13	tzocotzin	nhi
+14	quipiya	nhi
+15	de	spa
+16	secmatilis	nhi
+17	quenin	nhi
+18	yas	nhi
+
+# sent_id = 1950
+# text = columnas de centro canin sequintlalis quenin sequintlalis tlen tipo de columnas oticmanqui yotictlaleh tlen tipo de cadenas quipiya de yas pani
+# text[orig] = columnas de centro kanin se kin tlalis kenin se kin tlalis tlen tipo de columnas u tik manki yu tik tlale tlen tipo de cadenas ki pia de yas pani
+# text[spa] = columnas de centro donde las vamos a poner como las vamos a poner que tipo de columnas parada pusiste, que tipo de cadena debe ir a rriba
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1960.003
+# timestamp[end] = 1970.303
+1	columnas	spa
+2	de	spa
+3	centro	spa
+4	canin	nhi
+5	sequintlalis	nhi
+6	quenin	nhi
+7	sequintlalis	nhi
+8	tlen	nhi
+9	tipo	nhi
+10	de	spa
+11	columnas	spa
+12	oticmanqui	nhi
+13	yotictlaleh	nhi
+14	tlen	nhi
+15	tipo	spa
+16	de	spa
+17	cadenas	spa
+18	quipiya	nhi
+19	de	spa
+20	yas	nhi
+21	pani	nhi
+
+# sent_id = 1951
+# text = uan siqueh amo, niquita siqueh tla quichiuah queh quen yauili cualtlatiuiyan se trabe hasta temohteh patlactic tlacpac
+# text[orig] = huan sikeh amo, ni kita sikeh tla ki chihuah keh ken ya huili cualtlatihuiyan se trabe hasta temuhteh patlaktik tlakpak
+# text[spa] = y unos no, veo que unos lo hacen como sea, le avientan una trabe muy gruesa arriba
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1970.993
+# timestamp[end] = 1979.411
+1	uan	nhi
+2	siqueh	nhi
+3	amo,	nhi
+4	niquita	nhi
+5	siqueh	nhi
+6	tla	nhi
+7	quichiuah	nhi
+8	queh	adapted-spanish-loan
+9	quen	nhi
+10	yauili	nhi
+11	cualtlatiuiyan	nhi
+12	se	nhi
+13	trabe	spa
+14	hasta	spa
+15	temohteh	nhi
+16	patlactic	nhi
+17	tlacpac	nhi
+
+# sent_id = 1952
+# text = uan tlen tlamemehtoc yeh tzotzocotzin non peligroso, quemah non peligroso
+# text[orig] = huan tlen tla memehtok yeh tsotsokotsi nun peligroso, kemah nun peligroso
+# text[spa] = y el que esta cargando esta chiquita, eso es peligroso, si eso es peligroso
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1979.929
+# timestamp[end] = 1986.065
+1	uan	nhi
+2	tlen	nhi
+3	tlamemehtoc	nhi
+4	yeh	nhi
+5	tzotzocotzin	nhi
+6	non	nhi
+7	peligroso,	spa
+8	quemah	nhi
+9	non	nhi
+10	peligroso	spa
+
+# sent_id = 1953
+# text = ohcon
+# text[orig] = ujkon
+# text[spa] = asi
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 1997.139
+# timestamp[end] = 1997.893
+1	ohcon	nhi
+
+# sent_id = 1954
+# text = yeh milauac
+# text[orig] = yeh milahuak
+# text[spa] = es verdad
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 2004.034
+# timestamp[end] = 2004.87
+1	yeh	nhi
+2	milauac	nhi
+
+# sent_id = 1955
+# text = quemah
+# text[orig] = kemah
+# text[spa] = si
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 2014.768
+# timestamp[end] = 2015.268
+1	quemah	nhi
+
+# sent_id = 1956
+# text = Marcos Huerta Mendez nican altipetl nican Tetelancingo Zacatlán Puebla
+# text[orig] = marcos huerta mendez nikan altepetl nikan tetelanzingo zacatlan puebla
+# text[spa] = marcos huerta mendez de aqui del pueblo de tetelantzingo zacatlan puebla
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 2018.313
+# timestamp[end] = 2023.249
+1	Marcos	NE-Person
+2	Huerta	NE-Person
+3	Mendez	NE-Person
+4	nican	nhi
+5	altipetl	nhi
+6	nican	nhi
+7	Tetelancingo	NE-Place
+8	Zacatlán	NE-Place
+9	Puebla	NE-Place
+
+# sent_id = 1957
+# text = uan teh
+# text[orig] = huan teh
+# text[spa] = y tu
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 2024.53
+# timestamp[end] = 2025.148
+1	uan	nhi
+2	teh	nhi
+
+# sent_id = 1958
+# text = quemah pues yotimononotzqueh mas tzocotzin para, para ximati mas siquiera, siquiera ticaqui pero ohcon secmonextilihtiu ohcon seccaqui
+# text[orig] = kemah pues yu ti mu nunutskeh mas tsokotsi para, para xi mati mas sikiera, si kiera ti kaki pero ujkon sek mu nextilihtiuh ujkon sek kaki
+# text[spa] = si pues ya platicamos aunque un poco para, para que sepas aunque almenos escuchas pero asi nos vamos enseñando asi escuchando
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 2031.424
+# timestamp[end] = 2041.57
+1	quemah	nhi
+2	pues	spa
+3	yotimononotzqueh	nhi
+4	mas	spa
+5	tzocotzin	nhi
+6	para,	spa
+7	para	spa
+8	ximati	nhi
+9	mas	spa
+10	siquiera,	spa
+11	siquiera	spa
+12	ticaqui	nhi
+13	pero	spa
+14	ohcon	nhi
+15	secmonextilihtiu	nhi
+16	ohcon	nhi
+17	seccaqui	nhi
+
+# sent_id = 1959
+# text = amo tlen
+# text[orig] = amo tlen
+# text[spa] = no es nada
+# doc_id = speaker1_Tetel_Narr_QUZ839_TTA838_2022-08-08-a
+# timestamp[start] = 2044.752
+# timestamp[end] = 2045.733
+1	amo	nhi
+2	tlen	nhi
+

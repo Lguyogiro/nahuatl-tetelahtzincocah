@@ -1,0 +1,5188 @@
+# sent_id = 4495
+# text = quenin tipanotoc
+# text[orig] = kenin ti panotok
+# text[spa] = como estas
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 4.87
+# timestamp[end] = 6.19
+1	quenin	nhi
+2	tipanotoc	nhi
+
+# sent_id = 4496
+# text = quema
+# text[orig] = kema
+# text[spa] = si
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 6.91
+# timestamp[end] = 7.62
+1	quema	nhi
+
+# sent_id = 4497
+# text = quema
+# text[orig] = kema
+# text[spa] = si
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 10.85
+# timestamp[end] = 11.4
+1	quema	nhi
+
+# sent_id = 4498
+# text = yeh cuali, noyiuqui
+# text[orig] = yej kuali, nuyujki
+# text[spa] = tambien bien
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 12.655
+# timestamp[end] = 14.305
+1	yeh	nhi
+2	cuali,	nhi
+3	noyiuqui	nhi
+
+# sent_id = 4499
+# text = ica nin tonaltzin tona chicauac
+# text[orig] = ika nin tunaltsi tuna chikahuak
+# text[spa] = con este sol, hace mucho calor
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 15.32
+# timestamp[end] = 18.2
+1	ica	nhi
+2	nin	nhi
+3	tonaltzin	nhi
+4	tona	nhi
+5	chicauac	nhi
+
+# sent_id = 4500
+# text = yalua mox yopehpeuaya tzocotzin quiyouitl uan ocsipa neneh san omonacteh yopeu eheca
+# text[orig] = yaljua mux yu pejpehuaya tsokotsi kiyuitl huan oksipa nenej, san u mu nakte yupeuh ejeka
+# text[spa] = ayer esque ya empezaba un poco la lluvia y otra vez este solo se detuvo y empezo a hacer aire
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 19.285
+# timestamp[end] = 24.225
+1	yalua	nhi
+2	mox	nhi
+3	yopehpeuaya	nhi
+4	tzocotzin	nhi
+5	quiyouitl	nhi
+6	uan	nhi
+7	ocsipa	nhi
+8	neneh	nhi
+9	san	nhi
+10	omonacteh	nhi
+11	yopeu	nhi
+12	eheca	nhi
+
+# sent_id = 4501
+# text = quihtoa mox yi yen casi xa yeh nin quisa ya nin semana yi tlamis tlapoual xamo
+# text[orig] = kijtua mux yi yen kasi  xa ye nin kisa yan semana yi tlamis tlapuhual xamo
+# text[spa] = dicen que ya casi solo que salgamos esta semana ya se termina el mes verdad
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 33.905
+# timestamp[end] = 37.965
+1	quihtoa	nhi
+2	mox	nhi
+3	yi	nhi
+4	yen	nhi
+5	casi	nhi
+6	xa	nhi
+7	yeh	nhi
+8	nin	nhi
+9	quisa	nhi
+10	ya	nhi
+11	nin	nhi
+12	semana	spa
+13	yi	nhi
+14	tlamis	nhi
+15	tlapoual	nhi
+16	xamo	nhi
+
+# sent_id = 4502
+# text = quihtohtoqueh xiquita nen maestras quihtohtoqueh mox ya ya yasqueh este quemeh quiteneua mox consejo tlenoh quinmacah
+# text[orig] = kijtojtoke ixkita ne maestras kijtojtoke mux ya, yaskeh este keme ki tenehua mux consejo tlenoj kin maka
+# text[spa] = estan diciendo, ve las maestras estan diciendo, que ya, ya se van a ir este le nombran como consejo que les dan
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 39.395
+# timestamp[end] = 47.355
+1	quihtohtoqueh	nhi
+2	xiquita	nhi
+3	nen	nhi
+4	maestras	spa
+5	quihtohtoqueh	nhi
+6	mox	nhi
+7	ya	spa
+8	ya	spa
+9	yasqueh	spa
+10	este	spa
+11	quemeh	adapted-spanish-loan
+12	quiteneua	nhi
+13	mox	nhi
+14	consejo	spa
+15	tlenoh	nhi
+16	quinmacah	nhi
+
+# sent_id = 4503
+# text = yen viernes
+# text[orig] = yen viernes
+# text[spa] = el viernes
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 50.445
+# timestamp[end] = 51.535
+1	yen	nhi
+2	viernes	spa
+
+# sent_id = 4504
+# text = quemaniyah
+# text[orig] = kemania
+# text[spa] = que dia
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 56.955
+# timestamp[end] = 57.715
+1	quemaniyah	nhi
+
+# sent_id = 4505
+# text = de nen tzotzocotzitzin
+# text[orig] = de nen tsotsokotsitsi
+# text[spa] = de los chiquititos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 58.88
+# timestamp[end] = 61.05
+1	de	spa
+2	nen	nhi
+3	tzotzocotzitzin	nhi
+
+# sent_id = 4506
+# text = mox aquin otlapahpac nin otiualpanoqueh
+# text[orig] = mux aki u tlapajpak  nin u ti hualpanuke
+# text[spa] = apoco, quien lavo este que pasamos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 72.04
+# timestamp[end] = 74.56
+1	mox	nhi
+2	aquin	nhi
+3	otlapahpac	nhi
+4	nin	nhi
+5	otiualpanoqueh	nhi
+
+# sent_id = 4507
+# text = uan amo oyectlapahpac
+# text[orig] = uan amo u yek tlapajpak
+# text[spa] = y no lavo bien
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 75.68
+# timestamp[end] = 76.78
+1	uan	nhi
+2	amo	nhi
+3	oyectlapahpac	nhi
+
+# sent_id = 4508
+# text = pero a poco nen a poco neneh Yesenia amo youi quemeh tlachiati checaroti quenin mox cualtzin mochiuah in cosas o amo
+# text[orig] = pero apoco nen, apoco nene   Yesenia amo yuhui keme tlachiati chekaruti kenin mux kualtsin mu chihuan cosas o amo
+# text[spa] = pero apoco este, apoco este, yesenia no va a ver, revisar si se hacen bien las cosas o no
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 79.005
+# timestamp[end] = 87.695
+1	pero	spa
+2	a	spa
+3	poco	spa
+4	nen	nhi
+5	a	spa
+6	poco	spa
+7	neneh	nhi
+8	Yesenia	NE-Person
+9	amo	nhi
+10	youi	nhi
+11	quemeh	adapted-spanish-loan
+12	tlachiati	nhi
+13	checaroti	mixed
+14	quenin	nhi
+15	mox	nhi
+16	cualtzin	nhi
+17	mochiuah	nhi
+18	in	nhi
+19	cosas	spa
+20	o	spa
+21	amo	nhi
+
+# sent_id = 4509
+# text = yehuatl ica non oualehcoca nen
+# text[orig] = yehual ikanun u hualejkuka nen
+# text[spa] = por eso habia subido este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 95.63
+# timestamp[end] = 97.83
+1	yehuatl	nhi
+2	ica	nhi
+3	non	nhi
+4	oualehcoca	nhi
+5	nen	nhi
+
+# sent_id = 4510
+# text = tons no nictemacas maestra
+# text[orig] = tos nu nik temakas maestra
+# text[spa] = entonces eso le entrego a la maestra
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 104.405
+# timestamp[end] = 105.835
+1	tons	spa
+2	no	nhi
+3	nictemacas	nhi
+4	maestra	spa
+
+# sent_id = 4511
+# text = xa yen viernes tla yas Tetela
+# text[orig] = xa yen viernes tla yas tetela
+# text[spa] = alomejor el viernes que va a ir a tetela
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 106.89
+# timestamp[end] = 108.89
+1	xa	nhi
+2	yen	nhi
+3	viernes	spa
+4	tla	nhi
+5	yas	nhi
+6	Tetela	NE-Place
+
+# sent_id = 4512
+# text = neh oniyahca pero no... este non xiquita otiualahqueh amo tlen onictlahtlaneh
+# text[orig] = ne u ni ajka pero nu este , nun ixkita u ti hualajke amo tlen o nik tlajtlane
+# text[spa] = yo habia ido pero no este, vez que venimos igual no le pregunte nada
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 116.73
+# timestamp[end] = 121.36
+1	neh	nhi
+2	oniyahca	nhi
+3	pero	spa
+4	no...	nhi
+5	este	spa
+6	non	nhi
+7	xiquita	nhi
+8	otiualahqueh	nhi
+9	amo	nhi
+10	tlen	nhi
+11	onictlahtlaneh	nhi
+
+# sent_id = 4513
+# text = neh oniquihtoh xa siquiera canah oyah axan iuan maestra de nen den primaria xa siquiera oyah iuan
+# text[orig] = ne u ni kijto xa siquiera kana uya axa ihua maestra de nen, den primaria xa siquiera uya ihuan
+# text[spa] = yo dije que alomejor fue hoy con la maestra de este, de la primaria, alomejor se fue con ella
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 128.945
+# timestamp[end] = 135.145
+1	neh	nhi
+2	oniquihtoh	nhi
+3	xa	nhi
+4	siquiera	spa
+5	canah	nhi
+6	oyah	nhi
+7	axan	nhi
+8	iuan	nhi
+9	maestra	spa
+10	de	spa
+11	nen	nhi
+12	den	mixed
+13	primaria	spa
+14	xa	nhi
+15	siquiera	spa
+16	oyah	nhi
+17	iuan	nhi
+
+# sent_id = 4514
+# text = ah sí
+# text[orig] = ah si
+# text[spa] = ah si
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 138.535
+# timestamp[end] = 139.235
+1	ah	intj
+2	sí	spa
+
+# sent_id = 4515
+# text = pero yeh xa yeh mostla xa tiotlac xa occualcan yas
+# text[orig] = pero ye xa yej mustla xa tiutlak xa ok cualkantsin yas
+# text[spa] = pero alomejor mañana en la tarde,  se va un poco temprano
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 139.795
+# timestamp[end] = 142.955
+1	pero	spa
+2	yeh	nhi
+3	xa	nhi
+4	yeh	nhi
+5	mostla	nhi
+6	xa	nhi
+7	tiotlac	nhi
+8	xa	nhi
+9	occualcan	nhi
+10	yas	nhi
+
+# sent_id = 4516
+# text = para canas de de las cuatro
+# text[orig] = para kanas de, de las cuatro
+# text[spa] = para agarrar el de las cuatro
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 146.865
+# timestamp[end] = 149.465
+1	para	spa
+2	canas	nhi
+3	de	spa
+4	de	spa
+5	las	nhi
+6	cuatro	nhi
+
+# sent_id = 4517
+# text = tons xa cualcan quisasqueh
+# text[orig] = tons xa cualkan kisaskeh
+# text[spa] = entonces van a salir temprano
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 160.995
+# timestamp[end] = 162.305
+1	tons	spa
+2	xa	nhi
+3	cualcan	nhi
+4	quisasqueh	nhi
+
+# sent_id = 4518
+# text = pero mox xa techmacas tiempo tiualasqueh ualnican noyiuqui
+# text[orig] = pero mux xa tech makas tiempo ti hualaske hualnika nuyujki
+# text[spa] = pero apoco nos va a dar tiempo venir para aca tambien
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 162.675
+# timestamp[end] = 165.805
+1	pero	spa
+2	mox	nhi
+3	xa	nhi
+4	techmacas	nhi
+5	tiempo	spa
+6	tiualasqueh	nhi
+7	ualnican	nhi
+8	noyiuqui	nhi
+
+# sent_id = 4519
+# text = otlacomunicaroh tiquiuahc mox las cuatro las cuatro las doce
+# text[orig] = u tlacomunicaro tikihuajk mux las cuatro, las cuatro las doce
+# text[spa] = el presidente comunico que a las cuatro, las cuatro, las doce
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 169.505
+# timestamp[end] = 173.145
+1	otlacomunicaroh	mixed
+2	tiquiuahc	nhi
+3	mox	nhi
+4	las	spa
+5	cuatro	spa
+6	las	spa
+7	cuatro	spa
+8	las	spa
+9	doce	spa
+
+# sent_id = 4520
+# text = ualasqueh in coyomeh
+# text[orig] = hualasken kuyume
+# text[spa] = van a venir los mestizos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 179.255
+# timestamp[end] = 180.285
+1	ualasqueh	nhi
+2	in	nhi
+3	coyomeh	nhi
+
+# sent_id = 4521
+# text = yeh cuali
+# text[orig] = yej kuali
+# text[spa] = esta bien
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 189.09
+# timestamp[end] = 189.83
+1	yeh	nhi
+2	cuali	nhi
+
+# sent_id = 4522
+# text = mati quenin nen quen este bueno quita nen ipan quemeh xa noyiuqui techiluis mox quitlacamateh coconeh o amo
+# text[orig] = mati kenin nej, ken este, bueno kita nen ipa keme xa niyujki tech iljuis mux ki tlakamate kukune o amo
+# text[spa] = no se como este, porque este, bueno vez que alomejor igual nos va a decir si le obedecen los niños o no
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 192.285
+# timestamp[end] = 201.595
+1	mati	nhi
+2	quenin	nhi
+3	nen	nhi
+4	quen	nhi
+5	este	spa
+6	bueno	spa
+7	quita	nhi
+8	nen	nhi
+9	ipan	nhi
+10	quemeh	adapted-spanish-loan
+11	xa	nhi
+12	noyiuqui	nhi
+13	techiluis	nhi
+14	mox	nhi
+15	quitlacamateh	nhi
+16	coconeh	nhi
+17	o	spa
+18	amo	nhi
+
+# sent_id = 4523
+# text = aquin otemagac
+# text[orig] = aki u temehak
+# text[spa] = quien pego
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 208.505
+# timestamp[end] = 209.385
+1	aquin	nhi
+2	otemagac	nhi
+
+# sent_id = 4524
+# text = yehuatl otemagac
+# text[orig] = yejuatl u temehak
+# text[spa] = el pego
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 210.47
+# timestamp[end] = 211.41
+1	yehuatl	nhi
+2	otemagac	nhi
+
+# sent_id = 4525
+# text = xa siquiera cualanis ne
+# text[orig] = xa sikiera kualanis ne:
+# text[spa] = alomejor se va a enojar este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 217.205
+# timestamp[end] = 218.925
+1	xa	nhi
+2	siquiera	nhi
+3	cualanis	nhi
+4	ne	nhi
+
+# sent_id = 4526
+# text = ohcon mouica cachi in telpocameh yeyen
+# text[orig] = ujko mu huika cachi telpukame yeye
+# text[spa] = asi se llevan, mas los tres niños
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 224.737
+# timestamp[end] = 227.147
+1	ohcon	nhi
+2	mouica	nhi
+3	cachi	nhi
+4	in	nhi
+5	telpocameh	nhi
+6	yeyen	nhi
+
+# sent_id = 4527
+# text = uan eso amo miqueh
+# text[orig] = uan eso amo mike
+# text[spa] = y eso que no son muchos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 230.107
+# timestamp[end] = 231.277
+1	uan	nhi
+2	eso	spa
+3	amo	nhi
+4	miqueh	nhi
+
+# sent_id = 4528
+# text = ichpocameh noyiuqui pero xiquita nen Leonor iichpocau bueno itonan nis telpocatl
+# text[orig] = ichpukame nuyujki pero ixkita nen Leonor y ichpukauh bueno y tuna nis telpukatl
+# text[spa] = las niñas tambien pero ve la hija de leonor, bueno su hija parece niño
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 236.002
+# timestamp[end] = 242.202
+1	ichpocameh	nhi
+2	noyiuqui	nhi
+3	pero	spa
+4	xiquita	nhi
+5	nen	nhi
+6	Leonor	NE-Person
+7	iichpocau	nhi
+8	bueno	spa
+9	itonan	nhi
+10	nis	nhi
+11	telpocatl	nhi
+
+# sent_id = 4529
+# text = quihtoa desde nen bueno desde cocotzin ohcon
+# text[orig] = kijtua desde ne bueno desde kujkutsi ujkon
+# text[spa] = dice que desde este, bueno desde chiquita asi es
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 247.492
+# timestamp[end] = 249.832
+1	quihtoa	nhi
+2	desde	spa
+3	nen	nhi
+4	bueno	spa
+5	desde	spa
+6	cocotzin	nhi
+7	ohcon	nhi
+
+# sent_id = 4530
+# text = amo tlen san tlayicoua
+# text[orig] = amo, tlen sa tlayikuhua
+# text[spa] = no, hace cualquier cosa
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 253.802
+# timestamp[end] = 255.822
+1	amo	nhi
+2	tlen	nhi
+3	san	nhi
+4	tlayicoua	nhi
+
+# sent_id = 4531
+# text = technauatisqueh
+# text[orig] = tech nahuatiske
+# text[spa] = nos van a decir
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 261.132
+# timestamp[end] = 262.502
+1	technauatisqueh	nhi
+
+# sent_id = 4532
+# text = oniquitac oualehcoc nen Carolina oniquitac ompa omitzitato onimolueh mox canah niman onicnimileh xa itlah itlah tleno den escuela
+# text[orig] = unikitak u hualejkok Carolina u ni kitak umpa u mits itato nimuljue mux kana nima u nik nimile xa itla, itlaj tleno den escuela
+# text[spa] = vi que subio carolina, vi que ahi te fue a ver me dije que alomejor, yo pense que alomejor por algo algo de la escuela
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 265.502
+# timestamp[end] = 275.332
+1	oniquitac	nhi
+2	oualehcoc	nhi
+3	nen	nhi
+4	Carolina	NE-Person
+5	oniquitac	nhi
+6	ompa	nhi
+7	omitzitato	nhi
+8	onimolueh	nhi
+9	mox	nhi
+10	canah	nhi
+11	niman	nhi
+12	onicnimileh	nhi
+13	xa	nhi
+14	itlah	nhi
+15	itlah	nhi
+16	tleno	nhi
+17	den	mixed
+18	escuela	spa
+
+# sent_id = 4533
+# text = yeh xa quiluis
+# text[orig] = yej xa kiljuis
+# text[spa] = alomejro si le va a decir
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 286.192
+# timestamp[end] = 287.392
+1	yeh	nhi
+2	xa	nhi
+3	quiluis	nhi
+
+# sent_id = 4534
+# text = amo pero mostla yeh xa uilica quiluis ompa iuan ichan mocauas
+# text[orig] = amo pero mustla yej xa huilika kiljuis umpa ihuan ichan mu kahuas
+# text[spa] = no, pero mañana alomejor le tiene que decirle que ahi en su casa se va a quedar
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 292.317
+# timestamp[end] = 295.897
+1	amo	nhi
+2	pero	spa
+3	mostla	nhi
+4	yeh	nhi
+5	xa	nhi
+6	uilica	nhi
+7	quiluis	nhi
+8	ompa	nhi
+9	iuan	nhi
+10	ichan	nhi
+11	mocauas	nhi
+
+# sent_id = 4535
+# text = mostla
+# text[orig] = mustla
+# text[spa] = mañana
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 298.887
+# timestamp[end] = 299.787
+1	mostla	nhi
+
+# sent_id = 4536
+# text = pero yen nen maestra den ocse xa quemah ocmacac isello
+# text[orig] = pero yen nen maestra den okse xa kema ok makak y sello
+# text[spa] = pero la maestra de la otra alomejor si le dio su sello
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 326.257
+# timestamp[end] = 329.527
+1	pero	spa
+2	yen	nhi
+3	nen	nhi
+4	maestra	spa
+5	den	mixed
+6	ocse	nhi
+7	xa	nhi
+8	quemah	nhi
+9	ocmacac	nhi
+10	isello	mixed
+
+# sent_id = 4537
+# text = quita oquihtoh mox ocnalitasquia
+# text[orig] = tikita u kijto mux uk nalitaskia
+# text[spa] = vez que dijo que la iba a ir a ver
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 330.902
+# timestamp[end] = 333.292
+1	quita	nhi
+2	oquihtoh	nhi
+3	mox	nhi
+4	ocnalitasquia	nhi
+
+# sent_id = 4538
+# text = aquin
+# text[orig] = akin
+# text[spa] = quien
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 338.547
+# timestamp[end] = 339.227
+1	aquin	nhi
+
+# sent_id = 4539
+# text = xa ocniquisquiaya nochi ya
+# text[orig] = xa uk nikiskiaya nuchi ya
+# text[spa] = alomejor quisiera que ya todo este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 341.312
+# timestamp[end] = 343.112
+1	xa	nhi
+2	ocniquisquiaya	nhi
+3	nochi	nhi
+4	ya	spa
+
+# sent_id = 4540
+# text = ocniquisquiaya niman ma ma ahora sí ma mamoscalti ni...
+# text[orig] = uknikiskiaya nima  ma ma, ora si ma muskalti ni
+# text[spa] = quisiera que luego ,este , ahora que crezca su
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 345.847
+# timestamp[end] = 351.147
+1	ocniquisquiaya	nhi
+2	niman	nhi
+3	ma	nhi
+4	ma	nhi
+5	ahora	spa
+6	sí	spa
+7	ma	nhi
+8	mamoscalti	nhi
+9	ni...	nhi
+
+# sent_id = 4541
+# text = picante
+# text[orig] = picante
+# text[spa] = picante
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 352.187
+# timestamp[end] = 353.437
+1	picante	spa
+
+# sent_id = 4542
+# text = mox quemah mota nen quemeh tilauac y este nen
+# text[orig] = mux kema muta nej kemej tilahuak  y este nen
+# text[spa] = apoco si se ve como que esta grueso su, este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 357.252
+# timestamp[end] = 361.812
+1	mox	nhi
+2	quemah	nhi
+3	mota	nhi
+4	nen	nhi
+5	quemeh	adapted-spanish-loan
+6	tilauac	nhi
+7	y	spa
+8	este	spa
+9	nen	nhi
+
+# sent_id = 4543
+# text = mox amo xa por neneh poloa atl
+# text[orig] = mux amo, xa por nenej puluhua atl
+# text[spa] = apoco no, alomejor po este le falta agua
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 367.897
+# timestamp[end] = 370.867
+1	mox	nhi
+2	amo	nhi
+3	xa	nhi
+4	por	spa
+5	neneh	nhi
+6	poloa	nhi
+7	atl	nhi
+
+# sent_id = 4544
+# text = yopehpeuaya ica non xiquita otiualtimoqueh uan neh oc onicman atl
+# text[orig] = yu pejpehuaya, ikanun ixkita u ti hualtimuke huan nej uk u nikman atl
+# text[spa] = ya empezaba, por eso vez que bajamos y yo todavia pare agua
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 374.582
+# timestamp[end] = 380.222
+1	yopehpeuaya	nhi
+2	ica	nhi
+3	non	nhi
+4	xiquita	nhi
+5	otiualtimoqueh	nhi
+6	uan	nhi
+7	neh	nhi
+8	oc	nhi
+9	onicman	nhi
+10	atl	nhi
+
+# sent_id = 4545
+# text = como xiquita otitiquitiqueh ica nen pico milauac chicauac nen tlali nochin nen tlalnixtl nochi mahcocui ich in se ixayac ich se itzonticon
+# text[orig] = como ixkita u ti tikitke ika nen pico milak chikahuak nen tlali nuchin nen tlalnixtl nuchi majkukui ichin se i xayak ich se i tsontikon
+# text[spa] = como vez que trabajamos con el pico, deveras estaba fuerte la tierra, todo el polvo de la tierra se levanta y en nuestra cara en nuestra cabeza
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 381.392
+# timestamp[end] = 389.172
+1	como	spa
+2	xiquita	nhi
+3	otitiquitiqueh	nhi
+4	ica	nhi
+5	nen	nhi
+6	pico	spa
+7	milauac	nhi
+8	chicauac	nhi
+9	nen	nhi
+10	tlali	nhi
+11	nochin	nhi
+12	nen	nhi
+13	tlalnixtl	nhi
+14	nochi	nhi
+15	mahcocui	nhi
+16	ich	nhi
+17	in	nhi
+18	se	nhi
+19	ixayac	nhi
+20	ich	nhi
+21	se	nhi
+22	itzonticon	nhi
+
+# sent_id = 4546
+# text = entonces onimahmoueh onicman atl para nimopacas uan neneh
+# text[orig] = tons u ni majmuhue, unikman atl para ni mu pakas, aun nenej
+# text[spa] = entonces me lave la cabeza, pare agua para bañarme y este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 389.642
+# timestamp[end] = 394.782
+1	entonces	spa
+2	onimahmoueh	nhi
+3	onicman	nhi
+4	atl	nhi
+5	para	spa
+6	nimopacas	nhi
+7	uan	nhi
+8	neneh	nhi
+
+# sent_id = 4547
+# text = ohcon yen yonimopacac yeh cachi quemeh nis opehpeutoya uan tlamo san tipitzin yomonacteh yen opeu eheca
+# text[orig] = ojko yen, yu ni mu pakak yej kachi keme nis u pejpeujtuya, uan tlamo san tipitsi yu u nakte yen upeuj ejeka
+# text[spa] = asi este, ya me bañe y es cuando ya empezaba, y si no ya tantito ya se detuvo de que empezo a hacer aire
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 396.007
+# timestamp[end] = 405.597
+1	ohcon	nhi
+2	yen	nhi
+3	yonimopacac	nhi
+4	yeh	nhi
+5	cachi	nhi
+6	quemeh	adapted-spanish-loan
+7	nis	nhi
+8	opehpeutoya	nhi
+9	uan	nhi
+10	tlamo	nhi
+11	san	nhi
+12	tipitzin	nhi
+13	yomonacteh	nhi
+14	yen	nhi
+15	opeu	nhi
+16	eheca	nhi
+
+# sent_id = 4548
+# text = mati como yalua ocuicac tlacatl pero mati mox occuiliqueh
+# text[orig] = mati, como yaljua ukuikak tlakatl pero mati mux ok kuhuilijke
+# text[spa] = no se como ayer llevo el señor pero no se si le compraron
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 420.147
+# timestamp[end] = 423.097
+1	mati	nhi
+2	como	spa
+3	yalua	nhi
+4	ocuicac	nhi
+5	tlacatl	nhi
+6	pero	spa
+7	mati	nhi
+8	mox	nhi
+9	occuiliqueh	nhi
+
+# sent_id = 4549
+# text = mati
+# text[orig] = mati
+# text[spa] = no se
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 424.792
+# timestamp[end] = 425.512
+1	mati	nhi
+
+# sent_id = 4550
+# text = axan amo otlaticqueh mas xa siquiera yen mostla
+# text[orig] = axan amo u tlatikkej mas xa sikiera yen mustla
+# text[spa] = hoy no cortaron alomejor mañana
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 427.957
+# timestamp[end] = 430.927
+1	axan	nhi
+2	amo	nhi
+3	otlaticqueh	nhi
+4	mas	spa
+5	xa	nhi
+6	siquiera	spa
+7	yen	nhi
+8	mostla	nhi
+
+# sent_id = 4551
+# text = mostla o uiptla porque amo quihtoa Mireya mox san nepa oquis hasta amo mox san quemeh xa san yen quesqui vuelta porque hasta amo tlahco oyahqueh
+# text[orig] = mustla huiptla, porque amo, kijtuhua Mireya mux san nepa ukis hasta amo, mux san kemej xa sayen keski vuelta porque hasta amo tlajko u yajke
+# text[spa] = mañana o pasado, porque no, dice mireya, que alla salio no , solo como, alomejor como unas vueltas porque no fueron ni la mitad
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 431.962
+# timestamp[end] = 441.142
+1	mostla	nhi
+2	o	spa
+3	uiptla	nhi
+4	porque	spa
+5	amo	nhi
+6	quihtoa	nhi
+7	Mireya	NE-Person
+8	mox	nhi
+9	san	nhi
+10	nepa	nhi
+11	oquis	nhi
+12	hasta	spa
+13	amo	nhi
+14	mox	nhi
+15	san	nhi
+16	quemeh	adapted-spanish-loan
+17	xa	nhi
+18	san	nhi
+19	yen	nhi
+20	quesqui	nhi
+21	vuelta	spa
+22	porque	spa
+23	hasta	spa
+24	amo	nhi
+25	tlahco	nhi
+26	oyahqueh	nhi
+
+# sent_id = 4552
+# text = xa cualtzin bueno ipan yi quipiya quihtoa quemaniya ompa niquinualpantzacuile ichcameh ohcon niquitztoc yeh neneh yo... milauac cualtzin yocpiyaya uan xa yi quipiya quemeh se ye xa yochicueyitic
+# text[orig] = xa kualtsin, bueno ipa yi kipia kijtoa kemania umpa ni kin hualpantsakuile ichikame ujkon ni kitstok yej nenej yu milak kualtsin yuk piaya huan xa yi kipia keme se ye xa yu chikueyitik
+# text[spa] = alomejor esta bonito, bueno ya tiene un poco, digo que la otra vez ahi detuve a las borregas, asi estoy biendo y deveras ya tenia bien bonito y ya a de tener como una olomejor ya hizo ocho dias
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 451.092
+# timestamp[end] = 463.312
+1	xa	nhi
+2	cualtzin	nhi
+3	bueno	spa
+4	ipan	nhi
+5	yi	nhi
+6	quipiya	nhi
+7	quihtoa	nhi
+8	quemaniya	nhi
+9	ompa	nhi
+10	niquinualpantzacuile	nhi
+11	ichcameh	nhi
+12	ohcon	nhi
+13	niquitztoc	nhi
+14	yeh	nhi
+15	neneh	nhi
+16	yo...	nhi
+17	milauac	nhi
+18	cualtzin	nhi
+19	yocpiyaya	nhi
+20	uan	nhi
+21	xa	nhi
+22	yi	nhi
+23	quipiya	nhi
+24	quemeh	nhi
+25	se	nhi
+26	ye	nhi
+27	xa	nhi
+28	yochicueyitic	nhi
+
+# sent_id = 4553
+# text = ohcon yi quipiya que ompa oniualpanoc porque onicualpantzacuilihtoya neneh ichcameh uan para ahorita uan ica nin tonaltzin yeh xa cachi isiui
+# text[orig] = ujki yik pia ke umpa u ni hual panuk porque u nik hualpantsikuilijtuya nenej ichkame uan para ahorita huan ika nin tunaltsi yej xa kachi isihui
+# text[spa] = ya tiene de que pase por ahi, porque estava deteniendo a las borregas, y para ahorita y con este sol a de apurarse
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 464.327
+# timestamp[end] = 475.277
+1	ohcon	nhi
+2	yi	nhi
+3	quipiya	nhi
+4	que	spa
+5	ompa	nhi
+6	oniualpanoc	nhi
+7	porque	spa
+8	onicualpantzacuilihtoya	nhi
+9	neneh	nhi
+10	ichcameh	nhi
+11	uan	nhi
+12	para	spa
+13	ahorita	spa
+14	uan	nhi
+15	ica	nhi
+16	nin	nhi
+17	tonaltzin	nhi
+18	yeh	nhi
+19	xa	nhi
+20	cachi	nhi
+21	isiui	nhi
+
+# sent_id = 4554
+# text = mox ualtlaniuic nochi yoatlatequeh
+# text[orig] = mux hualtlaniuik nuchi yu tla ateke
+# text[spa] = apoco todo hacia abajo ya le regaste agua
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 485.127
+# timestamp[end] = 486.517
+1	mox	nhi
+2	ualtlaniuic	nhi
+3	nochi	nhi
+4	yoatlatequeh	nhi
+
+# sent_id = 4555
+# text = tleca
+# text[orig] = tleka
+# text[spa] = porque
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 491.342
+# timestamp[end] = 491.982
+1	tleca	nhi
+
+# sent_id = 4556
+# text = mox in tlen de neuquin in atl ehcotoc
+# text[orig] = mux tlen de naujkin atl ejkotok
+# text[spa] = apoco el agua que llega es de alla
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 496.032
+# timestamp[end] = 497.812
+1	mox	nhi
+2	in	nhi
+3	tlen	nhi
+4	de	spa
+5	neuquin	nhi
+6	in	nhi
+7	atl	nhi
+8	ehcotoc	nhi
+
+# sent_id = 4557
+# text = tehuan ahorita bueno bueno iyeua motlapaqueh porque ompa ouitztoya den, de nica den, den agua potable ompa ouitztoya entonces niquiluia no... bueno nomaman como o... tiquita otlapiyato
+# text[orig] = tejuan ahorita, bueno iyehua mu tlapake porque umpa u huitstuya den, de nika den, den agua potable umpa u huistuya entonces nikiljuia nu, bueno nu maman como u tikita u tlapiato
+# text[spa] = nosotros ahorita, bueno hace rato que lave mi ropa por que ahi estaba cayendo de aqui del agua potable ahi estaba callendo entonces le digo a tu, bueno mi mama como ves que fue a cuidar
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 516.417
+# timestamp[end] = 526.707
+1	tehuan	nhi
+2	ahorita	spa
+3	bueno	spa
+4	bueno	spa
+5	iyeua	nhi
+6	motlapaqueh	nhi
+7	porque	spa
+8	ompa	nhi
+9	ouitztoya	nhi
+10	den,	adapted-spanish-loan
+11	de	spa
+12	nica	nhi
+13	den,	adapted-spanish-loan
+14	den	mixed
+15	agua	spa
+16	potable	spa
+17	ompa	nhi
+18	ouitztoya	nhi
+19	entonces	spa
+20	niquiluia	nhi
+21	no...	nhi
+22	bueno	spa
+23	nomaman	mixed
+24	como	spa
+25	o...	nhi
+26	tiquita	nhi
+27	otlapiyato	nhi
+
+# sent_id = 4558
+# text = tons nicchix... onicchixtoya para titlacuasqueh amo entonces opeu nimotlapaquiya uili ehcoticah atl uan miqueh tilmahmeh oniquimpac tlamo miquiasqueh uan niman amo tlen atl
+# text[orig] = tons nik chixtoya para ti tlakuaske amo ejko entonces yupej ni mu tlapakiya, huili ejkotika atl huan mike  nu tilmajme u ni kimpak tlamo mikiyaske huan nima  amo tlen atl
+# text[spa] = entonces la estaba esperando para comer, pero no llega entonces empece a lavar mi ropa, esta llegando agua y hay mucha ropa, las lave, porque si no se hacen muchas  y luego no hay agua
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 528.027
+# timestamp[end] = 536.517
+1	tons	spa
+2	nicchix...	nhi
+3	onicchixtoya	nhi
+4	para	spa
+5	titlacuasqueh	nhi
+6	amo	nhi
+7	entonces	spa
+8	opeu	nhi
+9	nimotlapaquiya	nhi
+10	uili	nhi
+11	ehcoticah	nhi
+12	atl	nhi
+13	uan	nhi
+14	miqueh	nhi
+15	tilmahmeh	nhi
+16	oniquimpac	nhi
+17	tlamo	nhi
+18	miquiasqueh	nhi
+19	uan	nhi
+20	niman	nhi
+21	amo	nhi
+22	tlen	nhi
+23	atl	nhi
+
+# sent_id = 4559
+# text = opeu niquimpaca notilmahuan uan neneh o... opeu neneh yehuatl nican atzintli pauitztoc mas tzocopintzin nepa ihquin tla amo tlen opauitzini nepa ihquin amo tlen
+# text[orig] = upeuj ni kim paka nu tilmajuan huan nenej u upeuj nenej yehuatl nikatsintlipahuitstok majh tsokopintsi nepa ijkin tla amo tlen u pahuitsini nepa ijkin amo tlen
+# text[spa] = empece a lavar mi ropa y este con ese agua que esta saliendo aunque poquito,alla si no saliera nada, y alla no hay nada
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 538.667
+# timestamp[end] = 550.977
+1	opeu	nhi
+2	niquimpaca	nhi
+3	notilmahuan	nhi
+4	uan	nhi
+5	neneh	nhi
+6	o...	nhi
+7	opeu	nhi
+8	neneh	nhi
+9	yehuatl	nhi
+10	nican	nhi
+11	atzintli	nhi
+12	pauitztoc	nhi
+13	mas	spa
+14	tzocopintzin	nhi
+15	nepa	nhi
+16	ihquin	nhi
+17	tla	nhi
+18	amo	nhi
+19	tlen	nhi
+20	opauitzini	nhi
+21	nepa	nhi
+22	ihquin	nhi
+23	amo	nhi
+24	tlen	nhi
+
+# sent_id = 4560
+# text = canin secanas
+# text[orig] = kanin se kanas
+# text[spa] = donde vamos a agarrar
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 551.472
+# timestamp[end] = 552.622
+1	canin	nhi
+2	secanas	nhi
+
+# sent_id = 4561
+# text = xa amo no tlen quiluihtoc nen icni porque pues nican yehuatl quicui para tlaamaca xa amo no tlen quiluitoc
+# text[orig] = xa amo nu tlen kiljuijtok ne ikni porque pues nika yehuatl kikui para tla amaka, xa amo nu tlen kiljuijtok
+# text[spa] = alomejor igual nole ah dicho nada su hermana porque pues aqui el lo ocupa para dar de tomar agua, alomejor igual no le ah dicho nada
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 559.447
+# timestamp[end] = 567.677
+1	xa	nhi
+2	amo	nhi
+3	no	nhi
+4	tlen	nhi
+5	quiluihtoc	nhi
+6	nen	nhi
+7	icni	nhi
+8	porque	spa
+9	pues	spa
+10	nican	nhi
+11	yehuatl	nhi
+12	quicui	nhi
+13	para	spa
+14	tlaamaca	nhi
+15	xa	nhi
+16	amo	nhi
+17	no	nhi
+18	tlen	nhi
+19	quiluitoc	nhi
+
+# sent_id = 4562
+# text = yotlaniquis den escuela
+# text[orig] = yu tlanikis den escuela
+# text[spa] = ya salio de la escuela
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 578.697
+# timestamp[end] = 580.177
+1	yotlaniquis	nhi
+2	den	mixed
+3	escuela	nhi
+
+# sent_id = 4563
+# text = mati xa quemah porque yi quen... axan amo porque yalua oticualpanitztoyah nin hora o... nin hora o tla niquis ipapa yeh xa canin nen tematlantoc
+# text[orig] = mati xa kema porque yi kem , a xa amo porque yaljua u ti kualpanitstuya nin hora u, nin hora u tlanikis, y papa yej xa kanin nej tematlantok
+# text[spa] = nose, alomejor si porque la otra, a no creo porque ayer le estabamos viendo en esta horas, a estas horas salio, su papa alomejor en un lado ah de estar trabajando
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 582.267
+# timestamp[end] = 593.357
+1	mati	nhi
+2	xa	nhi
+3	quemah	nhi
+4	porque	spa
+5	yi	nhi
+6	quen...	nhi
+7	axan	nhi
+8	amo	nhi
+9	porque	spa
+10	yalua	nhi
+11	oticualpanitztoyah	nhi
+12	nin	nhi
+13	hora	spa
+14	o...	spa
+15	nin	nhi
+16	hora	spa
+17	o	spa
+18	tla	nhi
+19	niquis	nhi
+20	ipapa	mixed
+21	yeh	nhi
+22	xa	nhi
+23	canin	nhi
+24	nen	nhi
+25	tematlantoc	nhi
+
+# sent_id = 4564
+# text = ica yunta xa yeh milauac yi siyoui ica non yehuatl yi youi ica in couitl
+# text[orig] = ika yunta, xa yi milak yi siyuhui ikanun yejuatl yi yuhui ikan kuhuitl
+# text[spa] = con arado, alomejor deberas ya se cansa por eso el ya va por la leña
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 594.462
+# timestamp[end] = 600.722
+1	ica	nhi
+2	yunta	spa
+3	xa	nhi
+4	yeh	nhi
+5	milauac	nhi
+6	yi	nhi
+7	siyoui	nhi
+8	ica	nhi
+9	non	nhi
+10	yehuatl	nhi
+11	yi	nhi
+12	youi	nhi
+13	ica	nhi
+14	in	nhi
+15	couitl	nhi
+
+# sent_id = 4565
+# text = tehuan amo tlen tipiyah yi quemaniya ocatca tzocotzin onicnamacato ne iuan Roman den fierro uan nen plástico xa ome costal
+# text[orig] = tejuan amo tlen tipia, yikemania u katka tsokotsi u nik namakato ne ihuan Roman, den fierro huan nen plastico xa umi costal
+# text[spa] = nosotros no tenemos nada, la otra vez habia poquito lo fui a vender alla con roman, del fierro y el plastico alomejor dos costales
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 607.942
+# timestamp[end] = 617.642
+1	tehuan	nhi
+2	amo	nhi
+3	tlen	nhi
+4	tipiyah	nhi
+5	yi	nhi
+6	quemaniya	nhi
+7	ocatca	nhi
+8	tzocotzin	nhi
+9	onicnamacato	nhi
+10	ne	nhi
+11	iuan	nhi
+12	Roman	NE-Person
+13	den	mixed
+14	fierro	spa
+15	uan	nhi
+16	nen	nhi
+17	plástico	spa
+18	xa	nhi
+19	ome	nhi
+20	costal	spa
+
+# sent_id = 4566
+# text = apenas cincuenta pesos
+# text[orig] = apenas cincuenta pesos
+# text[spa] = apenas cincuenta pesos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 618.122
+# timestamp[end] = 620.142
+1	apenas	spa
+2	cincuenta	spa
+3	pesos	spa
+
+# sent_id = 4567
+# text = veintiocho pesos
+# text[orig] = 28 pesos
+# text[spa] = veintiocho pesos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 625.447
+# timestamp[end] = 626.417
+1	veintiocho	spa
+2	pesos	spa
+
+# sent_id = 4568
+# text = quihtoa momaman yeh ocahcotemoto siqui quiltonilil quihtoa ompa oquitac nen milauac nen na... namochil quihtoa yi cuali ahora sí quen quen mota chiltzitzin mota yi cuali para nantiquisqueh mas quera macuil kilo
+# text[orig] = kijtuhua mu mama yej ukajku temuto siki kiltunili, kijtua umpa u kitak nen milak nen na nu mu chil kijtuhua yi kuali, ora si ken, ken muta chiltsitsi muta yi kuali para nak tikiske mas kera makuil kilo
+# text[spa] = dice tu mama que ella fue a buscar quelites, dice que ahi vio este deberas vio su planta de chile, dice que ya, ahora si como se ven los chilitos ya se ven para que corten aunque para  unos 5 kilos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 627.094
+# timestamp[end] = 641.781
+1	quihtoa	nhi
+2	momaman	mixed
+3	yeh	nhi
+4	ocahcotemoto	nhi
+5	siqui	nhi
+6	quiltonilil	nhi
+7	quihtoa	nhi
+8	ompa	nhi
+9	oquitac	nhi
+10	nen	nhi
+11	milauac	nhi
+12	nen	nhi
+13	na...	nhi
+14	namochil	nhi
+15	quihtoa	nhi
+16	yi	nhi
+17	cuali	nhi
+18	ahora	spa
+19	sí	spa
+20	quen	nhi
+21	quen	nhi
+22	mota	nhi
+23	chiltzitzin	nhi
+24	mota	nhi
+25	yi	nhi
+26	cuali	nhi
+27	para	spa
+28	nantiquisqueh	nhi
+29	mas	spa
+30	quera	adapted-spanish-loan
+31	macuil	nhi
+32	kilo	spa
+
+# sent_id = 4569
+# text = quihtoa porque tlamo yeh como ica milauac quihtoa mox ica nin tonaltzin tons yi mota ya lleno yeh quihtoa ica nin tonaltzin yeh peua quemeh xini
+# text[orig] = kijtoa porque tlamo yej como ika milak kijtoa mux ika nin tonaltsi tos yi muta ya yi  yeno yej kijtuhua ika nin tonaltsin yej pehua keme xini
+# text[spa] = dice porque si no, como dice que deberas con el sol entonces se ve que ya estan llenos, ella dice que con este sol empeza como a regarse
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 642.939
+# timestamp[end] = 652.234
+1	quihtoa	nhi
+2	porque	spa
+3	tlamo	nhi
+4	yeh	nhi
+5	como	spa
+6	ica	nhi
+7	milauac	nhi
+8	quihtoa	nhi
+9	mox	nhi
+10	ica	nhi
+11	nin	nhi
+12	tonaltzin	nhi
+13	tons	spa
+14	yi	nhi
+15	mota	nhi
+16	ya	spa
+17	lleno	spa
+18	yeh	nhi
+19	quihtoa	nhi
+20	ica	nhi
+21	nin	nhi
+22	tonaltzin	nhi
+23	yeh	nhi
+24	peua	nhi
+25	quemeh	adapted-spanish-loan
+26	xini	nhi
+
+# sent_id = 4570
+# text = ica non oquihtohtoya mox
+# text[orig] = ikanun kijtojtuya mux
+# text[spa] = por eso decia que
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 653.941
+# timestamp[end] = 655.232
+1	ica	nhi
+2	non	nhi
+3	oquihtohtoya	nhi
+4	mox	nhi
+
+# sent_id = 4571
+# text = quihtoa ohcon quihtoa mox mitzcomentaruilisquia
+# text[orig] = kijto ujkon kijtua mux mits comentarjuiliskia
+# text[spa] = dice, asi dice que te iba a comentar
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 667.555
+# timestamp[end] = 671.219
+1	quihtoa	nhi
+2	ohcon	nhi
+3	quihtoa	nhi
+4	mox	nhi
+5	mitzcomentaruilisquia	mixed
+
+# sent_id = 4572
+# text = quihtoa para neneh
+# text[orig] = kijtua para nenej
+# text[spa] = dique que para  este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 672.082
+# timestamp[end] = 673.191
+1	quihtoa	nhi
+2	para	spa
+3	neneh	nhi
+
+# sent_id = 4573
+# text = quihtoa xitiquini mas quihtoa porque nen oquitac ualtlaniuic quihtoa nepa titlah quihtoa amo yahtoc niquiluia pero yeh mox tiquihtoa ompa cachi quemeh cachi quipihpiya quihtoa amo oahcotlachiato san otlachix ualtlaniuic tlalpan campa nen
+# text[orig] = kijtuhua ixtikini mas, kijtua porque nen ikitak hualtlaniuik tua nepa titla kijtua amo yajtok nikiljuia pero yej mux ti kijtuhua umpa cachi keme cachi ki pijpia, kijtua amo ajktlachiato san u tlachix hualtlaniuik tlalpa campa nen
+# text[spa] = dice que cortaras uanque, dice que porque vio abajo, dice que alla donde hay piedra dice que no ah ido, le digo pero dices que ahi tiene mas, dice que no ah ido aver solo vio abajo dodede
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 674.055
+# timestamp[end] = 685.656
+1	quihtoa	nhi
+2	xitiquini	nhi
+3	mas	spa
+4	quihtoa	nhi
+5	porque	spa
+6	nen	nhi
+7	oquitac	nhi
+8	ualtlaniuic	nhi
+9	quihtoa	nhi
+10	nepa	nhi
+11	titlah	nhi
+12	quihtoa	nhi
+13	amo	nhi
+14	yahtoc	nhi
+15	niquiluia	nhi
+16	pero	spa
+17	yeh	nhi
+18	mox	nhi
+19	tiquihtoa	nhi
+20	ompa	nhi
+21	cachi	nhi
+22	quemeh	adapted-spanish-loan
+23	cachi	nhi
+24	quipihpiya	nhi
+25	quihtoa	nhi
+26	amo	nhi
+27	oahcotlachiato	nhi
+28	san	nhi
+29	otlachix	nhi
+30	ualtlaniuic	nhi
+31	tlalpan	nhi
+32	campa	nhi
+33	nen	nhi
+
+# sent_id = 4574
+# text = tlalcualcan
+# text[orig] = tlalkualkan
+# text[spa] = esta plano
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 686.46
+# timestamp[end] = 687.684
+1	tlalcualcan	nhi
+
+# sent_id = 4575
+# text = quihtoa mota cualtzin yi quipihpiya nen chiltzitzin
+# text[orig] = kijtua muta kualtsin yi ki pijpia nen chiltsitsi
+# text[spa] = dice que se ve que ya tiene bonito los chilitos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 688.181
+# timestamp[end] = 691.981
+1	quihtoa	nhi
+2	mota	nhi
+3	cualtzin	nhi
+4	yi	nhi
+5	quipihpiya	nhi
+6	nen	nhi
+7	chiltzitzin	nhi
+
+# sent_id = 4576
+# text = quihtoa xa ipan den ahcocuilisqueh xa ipan nen quipiyas mas quesqui kilohtzin uan quihtoa uan cualtzin nen cualtzin ueueyi uan mota quipiya i... lleno tzocotzin
+# text[orig] = kijtua xa ipa den ajko kuiliske xa ipa nej kipias mas keski kilojtsi uan kijtuhua huan kualtsin nen kialtsin huejhueyi huan muta ipa ya lleno tsocotsi
+# text[spa] = dice que alomejor si le quitan alomejor va a tener unos cuantos kilos y dice que estan bien grandes y se ve que ya estan un poco llenos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 692.038
+# timestamp[end] = 701.265
+1	quihtoa	nhi
+2	xa	nhi
+3	ipan	nhi
+4	den	mixed
+5	ahcocuilisqueh	nhi
+6	xa	nhi
+7	ipan	nhi
+8	nen	nhi
+9	quipiyas	nhi
+10	mas	spa
+11	quesqui	nhi
+12	kilohtzin	mixed
+13	uan	nhi
+14	quihtoa	nhi
+15	uan	nhi
+16	cualtzin	nhi
+17	nen	nhi
+18	cualtzin	nhi
+19	ueueyi	nhi
+20	uan	nhi
+21	mota	nhi
+22	quipiya	nhi
+23	i...	nhi
+24	lleno	spa
+25	tzocotzin	nhi
+
+# sent_id = 4577
+# text = xinis uan neh quihtoa Abraham mox de quemeh por ejemplo ohcon yi cuando yi cuali para motiquilis uan amo setiquilia yen planta mox chicaui
+# text[orig] = xinis huan nej, kijtuhua Abraham mux de keme por ejemplo ujkon yi cuando yi kuali para mu tikilis huan amo sek tikilia yen planta mux chikahui
+# text[spa] = se va a regar y dice abraham de que, por ejemplo asi ya cuando ya esta bien para que se le corte y no le cortamos la planta se madura
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 710.948
+# timestamp[end] = 721.823
+1	xinis	nhi
+2	uan	nhi
+3	neh	nhi
+4	quihtoa	nhi
+5	Abraham	NE-Person
+6	mox	nhi
+7	de	spa
+8	quemeh	adapted-spanish-loan
+9	por	spa
+10	ejemplo	spa
+11	ohcon	nhi
+12	yi	nhi
+13	cuando	spa
+14	yi	nhi
+15	cuali	nhi
+16	para	spa
+17	motiquilis	nhi
+18	uan	nhi
+19	amo	nhi
+20	setiquilia	nhi
+21	yen	nhi
+22	planta	spa
+23	mox	nhi
+24	chicaui	nhi
+
+# sent_id = 4578
+# text = quihtoa quihtoa lugar cachi xochiyouas cachi mopilos chili tons amo
+# text[orig] = kijtuhua, kijtuhua lugar kachi xuchiyuhuas cachi mu pilus chili tons amo
+# text[spa] = dice, dice que en lugar de que de mas flor para colgarse el chile, entonces no
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 722.905
+# timestamp[end] = 726.742
+1	quihtoa	nhi
+2	quihtoa	nhi
+3	lugar	spa
+4	cachi	nhi
+5	xochiyouas	nhi
+6	cachi	nhi
+7	mopilos	nhi
+8	chili	nhi
+9	tons	spa
+10	amo	nhi
+
+# sent_id = 4579
+# text = neh amo nicmati yeh como amo se viaje bueno amo sectoca amo nimati
+# text[orig] = ne amo nik mati yej como amo se viaje, bueno amo sek toka amo ni mati
+# text[spa] = yo no se, como en ningun viaje, bueno no eh sembrado pues no se
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 729.694
+# timestamp[end] = 735.948
+1	neh	nhi
+2	amo	nhi
+3	nicmati	nhi
+4	yeh	nhi
+5	como	spa
+6	amo	nhi
+7	se	nhi
+8	viaje	spa
+9	bueno	spa
+10	amo	nhi
+11	sectoca	nhi
+12	amo	nhi
+13	nimati	nhi
+
+# sent_id = 4580
+# text = yeh techtlaqueutoc nen Jazmin pero a ver a ver mox uili niyo porque ihcuac como tlacah oquihtoh in Federico mox techcohtiquiliqui
+# text[orig] = yej tech tlakeujtok nen Jazmin pero aver, aver mux huili niyu porque ijkuak como tlaka ukijton Federico mux tech kuhtikiliki
+# text[spa] = ya nos esta invitando a trabajr jazmin pero aver, aver si puedo ir porque es cuandno creo dijo federico que nos viene a cortar la leña
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 740.156
+# timestamp[end] = 747.023
+1	yeh	nhi
+2	techtlaqueutoc	nhi
+3	nen	nhi
+4	Jazmin	NE-Person
+5	pero	spa
+6	a	spa
+7	ver	spa
+8	a	spa
+9	ver	spa
+10	mox	nhi
+11	uili	nhi
+12	niyo	nhi
+13	porque	spa
+14	ihcuac	nhi
+15	como	spa
+16	tlacah	nhi
+17	oquihtoh	nhi
+18	in	nhi
+19	Federico	NE-Person
+20	mox	nhi
+21	techcohtiquiliqui	nhi
+
+# sent_id = 4581
+# text = yeh nen siqui auatl uan mas tzocotzin ocotl a ver
+# text[orig] = ye nen siki ahuatl, aun mas tsokotsin okotl aver
+# text[spa] = unos encino, y un poco de ocote, aver
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 748.765
+# timestamp[end] = 752.965
+1	yeh	nhi
+2	nen	nhi
+3	siqui	nhi
+4	auatl	nhi
+5	uan	nhi
+6	mas	spa
+7	tzocotzin	nhi
+8	ocotl	nhi
+9	a	spa
+10	ver	spa
+
+
+# sent_id = 4582
+# text = quemah san chiltiquilistl
+# text[orig] = kema, san chiltikilis
+# text[spa] = si,solo es cortar chile
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 763.032
+# timestamp[end] = 764.923
+1	quemah	nhi
+2	san	nhi
+3	chiltiquilistl	nhi
+
+# sent_id = 4583
+# text = niquiluia momaman oc niquitas a ver niquiluia yehuan quihtoah mox moyoleuas Federico niquiluia yen touatzin tocontlamacati
+# text[orig] = ni kiljuia mu mama uk ni kitas aver mux, nikiljuia yehuan kijtua mux mu yulehuas Federico nikiljuia yen tuhuatsi tu kun tlamakati
+# text[spa] = le digo a tu mama, que todavia voy a ver, le digo, ellos me dicen si apoco nos va a ayudar federico le digo pero usted le va a ir a dar de comer
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 770.194
+# timestamp[end] = 777.747
+1	niquiluia	nhi
+2	momaman	mixed
+3	oc	nhi
+4	niquitas	nhi
+5	a	spa
+6	ver	spa
+7	niquiluia	nhi
+8	yehuan	nhi
+9	quihtoah	nhi
+10	mox	nhi
+11	moyoleuas	nhi
+12	Federico	NE-Person
+13	niquiluia	nhi
+14	yen	nhi
+15	touatzin	nhi
+16	tocontlamacati	nhi
+
+# sent_id = 4584
+# text = Diego mas niccahcautinimi como ihcuac Tere amo clases mas maquita
+# text[orig] = diego ay mas nik kajka como ijkuak Tere amo claces mas makita
+# text[spa] = aunque deje a diego, como ese dia no va haber claces que lo vea tere
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 778.544
+# timestamp[end] = 783.007
+1	Diego	NE-Person
+2	mas	spa
+3	niccahcautinimi	nhi
+4	como	spa
+5	ihcuac	nhi
+6	Tere	NE-Person
+7	amo	nhi
+8	clases	spa
+9	mas	spa
+10	maquita	nhi
+
+# sent_id = 4585
+# text = ica non ne
+# text[orig] = ikanun nej
+# text[spa] = por eso este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 784.447
+# timestamp[end] = 785.547
+1	ica	nhi
+2	non	nhi
+3	ne	nhi
+
+# sent_id = 4586
+# text = amo tlen san tlacaqui
+# text[orig] = amo tlen san tlakaki
+# text[spa] = nada, solo escucha
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 787.542
+# timestamp[end] = 788.806
+1	amo	nhi
+2	tlen	nhi
+3	san	nhi
+4	tlacaqui	nhi
+
+# sent_id = 4587
+# text = san tlacaqui ihcuac nen yen yen nicahteuas nican pero noyiuqui yen neneh a veces amo tlatlacamateh
+# text[orig] = sa tlakaki ijkuak nej yen , yen ni kajtehuas nikan pero nuyujki yen nenej aveces amo tlatlakamate
+# text[spa] = solo escucha, esa vez este, lo voy a dejar aca pero tambien este aveces no obedecen
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 792.141
+# timestamp[end] = 799.148
+1	san	nhi
+2	tlacaqui	nhi
+3	ihcuac	nhi
+4	nen	nhi
+5	yen	nhi
+6	yen	nhi
+7	nicahteuas	nhi
+8	nican	nhi
+9	pero	spa
+10	noyiuqui	nhi
+11	yen	nhi
+12	neneh	nhi
+13	a	spa
+14	veces	spa
+15	amo	nhi
+16	tlatlacamateh	nhi
+
+# sent_id = 4588
+# text = uan quihtoa neneh quihtoa pues yeh isqui nen cohtiquini ocsipa iuan ichcameh quihtoa mox yalua como nen xiquita Nestor yeh iuan oyah
+# text[orig] = uan kijtuhua nenej, kijtuhua pues yej iski nen kuhtikini oksipa ihuan y ichkame, kijtuhua mux yaljua como nen ixkita Nestor ye ihua uya
+# text[spa] = y dice este, dice pues van a estar los cortadores de leña y las borregas, dice que ayer como vez que fue con nestor
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 802.112
+# timestamp[end] = 814.151
+1	uan	nhi
+2	quihtoa	nhi
+3	neneh	nhi
+4	quihtoa	nhi
+5	pues	spa
+6	yeh	nhi
+7	isqui	nhi
+8	nen	nhi
+9	cohtiquini	nhi
+10	ocsipa	nhi
+11	iuan	nhi
+12	ichcameh	nhi
+13	quihtoa	nhi
+14	mox	nhi
+15	yalua	nhi
+16	como	spa
+17	nen	nhi
+18	xiquita	nhi
+19	Nestor	NE-Person
+20	yeh	nhi
+21	iuan	nhi
+22	oyah	nhi
+
+# sent_id = 4589
+# text = uan telpocameh oualahqueh yeh mox yoyaya ica in panal iuan nen tlen itoca telpocatl in cuñado
+# text[orig] = uan telpukame u hualajke yej mux yu yaya ikan panal ihuan nen tle ituka telpukatl in cuñado
+# text[spa] = y los niños de que vinieron, esque iban con el panal con este como se llama  el niño su cuñado
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 814.61
+# timestamp[end] = 820.228
+1	uan	nhi
+2	telpocameh	nhi
+3	oualahqueh	nhi
+4	yeh	nhi
+5	mox	nhi
+6	yoyaya	nhi
+7	ica	nhi
+8	in	nhi
+9	panal	spa
+10	iuan	nhi
+11	nen	nhi
+12	tlen	nhi
+13	itoca	nhi
+14	telpocatl	nhi
+15	in	nhi
+16	cuñado	spa
+
+# sent_id = 4590
+# text = mox yoyaya quihtoa momaman mox nican tlaniuic oualehcoya nican ichan abuelitos ic oualehcoh teichcameh
+# text[orig] = mux yu yaya kijtua mu mama mux nika tlaniuik u ualejkuya nikan ichan abuelitos ik hualejko te ichkame
+# text[spa] = esque ya se iban, dice tu mama que aqui abajo venian subiendo aqui en casa de sus abuelitos por dode sube las borregas
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 822.062
+# timestamp[end] = 826.925
+1	mox	nhi
+2	yoyaya	nhi
+3	quihtoa	nhi
+4	momaman	mixed
+5	mox	nhi
+6	nican	nhi
+7	tlaniuic	nhi
+8	oualehcoya	nhi
+9	nican	nhi
+10	ichan	nhi
+11	abuelitos	spa
+12	ic	nhi
+13	oualehcoh	nhi
+14	teichcameh	nhi
+
+# sent_id = 4591
+# text = quihtoa que aquin oquilueh monaltlachiya para ne ichan nen Evangelina mox ualnica campa nen campa ocatca ialuixon notlatzin Asuncion quihtoa ompa ohcon moyicanah no pues aquihqueh tlaca yeh mox yehuatl motelpocauan uan ne tlaniuic Efrain
+# text[orig] = kijtuhuan huan kej aki u kiljue mu naltlachia para ne ichan nej Evangelina mux hualnika campa u katka y alhuixon nu tlasi asuncion, kijtuhua umpa ujkon mu yikana no pues akijke tlaka yej mux yejuatl mu telpukahuan huan ne tlaniuik efrain
+# text[spa] = dice que como que alguien le dijo que volteara para alla en la casa de evangelina para aca donde esta el alberjon de tio asuncion, dice que ahi se van siguiendo, dice pues quienes son , eran tus hijos con efrain de alla abajo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 827.461
+# timestamp[end] = 840.047
+1	quihtoa	nhi
+2	que	spa
+3	aquin	nhi
+4	oquilueh	nhi
+5	monaltlachiya	nhi
+6	para	spa
+7	ne	nhi
+8	ichan	nhi
+9	nen	nhi
+10	Evangelina	NE-Person
+11	mox	nhi
+12	ualnica	nhi
+13	campa	nhi
+14	nen	nhi
+15	campa	nhi
+16	ocatca	nhi
+17	ialuixon	nhi
+18	notlatzin	nhi
+19	Asuncion	NE-Person
+20	quihtoa	nhi
+21	ompa	nhi
+22	ohcon	nhi
+23	moyicanah	nhi
+24	no	spa
+25	pues	spa
+26	aquihqueh	nhi
+27	tlaca	nhi
+28	yeh	nhi
+29	mox	nhi
+30	yehuatl	nhi
+31	motelpocauan	nhi
+32	uan	nhi
+33	ne	nhi
+34	tlaniuic	nhi
+35	Efrain	NE-Person
+
+# sent_id = 4592
+# text = moyicanah quihtoa nen ocnimileh nin yas canin yasqueh
+# text[orig] = mu yikana, kijtua ni uk nimile nin yas kanin yaskeh
+# text[spa] = se van siguiendo, dice que penso, estos a donde van a ir
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 840.793
+# timestamp[end] = 843.866
+1	moyicanah	nhi
+2	quihtoa	nhi
+3	nen	nhi
+4	ocnimileh	nhi
+5	nin	nhi
+6	yas	nhi
+7	canin	nhi
+8	yasqueh	nhi
+
+# sent_id = 4593
+# text = uan mox oquinnaltzahtzileh otzitzicuinteuqueh para nepa ichan Evangelina tlaniuic uan tons cachi nepa omotochoto uan tlamo ne tlaniuic cachi ualehco ichan Doña Marisela ne ualnican
+# text[orig] = uan mux u kin naltsajtsile u tsitsikuinteujke para nepa ichan evangelina tlaniuik  uan tons kachi nepa u mu tochoto uan tlamo ne tlaniuik kachi hualejko ichan doña marisela hual nika
+# text[spa] = y esque les grito, y se fueron corriendo para la casa de evangelina abajo, y entonces ahi se agacharon y si no ya vene subiendo mas en casa de doña marisela para aca
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 844.815
+# timestamp[end] = 855.471
+1	uan	nhi
+2	mox	nhi
+3	oquinnaltzahtzileh	nhi
+4	otzitzicuinteuqueh	nhi
+5	para	spa
+6	nepa	nhi
+7	ichan	nhi
+8	Evangelina	NE-Person
+9	tlaniuic	nhi
+10	uan	nhi
+11	tons	spa
+12	cachi	nhi
+13	nepa	nhi
+14	omotochoto	nhi
+15	uan	nhi
+16	tlamo	nhi
+17	ne	nhi
+18	tlaniuic	nhi
+19	cachi	nhi
+20	ualehco	nhi
+21	ichan	nhi
+22	Doña	NE-Person
+23	Marisela	NE-Person
+24	ne	nhi
+25	ualnican	nhi
+
+# sent_id = 4594
+# text = ompa ualehco uan neh yeh yeh mox ompa catqui Marisela iuan Evangelina uan mox quihtoa nen quihtoa nen Marisela quihtoa ah mox quiluia Evangelina
+# text[orig] = umpa hualejko huan nej yi, ye mux umpa katki marisela ihuan evangelina uan mux kijtuhua ne, kijtuhua nen  marisela kijtuhua a mux kiljuia evangelina
+# text[spa] = dice que ahi viene subiendo y este ella esque ahi esta marisela con evangelina y esque dice la, dice marisela, dice a esue le dice a evangelina
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 856.474
+# timestamp[end] = 865.728
+1	ompa	nhi
+2	ualehco	nhi
+3	uan	nhi
+4	neh	nhi
+5	yeh	nhi
+6	yeh	nhi
+7	mox	nhi
+8	ompa	nhi
+9	catqui	nhi
+10	Marisela	NE-Person
+11	iuan	nhi
+12	Evangelina	NE-Person
+13	uan	nhi
+14	mox	nhi
+15	quihtoa	nhi
+16	nen	nhi
+17	quihtoa	nhi
+18	nen	nhi
+19	Marisela	NE-Person
+20	quihtoa	nhi
+21	ah	intj
+22	mox	nhi
+23	quiluia	nhi
+24	Evangelina	NE-Person
+
+# sent_id = 4595
+# text = nen cuali sechanquisas ne yi cateh in tlahcocuineh ah mox chanehqueh chanehqueh queni oquilueh quihtoa cuali se cha... chanquisas nen yi cateh in chanehqueh
+# text[orig] = nen kuali se chankisas,  ne yi katen tlajkukuine, a mux chanejke kenin ukiljue, kijtua kuali se cha, chankisas ne yi katen chanejke
+# text[spa] = esta bien salir de casa, ahi ya estan los que guardan, aesque los que viven o como le dijo, esta bien que salgamos de nuestras casas alla ya estan los que viven
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 866.324
+# timestamp[end] = 876.47
+1	nen	nhi
+2	cuali	nhi
+3	sechanquisas	nhi
+4	ne	nhi
+5	yi	nhi
+6	cateh	nhi
+7	in	nhi
+8	tlahcocuineh	nhi
+9	ah	intj
+10	mox	nhi
+11	chanehqueh	nhi
+12	chanehqueh	nhi
+13	queni	nhi
+14	oquilueh	nhi
+15	quihtoa	nhi
+16	cuali	nhi
+17	se	nhi
+18	cha...	nhi
+19	chanquisas	nhi
+20	nen	nhi
+21	yi	nhi
+22	cateh	nhi
+23	in	nhi
+24	chanehqueh	nhi
+
+# sent_id = 4596
+# text = yeh yen telpocameh ompa omotohtochoto quihtoa cachi occualaneh quihtoa tons queni tlenoh yi canasqueh in techan tons cachi oquinnaltzahtzileh pero amo ocniquiyah ualasqueh
+# text[orig] = yej yen telpukame umpa u mu tojtochoto, kijtua cachi u kualane kijtua tons tleno yi kanaske techa tons cachi u kin naltsajtsile pero amo uk nikia hualaske
+# text[spa] = y son los niños que ahi se fueron a esconder, dice que le dio mas coraje,dice que vana pensar que van a agarrar algo de la casa ajena pues les grito mas pero no querian venir
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 876.682
+# timestamp[end] = 886.522
+1	yeh	nhi
+2	yen	nhi
+3	telpocameh	nhi
+4	ompa	nhi
+5	omotohtochoto	nhi
+6	quihtoa	nhi
+7	cachi	nhi
+8	occualaneh	nhi
+9	quihtoa	nhi
+10	tons	spa
+11	queni	nhi
+12	tlenoh	nhi
+13	yi	nhi
+14	canasqueh	nhi
+15	in	nhi
+16	techan	nhi
+17	tons	spa
+18	cachi	nhi
+19	oquinnaltzahtzileh	nhi
+20	pero	spa
+21	amo	nhi
+22	ocniquiyah	nhi
+23	ualasqueh	nhi
+
+# sent_id = 4597
+# text = quihtoa este nen ohcon quinaltzahtzilihtoc quihtoa milauac cana como ica nin milauac nin tonaltzin
+# text[orig] = kijtua este nen kun ki naltsajtsilijtok kijto milak kana como ika nin milak ika nin tunaltsin
+# text[spa] = dice este , asi les esta gritando, dice deberas alomejor, como con este. deberas con este calor
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 887.691
+# timestamp[end] = 895.104
+1	quihtoa	nhi
+2	este	spa
+3	nen	nhi
+4	ohcon	nhi
+5	quinaltzahtzilihtoc	nhi
+6	quihtoa	nhi
+7	milauac	nhi
+8	cana	nhi
+9	como	spa
+10	ica	nhi
+11	nin	nhi
+12	milauac	nhi
+13	nin	nhi
+14	tonaltzin	nhi
+
+# sent_id = 4598
+# text = uan cani matlahchinoca uan milauac iuan nen ehecatl maoneua in tanto tlauaqui quihtoa yehuatl ocnimileh tons ica non nen
+# text[orig] = uan kani ma tlajchinuka, huan milak ihuan nen ejekatl ma unehua, tanto tlahuaki, kijtuhua yehuatl uk nimile tons ikanun nen
+# text[spa] = y quemen en un lado y deberas con el aire se va, de que esta muy seco, dice que eso es lo que penso entonces por eso
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 895.95
+# timestamp[end] = 905.31
+1	uan	nhi
+2	cani	nhi
+3	matlahchinoca	nhi
+4	uan	nhi
+5	milauac	nhi
+6	iuan	nhi
+7	nen	nhi
+8	ehecatl	nhi
+9	maoneua	nhi
+10	in	nhi
+11	tanto	nhi
+12	tlauaqui	nhi
+13	quihtoa	nhi
+14	yehuatl	nhi
+15	ocnimileh	nhi
+16	tons	nhi
+17	ica	nhi
+18	non	nhi
+19	nen	nhi
+
+# sent_id = 4599
+# text = quinnaltzahtzilitoya hasta ni... hasta para ver octlacamatqueh oualahqueh
+# text[orig] = kin najtsajtsilijtuya hasta ni hasta  paraver ok tlakamatkeh u hualajke
+# text[spa] = les hablo hasta  que hasta que le ovedecieron vinieron
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 905.902
+# timestamp[end] = 909.266
+1	quinnaltzahtzilitoya	nhi
+2	hasta	spa
+3	ni...	nhi
+4	hasta	spa
+5	para	spa
+6	ver	spa
+7	octlacamatqueh	nhi
+8	oualahqueh	nhi
+
+# sent_id = 4600
+# text = quihtoa oualahqueh oquintlauanteh uan yoyahqueh ica in couitl
+# text[orig] = kijtuhua u hualajke u kin tlahuante uan yu yajke ikan kuhuitl
+# text[spa] = dice que vinieron y ya les dio de comer y ya se fueron por la leña
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 910.379
+# timestamp[end] = 913.052
+1	quihtoa	nhi
+2	oualahqueh	nhi
+3	oquintlauanteh	nhi
+4	uan	nhi
+5	yoyahqueh	nhi
+6	ica	nhi
+7	in	nhi
+8	couitl	nhi
+
+# sent_id = 4601
+# text = uan quihtoa mox oyah icita yalua Omitlan
+# text[orig] = uan kijtua mux uyajka y cita yaljua Omitlan
+# text[spa] = y dice, habia ido a su cita ayer a omitlan
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 914.4
+# timestamp[end] = 917.2
+1	uan	nhi
+2	quihtoa	nhi
+3	mox	nhi
+4	oyah	nhi
+5	icita	nhi
+6	yalua	nhi
+7	Omitlan	NE-Place
+
+# sent_id = 4602
+# text = ompa nonotztoqueh mox yen nen, mox yen Ines aqui iuan ocse siuatl mox mononotztoqueh mox nen tiquita otlahchinolouac ne san paxtla para tlacuitlapan
+# text[orig] = umpa nu nunutstuke mux yen nej, mux yen Ines aki uhuan okse sihuatl mux mu nunutstuke mux ne ti kita u tlajchinuluhuak ne sanpaxtla para tlakutlapa
+# text[spa] = ahi estan habando creo este, ines y con otra señora, esque estan platicando que alla vez que se quemo.................... alla en atras
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 917.959
+# timestamp[end] = 928.947
+1	ompa	nhi
+2	nonotztoqueh	nhi
+3	mox	nhi
+4	yen	nhi
+5	nen,	nhi
+6	mox	nhi
+7	yen	nhi
+8	Ines	NE-Person
+9	aqui	nhi
+10	iuan	nhi
+11	ocse	nhi
+12	siuatl	nhi
+13	mox	nhi
+14	mononotztoqueh	nhi
+15	mox	nhi
+16	nen	nhi
+17	tiquita	nhi
+18	otlahchinolouac	nhi
+19	ne	nhi
+20	san	nhi
+21	paxtla	nhi
+22	para	spa
+23	tlacuitlapan	nhi
+
+# sent_id = 4603
+# text = quihtoa mox ohcon xa menteraroa o mononotza quenin o mox otlahchinoh se conetl
+# text[orig] = kituan mux ujkon xa menteraruhua o mu nunutsa kenino mux u tlajchino se kunetl
+# text[spa] = dicen que asi alomejor se enteran o se platican como es eso, esque quemos un niño
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 929.718
+# timestamp[end] = 936.055
+1	quihtoa	nhi
+2	mox	nhi
+3	ohcon	nhi
+4	xa	nhi
+5	menteraroa	mixed
+6	o	spa
+7	mononotza	nhi
+8	quenin	nhi
+9	o	spa
+10	mox	nhi
+11	otlahchinoh	nhi
+12	se	nhi
+13	conetl	nhi
+
+# sent_id = 4604
+# text = se telpocatl
+# text[orig] = se telpokatl
+# text[spa] = un niño
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 936.99
+# timestamp[end] = 937.936
+1	se	nhi
+2	telpocatl	nhi
+
+# sent_id = 4605
+# text = quihtoah uan hasta yi tlen tonaltzin no ohcon ompa otlahchinoloac ompa yi mismo yehuatl ohcon oquichiu
+# text[orig] = kijtuhuan huan hasta yi tlen tunaltsi nu ujkon u umpa u tlajchinulika umpa yi mismo yehuatl ujkon u kichiuj
+# text[spa] = dicen y mas antes igual ahi se incendio esque es el mismo que hizo eso
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 938.694
+# timestamp[end] = 943.88
+1	quihtoah	nhi
+2	uan	nhi
+3	hasta	spa
+4	yi	nhi
+5	tlen	nhi
+6	tonaltzin	nhi
+7	no	nhi
+8	ohcon	nhi
+9	ompa	nhi
+10	otlahchinoloac	nhi
+11	ompa	nhi
+12	yi	nhi
+13	mismo	spa
+14	yehuatl	nhi
+15	ohcon	nhi
+16	oquichiu	nhi
+
+# sent_id = 4606
+# text = uan entonces yocahsi... cahsiqueh nin vez mox yehuatl otlahchinoh
+# text[orig] = uan entonces yu kasi kasike nin ves mux yehuatl u tlajchino
+# text[spa] = y entonces ya lo encontraron esta vez que el quemo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 944.741
+# timestamp[end] = 947.622
+1	uan	nhi
+2	entonces	spa
+3	yocahsi...	nhi
+4	cahsiqueh	nhi
+5	nin	nhi
+6	vez	spa
+7	mox	nhi
+8	yehuatl	nhi
+9	otlahchinoh	nhi
+
+# sent_id = 4607
+# text = uan gente ocualan porque mox otlatlac se cuacoue uan mox lechomeh
+# text[orig] = huan gente u kualan porque mux u tlatlak se kuakuhue huan mux lechume
+# text[spa] = y la gente se enojo porque se quemo un toro y puercos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 948.24
+# timestamp[end] = 952.203
+1	uan	nhi
+2	gente	spa
+3	ocualan	nhi
+4	porque	spa
+5	mox	nhi
+6	otlatlac	nhi
+7	se	nhi
+8	cuacoue	nhi
+9	uan	nhi
+10	mox	nhi
+11	lechomeh	mixed
+
+# sent_id = 4608
+# text = mox tons de otlatlaqueh non mox milauac ocdemandarohqueh uan mox oc ahorita conetl tzacutoc
+# text[orig] = mux tons de u tlatlake nun mux milak uk demandarujke uan mux uk ahorita kunetl tsaktok
+# text[spa] = entonces de que se quemo eso, deberas lo demandaron y ahirita el niño esta enserrado
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 953.246
+# timestamp[end] = 958.273
+1	mox	nhi
+2	tons	nhi
+3	de	spa
+4	otlatlaqueh	nhi
+5	non	nhi
+6	mox	nhi
+7	milauac	nhi
+8	ocdemandarohqueh	mixed
+9	uan	nhi
+10	mox	nhi
+11	oc	nhi
+12	ahorita	spa
+13	conetl	nhi
+14	tzacutoc	nhi
+
+# sent_id = 4609
+# text = mox tzacutoc ich mox carcel mox de menores algo así mox quiteneua
+# text[orig] = mux tsaktok ich mux carcel mux  de menores algo asi mux ki tenehua
+# text[spa] = esque esta encerrado en la carcel de menores aldo asi le nombran
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 958.961
+# timestamp[end] = 962.852
+1	mox	nhi
+2	tzacutoc	nhi
+3	ich	nhi
+4	mox	nhi
+5	carcel	spa
+6	mox	nhi
+7	de	spa
+8	menores	spa
+9	algo	spa
+10	así	spa
+11	mox	nhi
+12	quiteneua	nhi
+
+# sent_id = 4610
+# text = quihtoah mox octzacuqueh in conetl
+# text[orig] = kihtuhuan mux uk tsakuhe kunetl
+# text[spa] = dicen que encerraron al niño
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 963.856
+# timestamp[end] = 965.592
+1	quihtoah	nhi
+2	mox	nhi
+3	octzacuqueh	nhi
+4	in	nhi
+5	conetl	nhi
+
+# sent_id = 4611
+# text = quihtoa porque achtoh no ohcon yocchiuca uan axan ocsipa uan yotlatlac ne tlapiyalmeh
+# text[orig] = kijtuhua porque achton nu ujkon yuk chiujka huan axan uksipa huan yu tlatlak ne tlapialme
+# text[spa] = dicen que porque antes tambien ya lo habia hecho y ahorita otra vez y ya se quemaron los animales
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 966.174
+# timestamp[end] = 970.055
+1	quihtoa	nhi
+2	porque	spa
+3	achtoh	nhi
+4	no	nhi
+5	ohcon	nhi
+6	yocchiuca	nhi
+7	uan	nhi
+8	axan	nhi
+9	ocsipa	nhi
+10	uan	nhi
+11	yotlatlac	nhi
+12	ne	nhi
+13	tlapiyalmeh	nhi
+
+# sent_id = 4612
+# text = tetecomeh amo iuqui omomauqueh
+# text[orig] = tetekume amo iujki u mu kaujke
+# text[spa] = los dueños no se quedaron asi
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 971.083
+# timestamp[end] = 973.019
+1	tetecomeh	nhi
+2	amo	nhi
+3	iuqui	nhi
+4	omomauqueh	nhi
+
+# sent_id = 4613
+# text = quemeh neh iyeua nen, ompa cualcan onitlatlateh, otitlacuahqueh uan momaman quihtoa mox ne canati se viaje couitl niquiluia tla canati macana nen niyas nepa tlahtic nic tla ni... quemeh nitla... polvo
+# text[orig] = keme ne iyehua nen, umpa kualkan u ni tlatlate, u ti tlakuajke huan mu mama kijtuhua mux nej kanati se viaje kuhuitl ni kiljuia tla kanati ma kana nen niyas nepa tlajtik nik tla ni keme ni tla polvo
+# text[spa] = como yo hace rato este, ahi en la mañana hice mi lumbre, comimos y tu mama dice que va ir a traer un vaije de leña le digo si va a traer que vaya a traer yo voy alla adentro voy a como que el polvo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 995.413
+# timestamp[end] = 1008.922
+1	quemeh	adapted-spanish-loan
+2	neh	nhi
+3	iyeua	nhi
+4	nen,	nhi
+5	ompa	nhi
+6	cualcan	nhi
+7	onitlatlateh,	nhi
+8	otitlacuahqueh	nhi
+9	uan	nhi
+10	momaman	mixed
+11	quihtoa	nhi
+12	mox	nhi
+13	ne	nhi
+14	canati	nhi
+15	se	spa
+16	viaje	spa
+17	couitl	nhi
+18	niquiluia	nhi
+19	tla	nhi
+20	canati	nhi
+21	macana	nhi
+22	nen	nhi
+23	niyas	nhi
+24	nepa	nhi
+25	tlahtic	nhi
+26	nic	nhi
+27	tla	nhi
+28	ni...	nhi
+29	quemeh	adapted-spanish-loan
+30	nitla...	nhi
+31	polvo	spa
+
+# sent_id = 4614
+# text = queh tzanil nictimouis tons neneh oyah
+# text[orig] = kej tsanil nik timuhuis tons nenej uya
+# text[spa] = como las telarañas las voy a bajar entonces este se fue
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1010.232
+# timestamp[end] = 1014.441
+1	queh	adapted-spanish-loan
+2	tzanil	nhi
+3	nictimouis	nhi
+4	tons	spa
+5	neneh	nhi
+6	oyah	nhi
+
+# sent_id = 4615
+# text = uan neh tla antes de yas panpolouito se couitl de auacatl non xiquita tlen tiualtimohqueh tlacpac nis san palaxtic
+# text[orig] = uan nej tla antes de yas pampuluhuito se tlakuhuitl de ahuakatl nun ixkita tlen ti hualtimujke tlakpak nis sa palaxtik
+# text[spa] = y este si antes de que se vaya se callo un palo de aguacate ese que cuando vajamos arriba que se ve podrido
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1015.049
+# timestamp[end] = 1022.258
+1	uan	nhi
+2	neh	nhi
+3	tla	nhi
+4	antes	spa
+5	de	spa
+6	yas	nhi
+7	panpolouito	nhi
+8	se	nhi
+9	couitl	nhi
+10	de	spa
+11	auacatl	nhi
+12	non	nhi
+13	xiquita	nhi
+14	tlen	nhi
+15	tiualtimohqueh	nhi
+16	tlacpac	nhi
+17	nis	nhi
+18	san	nhi
+19	palaxtic	nhi
+
+# sent_id = 4616
+# text = opan... panpolouito uan quen mox oniqueu uan nicnaltlale quemeh campa setlatlatia nixtenco
+# text[orig] = u pan, panpuluhuito uan ken mux u nikeuh uan nik naltlale keme kampa se tlatlatia nixtenko
+# text[spa] = se fue a caer y como es que lo levante y lo pongo donde hacemos la lumbre a un lado de las cenizas
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1024.191
+# timestamp[end] = 1030.309
+1	opan...	nhi
+2	panpolouito	nhi
+3	uan	nhi
+4	quen	nhi
+5	mox	nhi
+6	oniqueu	nhi
+7	uan	nhi
+8	nicnaltlale	nhi
+9	quemeh	adapted-spanish-loan
+10	campa	nhi
+11	setlatlatia	nhi
+12	nixtenco	nhi
+
+# sent_id = 4617
+# text = uan iuan ocse cohtzin queh oniccuacruzaroh
+# text[orig] = uan ihuan okse kujtsi kej u nik kuacruzaro
+# text[spa] = y con otro palo como que lo cruce
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1030.954
+# timestamp[end] = 1033.045
+1	uan	nhi
+2	iuan	nhi
+3	ocse	nhi
+4	cohtzin	nhi
+5	queh	adapted-spanish-loan
+6	oniccuacruzaroh	mixed
+
+# sent_id = 4618
+# text = onicalaquito cocina yeh yi tlaxotlatoc
+# text[orig] = u ni kalakito cocina yej yi tlaxotlatok
+# text[spa] = fui a entrar a la cocina ya estaba prendiendo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1033.555
+# timestamp[end] = 1036.101
+1	onicalaquito	nhi
+2	cocina	spa
+3	yeh	nhi
+4	yi	nhi
+5	tlaxotlatoc	nhi
+
+# sent_id = 4619
+# text = pues yen neh quemeh xa queh omotlaticuinalteh quen non tons o... yeh cuali tlaxotlatoc
+# text[orig] = pues yen nej keme xa kej u mu tlatikuinalte ken nun tons u yej kuali tlaxutlatok
+# text[spa] = pues de que como alomejor como que se dio fuerxa como es es eso entonces, esta bien prendido
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1036.747
+# timestamp[end] = 1043.493
+1	pues	spa
+2	yen	nhi
+3	neh	nhi
+4	quemeh	adapted-spanish-loan
+5	xa	nhi
+6	queh	adapted-spanish-loan
+7	omotlaticuinalteh	nhi
+8	quen	nhi
+9	non	nhi
+10	tons	spa
+11	o...	spa
+12	yeh	nhi
+13	cuali	nhi
+14	tlaxotlatoc	nhi
+
+# sent_id = 4620
+# text = mox nah cana onicpipitztoya o ompa neh tla amo
+# text[orig] = muxna kana u nik pipitstuya  o umpa nej tla amo
+# text[spa] = apoco le estaba soplando o ahi este, pues no
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1044.192
+# timestamp[end] = 1047.855
+1	mox	nhi
+2	nah	nhi
+3	cana	nhi
+4	onicpipitztoya	nhi
+5	o	spa
+6	ompa	nhi
+7	neh	nhi
+8	tla	nhi
+9	amo	nhi
+
+# sent_id = 4621
+# text = oquintlan quenin quichiuasqueh
+# text[orig] = o kintlan kenin ki chihuaske
+# text[spa] = les gana como le van hacer
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1059.688
+# timestamp[end] = 1061.243
+1	oquintlan	nhi
+2	quenin	nhi
+3	quichiuasqueh	nhi
+
+# sent_id = 4622
+# text = quihtoa momaman cualane quihtoa iuan yo... ocse in cuitlateh tlen yehuatl canah tlenoh oquichiu o tlenoh o canah techan itlah yocnaltiquito tlenoh quihtosqueh yen ocsiqueh
+# text[orig] = kijtuhua mu mama kualane kijtua ihuan yu oksen kuitlate tlen yejuatl kanaj tleno ukichiuj o tleno o kanaj techa itla yuk naltikitu tleno kijtuske yen oksike
+# text[spa] = dice tu mama que se enojo, dice que va con el otro chamaco el que alomejor este hizo algo o algo o alomejor en casa ajena ya fue a cortar algo, van a decir que fueron los otros
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1062.387
+# timestamp[end] = 1072.904
+1	quihtoa	nhi
+2	momaman	mixed
+3	cualane	nhi
+4	quihtoa	nhi
+5	iuan	nhi
+6	yo...	nhi
+7	ocse	nhi
+8	in	nhi
+9	cuitlateh	nhi
+10	tlen	nhi
+11	yehuatl	nhi
+12	canah	nhi
+13	tlenoh	nhi
+14	oquichiu	nhi
+15	o	spa
+16	tlenoh	nhi
+17	o	spa
+18	canah	nhi
+19	techan	nhi
+20	itlah	nhi
+21	yocnaltiquito	nhi
+22	tlenoh	nhi
+23	quihtosqueh	nhi
+24	yen	nhi
+25	ocsiqueh	nhi
+
+# sent_id = 4623
+# text = ica non opeu quihtoa mox quinnaltzahtzilia quinnaltzahtzilia uan amo amo octlacamatiyah
+# text[orig] = ikanu upeuh kijtua mux kin naltsajtsilia kin naltsajtsilia uan amo amo ok tlakamatia
+# text[spa] = por eso empezo a decir que les empezo a gritar, a gritar y no le hacian caso
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1074.293
+# timestamp[end] = 1078.502
+1	ica	nhi
+2	non	nhi
+3	opeu	nhi
+4	quihtoa	nhi
+5	mox	nhi
+6	quinnaltzahtzilia	nhi
+7	quinnaltzahtzilia	nhi
+8	uan	nhi
+9	amo	nhi
+10	amo	nhi
+11	octlacamatiyah	nhi
+
+# sent_id = 4624
+# text = hasta después para ver octlacamatqueh
+# text[orig] = hasta paraver ok tlakamatkeh
+# text[spa] = hasta despues ya le obedecieron
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1079.492
+# timestamp[end] = 1081.038
+1	hasta	spa
+2	después	spa
+3	para	spa
+4	ver	spa
+5	octlacamatqueh	nhi
+
+# sent_id = 4625
+# text = xa ic tlatzintla, pues quihtoa mox oyahca ne cuando Mireya uitz nica ocsipa yeh mox Feli catqui hasta ichan Feliciano Mateo ualnica
+# text[orig] = xa ik tlatsintla, pues kijtuhua mux uyajka ne cuando Mireya uits nika oksipa yej mux Feli katki hasta ichan Feliciano mateo hualnika
+# text[spa] = alomejor por abajo pues dice que iban a donde, cuando mireya viene aqui otra vez, feliciano esta hasta en la casa de feliciano mateo para aca
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1082.924
+# timestamp[end] = 1090.191
+1	xa	nhi
+2	ic	nhi
+3	tlatzintla,	nhi
+4	pues	spa
+5	quihtoa	nhi
+6	mox	nhi
+7	oyahca	nhi
+8	ne	nhi
+9	cuando	spa
+10	Mireya	NE-Person
+11	uitz	nhi
+12	nica	nhi
+13	ocsipa	nhi
+14	yeh	nhi
+15	mox	nhi
+16	Feli	NE-Person
+17	catqui	nhi
+18	hasta	spa
+19	ichan	spa
+20	Feliciano	NE-Person
+21	Mateo	NE-Person
+22	ualnica	nhi
+
+# sent_id = 4626
+# text = iixcon tlen ic ompa no nis quemeh tlamota otlalquixtayah
+# text[orig] = i ixkon tle cumpa nu nis keme tlamuta  u tlal kixtaya
+# text[spa] = enfrente de ahi donde se ve que sacaban tierra
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1090.934
+# timestamp[end] = 1093.534
+1	iixcon	nhi
+2	tlen	nhi
+3	ic	nhi
+4	ompa	nhi
+5	no	nhi
+6	nis	nhi
+7	quemeh	adapted-spanish-loan
+8	tlamota	nhi
+9	otlalquixtayah	nhi
+
+# sent_id = 4627
+# text = ompa omotolonoh ompa omotlatito ocse in cuitlateh nepa ihquin
+# text[orig] = umpa u mu tuluno umpa u mu tlatito oksen kuitlate nepa ijkin katki
+# text[spa] = esque ahi se agacho, ahi se fue a esconder y el otro chamaco esta para alla
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1094.338
+# timestamp[end] = 1097.829
+1	ompa	nhi
+2	omotolonoh	nhi
+3	ompa	nhi
+4	omotlatito	nhi
+5	ocse	nhi
+6	in	nhi
+7	cuitlateh	nhi
+8	nepa	nhi
+9	ihquin	nhi
+
+# sent_id = 4628
+# text = quihtoa quinnaltzahtzilis quinnaltzahtzilis uan amo tlacamatiyah
+# text[orig] = kijtuhua kin naltsajtsilis kin naltsajtsilis uan amo tlakamatia
+# text[spa] = dice que les grita, les grita y no le hacian caso
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1099.259
+# timestamp[end] = 1102.113
+1	quihtoa	nhi
+2	quinnaltzahtzilis	nhi
+3	quinnaltzahtzilis	nhi
+4	uan	nhi
+5	amo	nhi
+6	tlacamatiyah	nhi
+
+# sent_id = 4629
+# text = quihtoa mox neneh, quihtoa iuan o... este nican mox oehcoqueh den escuela
+# text[orig] = kijtua mux nenej, kijtua ihuan u  este nika mux u ejkoken den escuela
+# text[spa] = dice que este, dice que, este aqui llagaron de la escuela
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1113.988
+# timestamp[end] = 1120.27
+1	quihtoa	nhi
+2	mox	nhi
+3	neneh,	nhi
+4	quihtoa	nhi
+5	iuan	nhi
+6	o...	nhi
+7	este	spa
+8	nican	nhi
+9	mox	nhi
+10	oehcoqueh	nhi
+11	den	mixed
+12	escuela	spa
+
+# sent_id = 4630
+# text = uan entonces ne
+# text[orig] = aun entonces ne
+# text[spa] = y entonces este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1121.104
+# timestamp[end] = 1122.432
+1	uan	spa
+2	entonces	spa
+3	ne	nhi
+
+# sent_id = 4631
+# text = amo quihtoa mox neneh, cuacoueh ocatca ualahcoic uan nepa yeh san tiquitl otlatlapohtoya uan quihtoa onalcalac ocnalitato canah aquin
+# text[orig] = amo kijtuhua mux nenej kuakuhue ukatka hual ajkuik uan nepa yej san tikitl u tlatlapujtuya huan kijtuhua u nalkalak uk nalitato kana akin
+# text[spa] = no, dicen este el toro estaba arriba y alla estaba abierto y dicen que entro fue a ver alomejor alguien
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1125.271
+# timestamp[end] = 1133.426
+1	amo	nhi
+2	quihtoa	nhi
+3	mox	nhi
+4	neneh,	nhi
+5	cuacoueh	nhi
+6	ocatca	nhi
+7	ualahcoic	nhi
+8	uan	nhi
+9	nepa	nhi
+10	yeh	nhi
+11	san	nhi
+12	tiquitl	nhi
+13	otlatlapohtoya	nhi
+14	uan	nhi
+15	quihtoa	nhi
+16	onalcalac	nhi
+17	ocnalitato	nhi
+18	canah	nhi
+19	aquin	nhi
+
+# sent_id = 4632
+# text = ompa uitztoc ich in cama canah yen pollero
+# text[orig] = umpa huitstok ichin cama kanan yen pollero
+# text[spa] = ahi esta acostado en la cama, alomejor el pollero
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1134.394
+# timestamp[end] = 1138.094
+1	ompa	nhi
+2	uitztoc	nhi
+3	ich	nhi
+4	in	nhi
+5	cama	spa
+6	canah	nhi
+7	yen	nhi
+8	pollero	spa
+
+# sent_id = 4633
+# text = ompa neneh, onal... quihtoa onaltlatlapoh onaltlachiyato quihtoa yeh amaquin
+# text[orig] = umpa nenej, u nal, kijtuhua u nal u tlatlapo u naltlachiato kijtua yej amaki
+# text[spa] = ahi este, dice que se fue abrio y se fue a asomar dice que no es nadien
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1140.094
+# timestamp[end] = 1146.035
+1	ompa	nhi
+2	neneh,	nhi
+3	onal...	nhi
+4	quihtoa	nhi
+5	onaltlatlapoh	nhi
+6	onaltlachiyato	nhi
+7	quihtoa	nhi
+8	yeh	nhi
+9	amaquin	nhi
+
+# sent_id = 4634
+# text = ocsipa neneh o... otlatzacu uan mejor yoyah para ne ahcoic
+# text[orig] = oksipa nenej u utlasakh huan mejor yuya para ne ajkuhuik
+# text[spa] = otra vez este cerro y mejor se fue para alla arriba
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1147.215
+# timestamp[end] = 1151.334
+1	ocsipa	nhi
+2	neneh	nhi
+3	o...	nhi
+4	otlatzacu	nhi
+5	uan	nhi
+6	mejor	spa
+7	yoyah	nhi
+8	para	spa
+9	ne	nhi
+10	ahcoic	nhi
+
+# sent_id = 4635
+# text = ompa uan san naltipitzin, yoehcoc Nestor uan noIvonne, uan mox nen noIvonne quihtoa quihtoa yeh yas para ne ahcoic
+# text[orig] = umpa huan san nal tipitsi, yu ejkok Nestor uan nu Ivonne, uan mux ne nu Ivonne kijtuhua kijtua yej yas para ne ajkuik
+# text[spa] = ahi, y un poco mas, ya llego nestor y mi ivonne, y mi ivonne dice, dice que ella va ir para alla arriba
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1151.978
+# timestamp[end] = 1161.662
+1	ompa	nhi
+2	uan	nhi
+3	san	nhi
+4	naltipitzin,	nhi
+5	yoehcoc	nhi
+6	Nestor	NE-Person
+7	uan	nhi
+8	noIvonne,	NE-Person
+9	uan	nhi
+10	mox	nhi
+11	nen	nhi
+12	noIvonne	NE-Person
+13	quihtoa	nhi
+14	quihtoa	nhi
+15	yeh	nhi
+16	yas	nhi
+17	para	spa
+18	ne	nhi
+19	ahcoic	nhi
+
+# sent_id = 4636
+# text = uan mox quiluia Nestor yo también, este nen yeh mox noyiuqui yas
+# text[orig] = uan mux kilhuia Nestor yo tambien, este nen yej mux niujki yas
+# text[spa] = y esque le dice nestor yo tambien, este el esque tambien va a ir
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1162.596
+# timestamp[end] = 1166.378
+1	uan	nhi
+2	mox	nhi
+3	quiluia	nhi
+4	Nestor	NE-Person
+5	yo	spa
+6	también,	spa
+7	este	spa
+8	nen	nhi
+9	yeh	nhi
+10	mox	nhi
+11	noyiuqui	nhi
+12	yas	nhi
+
+# sent_id = 4637
+# text = uan tons quiluia nen niquiluia momaman quiluia amo teh amo tiyas porque momaman onechualpantzahtzileh uan teh timocauas
+# text[orig] = uan tos kilhuia nen nikiljuia mu mama kiljuia amo te amo tiyas porque mu mama u nech ual pantsajtsile uan tej ti mu kahuas
+# text[spa] = y entonces le dice, le dice tu mama le dice que no, tu no vas a ir porque tu mama me va a grito y tu te vas a quedar
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1167.034
+# timestamp[end] = 1174.479
+1	uan	nhi
+2	tons	spa
+3	quiluia	nhi
+4	nen	nhi
+5	niquiluia	nhi
+6	momaman	mixed
+7	quiluia	nhi
+8	amo	nhi
+9	teh	nhi
+10	amo	nhi
+11	tiyas	nhi
+12	porque	spa
+13	momaman	mixed
+14	onechualpantzahtzileh	nhi
+15	uan	nhi
+16	teh	nhi
+17	timocauas	nhi
+
+# sent_id = 4638
+# text = mayoui sa yen Ivonne tlamo ualas momaman mitzcuitlaxtimas
+# text[orig] = mu yuhui sa yen Ivonne tlamo hualas mu mama mits kuitlaxtimas
+# text[spa] = que vaya nadamas ivonne si no va a llegar tu mama y te va a pegar
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1175.203
+# timestamp[end] = 1178.685
+1	mayoui	nhi
+2	sa	nhi
+3	yen	nhi
+4	Ivonne	NE-Person
+5	tlamo	nhi
+6	ualas	nhi
+7	momaman	mixed
+8	mitzcuitlaxtimas	nhi
+
+# sent_id = 4639
+# text = quihtoa mejor tiyasqueh nouan tiyas titlapiyati uan tlensa nimitzcouilis
+# text[orig] = kijtua mejor tiaske nuhuan tias ti tlapiati huan tlensa ni mits kuhuilis
+# text[spa] = dice mejor vamos, vas a ir conmigo a cuidar y te voy a comprar lo que sea
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1179.475
+# timestamp[end] = 1183.657
+1	quihtoa	nhi
+2	mejor	spa
+3	tiyasqueh	nhi
+4	nouan	nhi
+5	tiyas	nhi
+6	titlapiyati	nhi
+7	uan	nhi
+8	tlensa	nhi
+9	nimitzcouilis	nhi
+
+# sent_id = 4640
+# text = mox tlensa quicouilis tons neneh noIvonne oyah uan quihtoa momaman yeh oquimoneuaya uan nomaman xa oualtimouaya xa quemeh ic ichan notlatzin Asuncion ualtlaniuic oualtimoaya
+# text[orig] = mux tlensa ki kuhuilis tons nenej nu Ivonne uya uan kijtuhua mu mama yej  u kim unehuaya uan nu mama xa u hualtimuhuaya xa keme ik ichan nu tlatsi asuncion hualtlaniuik u hualtimuhuaya
+# text[spa] = esque le va a comprar lo que sea entonces este mi ivonne se fue y dice tu mama, bueno todavia no se iba, y mi mama alomejor venia bajando por la casa de mi tio asuncion venia bajando
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1184.816
+# timestamp[end] = 1194.793
+1	mox	nhi
+2	tlensa	nhi
+3	quicouilis	nhi
+4	tons	spa
+5	neneh	nhi
+6	noIvonne	NE-Person
+7	oyah	nhi
+8	uan	nhi
+9	quihtoa	nhi
+10	momaman	mixed
+11	yeh	nhi
+12	oquimoneuaya	nhi
+13	uan	nhi
+14	nomaman	mixed
+15	xa	nhi
+16	oualtimouaya	nhi
+17	xa	nhi
+18	quemeh	adapted-spanish-loan
+19	ic	nhi
+20	ichan	nhi
+21	notlatzin	nhi
+22	Asuncion	NE-Person
+23	ualtlaniuic	nhi
+24	oualtimoaya	nhi
+
+# sent_id = 4641
+# text = uan entonces neneh oyo... xa oahsic noIvonne calihtic ne ahcoic, uan tla ixtemoa amaquin nesi ocsipa omoualcuiptiquis ualchocatiu ualtzahtzitiu
+# text[orig] = uan entonces nenej u yu xa u asik nu Ivonne kalijtik ne ajkuik, uan tla ixtemuhua amakin nesi oksipa u mu hualkuptikis hualchikatiu hual tsajtsitiuj
+# text[spa] = y entonces, ya alomejor llego mi ivonne en la casa alla arriba y esta buscando y no hay nadien otra vez se regreso venian llorando, gritando
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1195.774
+# timestamp[end] = 1205.565
+1	uan	nhi
+2	entonces	spa
+3	neneh	nhi
+4	oyo...	nhi
+5	xa	nhi
+6	oahsic	nhi
+7	noIvonne	NE-Person
+8	calihtic	nhi
+9	ne	nhi
+10	ahcoic,	nhi
+11	uan	nhi
+12	tla	nhi
+13	ixtemoa	nhi
+14	amaquin	nhi
+15	nesi	nhi
+16	ocsipa	nhi
+17	omoualcuiptiquis	nhi
+18	ualchocatiu	nhi
+19	ualtzahtzitiu	nhi
+
+# sent_id = 4642
+# text = quihtoa nomaman ualtlaniquis san apenititas ocualcac ualtzahtzitiu cualtzahtzileh
+# text[orig] = kijtua nu mama hualtlanikis sa apenititas u kualkak hualtsajtsitiuh kualtsajtsile
+# text[spa] = dice mi mama que vino a salir apenas la escucho que venia gritando le hablo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1205.732
+# timestamp[end] = 1210.105
+1	quihtoa	nhi
+2	nomaman	mixed
+3	ualtlaniquis	nhi
+4	san	nhi
+5	apenititas	spa
+6	ocualcac	nhi
+7	ualtzahtzitiu	nhi
+8	cualtzahtzileh	nhi
+
+# sent_id = 4643
+# text = omoman tlacaqui tla... tlahtlacaqui ocsipa yooneu yomocamatzacu
+# text[orig] = u muman tlajtlakaki tlajtlakaki oksipa yu uneuj yu mu kamatsakhu
+# text[spa] = se paro a escuchar otra vez ya camino ya no grito
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1210.847
+# timestamp[end] = 1214.174
+1	omoman	nhi
+2	tlacaqui	nhi
+3	tla...	nhi
+4	tlahtlacaqui	nhi
+5	ocsipa	nhi
+6	yooneu	nhi
+7	yomocamatzacu	nhi
+
+# sent_id = 4644
+# text = xa yi quemeh teh yi achto in quen oticahsico ne ahcoic choca uan choca
+# text[orig] = xa yi kemen te yi achton ken u ti kasiko ne ajkuik chuka uan chuka
+# text[spa] = alomejor ya fue como tu antes como la veniste a alcanzar alla arriba llora y llora
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1214.809
+# timestamp[end] = 1218.555
+1	xa	nhi
+2	yi	nhi
+3	quemeh	adapted-spanish-loan
+4	teh	nhi
+5	yi	nhi
+6	achto	nhi
+7	in	nhi
+8	quen	nhi
+9	oticahsico	nhi
+10	ne	nhi
+11	ahcoic	nhi
+12	choca	nhi
+13	uan	nhi
+14	choca	nhi
+
+# sent_id = 4645
+# text = oquilueh tlensa quicouis acmo neneh amo oyah
+# text[orig] = o kiljue tlensa ki kuhuis akmo nenej amo uya
+# text[spa] = le dijo que le va a comprar lo que sea ya no este ya no se fue
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1224.446
+# timestamp[end] = 1228.809
+1	oquilueh	nhi
+2	tlensa	nhi
+3	quicouis	nhi
+4	acmo	nhi
+5	neneh	nhi
+6	amo	nhi
+7	oyah	nhi
+
+# sent_id = 4646
+# text = uan neh quihtoa mox o... oquim... oneuito ic ichcameh uan para este como quiteluitoc tlensa quicuis para neh para tehuan mayoui
+# text[orig] = uan nej kijtuhua mux u u kim unehuito ik ichkame huan para este como ki teljuitok tlensa ki kuis para nej para tehuan ma yuhui
+# text[spa] = y este dice que fue por la borregas y para este como esta diciendo que va a comprar cualquier cosa para que vaya con ella
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1229.744
+# timestamp[end] = 1241.255
+1	uan	nhi
+2	neh	nhi
+3	quihtoa	nhi
+4	mox	nhi
+5	o...	nhi
+6	oquim...	nhi
+7	oneuito	nhi
+8	ic	nhi
+9	ichcameh	nhi
+10	uan	nhi
+11	para	spa
+12	este	spa
+13	como	spa
+14	quiteluitoc	nhi
+15	tlensa	nhi
+16	quicuis	nhi
+17	para	spa
+18	neh	nhi
+19	para	spa
+20	tehuan	nhi
+21	mayoui	nhi
+
+# sent_id = 4647
+# text = iuan mayoui conetl, quihtoa yeh cuando ooneu cachi oquilcauteu itomen nion se peso ocuicac
+# text[orig] = ihuan mu yuhi kunetl, kijtua yej kuando uneuj kachi ukilkauhteuj y tumen niun se peso u kuikak
+# text[spa] = que el niño vaya con ella, dice que cuando se fue se le olvido el dinero, no llevo ni un peso
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1242.237
+# timestamp[end] = 1248.256
+1	iuan	nhi
+2	mayoui	nhi
+3	conetl,	nhi
+4	quihtoa	nhi
+5	yeh	nhi
+6	cuando	spa
+7	ooneu	nhi
+8	cachi	nhi
+9	oquilcauteu	nhi
+10	itomen	adapted-spanish-loan
+11	nion	adapted-spanish-loan
+12	se	nhi
+13	peso	spa
+14	ocuicac	nhi
+
+# sent_id = 4648
+# text = quihtoa tipanotoqueh ne tlaniuic ic ichan abuelitos uan yi quiluia mox amo tlen quicuis oquilueh tlensa quicuis uan tleca amo monactia ich in tienda
+# text[orig] = kijtuhua yi panutukeh ne tlaniuik  ik ichan abuelitos uan yi kiljuia mux amo tlen ki kuis, okiljue tlensa ki kuis uan tleka amo mu naktia ichin tienda
+# text[spa] = dice que ya van pasando aqui abajo por la casa de los abuelitos y ya le dice apoco no le va a comprar nada, le dijo que le iba a comprar cualquier cosa y porque no se para en la tienda
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1249.377
+# timestamp[end] = 1257.713
+1	quihtoa	nhi
+2	tipanotoqueh	nhi
+3	ne	nhi
+4	tlaniuic	nhi
+5	ic	nhi
+6	ichan	nhi
+7	abuelitos	spa
+8	uan	nhi
+9	yi	nhi
+10	quiluia	nhi
+11	mox	nhi
+12	amo	nhi
+13	tlen	nhi
+14	quicuis	nhi
+15	oquilueh	nhi
+16	tlensa	nhi
+17	quicuis	nhi
+18	uan	nhi
+19	tleca	nhi
+20	amo	nhi
+21	monactia	nhi
+22	ich	nhi
+23	in	nhi
+24	tienda	spa
+
+# sent_id = 4649
+# text = tons neneh yo... yooneuqueh quiluia quemah pero hasta ichan Jonathan quihtoa, uan quinimilihtiu mox mofiaros canah a... canah amo macniqui Ruth mactlafiaro
+# text[orig] = tons nenej yu uneujke kiljuia kema pero hasta ichan Jonathan kijtua, huan ki nimilijtiu mux mu fiaros kanaj a kana amo mak niki Ruth mok tla fiaro
+# text[spa] = entonces este ya se fueron, le dice si pero hasta en la cas de jonathan, y piensa apoco va a pedir fiado alomejor, alomejor no quiere ruth que le fien
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1258.572
+# timestamp[end] = 1268.781
+1	tons	spa
+2	neneh	nhi
+3	yo...	nhi
+4	yooneuqueh	nhi
+5	quiluia	nhi
+6	quemah	nhi
+7	pero	spa
+8	hasta	spa
+9	ichan	nhi
+10	Jonathan	NE-Person
+11	quihtoa,	nhi
+12	uan	nhi
+13	quinimilihtiu	nhi
+14	mox	nhi
+15	mofiaros	mixed
+16	canah	nhi
+17	a...	nhi
+18	canah	nhi
+19	amo	nhi
+20	macniqui	nhi
+21	Ruth	NE-Person
+22	mactlafiaro	mixed
+
+# sent_id = 4650
+# text = ohcon youeh youeh tlamo quen ocnimileh octzahtzileh Jonathan quiluia xamo quiuilis quicuentahtihtos se neh mox runers tlen itoca
+# text[orig] = ujkon yuhue yuhue  tlamo ken uk nimile uk tsajtsile jonathan kiljuia xamo ki wuilis ki kuentajtijtos se nej mux runers tlen i tuka
+# text[spa] = asi van van, si no despues la penso le grito a jonathan le dice si apoco va a querer fiarle un runers o como se llama
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1270.041
+# timestamp[end] = 1277.786
+1	ohcon	nhi
+2	youeh	nhi
+3	youeh	nhi
+4	tlamo	nhi
+5	quen	nhi
+6	ocnimileh	nhi
+7	octzahtzileh	nhi
+8	Jonathan	NE-Person
+9	quiluia	nhi
+10	xamo	nhi
+11	quiuilis	nhi
+12	quicuentahtihtos	mixed
+13	se	nhi
+14	neh	nhi
+15	mox	nhi
+16	runers	spa
+17	tlen	nhi
+18	itoca	nhi
+
+# sent_id = 4651
+# text = o remix tleno mox tons ocna... oyah ocualmacaqueh
+# text[orig] = o remix tleno mux tons ok na uya uk hualmakake
+# text[spa] = o remix que cosa, entonces fue  y ya le dieron
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1278.721
+# timestamp[end] = 1283.912
+1	o	spa
+2	remix	spa
+3	tleno	nhi
+4	mox	nhi
+5	tons	spa
+6	ocna...	nhi
+7	oyah	nhi
+8	ocualmacaqueh	nhi
+
+# sent_id = 4652
+# text = ohcon yahtiueh yolictzin yolictzin tlahtlapixtiueh
+# text[orig] = ujkon yajtihue yuliktsi yuliktsi tlajtlapixtihue
+# text[spa] = asi van despasio despacio van cuidando
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1284.807
+# timestamp[end] = 1288.043
+1	ohcon	nhi
+2	yahtiueh	nhi
+3	yolictzin	nhi
+4	yolictzin	nhi
+5	tlahtlapixtiueh	nhi
+
+# sent_id = 4653
+# text = uan nepa ichan nen campa momaman omotzacuilico iuan Julieta ompa quihtohtoc mox yi amiqui
+# text[orig] = uan nipa ichan nen kampa mu mama u mu tsakuiliko uhuan Julieta umpa kijtojtok mux yi amiki
+# text[spa] = y ahi en la casa de donde tu mama se vino a detener con julieta auhi dice que ya tiene sed
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1289.41
+# timestamp[end] = 1296.464
+1	uan	nhi
+2	nepa	nhi
+3	ichan	nhi
+4	nen	nhi
+5	campa	nhi
+6	momaman	mixed
+7	omotzacuilico	nhi
+8	iuan	nhi
+9	Julieta	NE-Person
+10	ompa	nhi
+11	quihtohtoc	nhi
+12	mox	nhi
+13	yi	nhi
+14	amiqui	nhi
+
+# sent_id = 4654
+# text = yen uaqui ne, uaqui i...
+# text[orig] = yen huaki ne,huaki y
+# text[spa] = de que esta seco, seco su
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1296.73
+# timestamp[end] = 1300.267
+1	yen	nhi
+2	uaqui	nhi
+3	ne,	nhi
+4	uaqui	nhi
+5	i...	nhi
+
+# sent_id = 4655
+# text = tons quiluia tla amiqui tons yasqueh iuan isihtzin Julieta, ompa quitlahtlanisqueh atl, oyahqueh
+# text[orig] = tons kiljuia tla amiki tons yaske ihuan y sijtsi Julieta, umpa ki tlajtlaniske atl, uyajke
+# text[spa] = entonces le dice, si tiene sed entonces van a ir con su abuelita julieta, ahi van a pedir agua, fueron
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1303.122
+# timestamp[end] = 1311.786
+1	tons	spa
+2	quiluia	nhi
+3	tla	nhi
+4	amiqui	nhi
+5	tons	spa
+6	yasqueh	nhi
+7	iuan	nhi
+8	isihtzin	nhi
+9	Julieta,	NE-Person
+10	ompa	nhi
+11	quitlahtlanisqueh	nhi
+12	atl,	nhi
+13	oyahqueh	nhi
+
+# sent_id = 4656
+# text = quinahcototocaqueh oquincauqueh ichcameh ma yaqui... como yi quimateh tlehcoh ne atlautl
+# text[orig] = kin ajko tutukake ukin kaujke ichkame mu yaki como yi ki mate tlejkon atlaujtl
+# text[spa] = espantaron para arriba, dejaron a las borregas como ya saben subir ahi en la barranca
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1312.046
+# timestamp[end] = 1315.9
+1	quinahcototocaqueh	nhi
+2	oquincauqueh	nhi
+3	ichcameh	nhi
+4	ma	nhi
+5	yaqui...	nhi
+6	como	spa
+7	yi	nhi
+8	quimateh	nhi
+9	tlehcoh	nhi
+10	ne	nhi
+11	atlautl	nhi
+
+# sent_id = 4657
+# text = tons yeh ompa omonactihqueh ompa octlahtlanqui atl mox oconic se vaso, uan momaman yeh mox no oatlic tons ohcon neneh quimiluia nen Julieta quimiluia mox mamochiyacan conisqueh refresco
+# text[orig] = tons yej umpa u mu naktijke umpa uk tlajtlanki atl mux u kunik se vaso, uan mu mama yej mux nu u atlik tons ojkon nenej kimiljuia nen Julieta, kimiljuia mux ma mu chiakan coniske refresco
+# text[spa] = entonces ellos ahi se pararon ahi pidieron agua, esque tono un vaso, tu mama tambien tomo agua entonces asi este les dice julieta les dice que se esperen van a tomar refresco
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1316.751
+# timestamp[end] = 1327.731
+1	tons	spa
+2	yeh	nhi
+3	ompa	nhi
+4	omonactihqueh	nhi
+5	ompa	nhi
+6	octlahtlanqui	nhi
+7	atl	nhi
+8	mox	nhi
+9	oconic	nhi
+10	se	nhi
+11	vaso,	spa
+12	uan	nhi
+13	momaman	mixed
+14	yeh	nhi
+15	mox	nhi
+16	no	nhi
+17	oatlic	nhi
+18	tons	spa
+19	ohcon	nhi
+20	neneh	nhi
+21	quimiluia	nhi
+22	nen	nhi
+23	Julieta	NE-Person
+24	quimiluia	nhi
+25	mox	nhi
+26	mamochiyacan	nhi
+27	conisqueh	nhi
+28	refresco	spa
+
+# sent_id = 4658
+# text = uan yeh mox nen momaman yeh amo ocsileh xa sa yen nen ocsileh, tons yi neh ohcon yahtiueh yolictzin yolictzin nepa yi ahcotlehcosqueh ic ompa atlautl
+# text[orig] = uan yej mux ne mu mama yej amo ok sile xa sa yen ne ok sile, tons yi nej ujkon yajtihue yuliktsi yuliktsi nepa yi ajko tlejkoske compa atlaujtl
+# text[spa] = y tu mama no recibio el refresco, alomejor solo el lo recibio, entonces asi van despacio, despacio alla ya vana subir por la barranca
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1329.221
+# timestamp[end] = 1337.293
+1	uan	nhi
+2	yeh	nhi
+3	mox	nhi
+4	nen	nhi
+5	momaman	mixed
+6	yeh	nhi
+7	amo	nhi
+8	ocsileh	nhi
+9	xa	nhi
+10	sa	nhi
+11	yen	nhi
+12	nen	nhi
+13	ocsileh,	nhi
+14	tons	spa
+15	yi	nhi
+16	neh	nhi
+17	ohcon	nhi
+18	yahtiueh	nhi
+19	yolictzin	nhi
+20	yolictzin	nhi
+21	nepa	nhi
+22	yi	nhi
+23	ahcotlehcosqueh	nhi
+24	ic	nhi
+25	ompa	nhi
+26	atlautl	nhi
+
+# sent_id = 4659
+# text = uan quisati nen ueue den helado
+# text[orig] = uan kisati nen huehue den helado
+# text[spa] = y va a salir el señor de los helados
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1337.731
+# timestamp[end] = 1341.131
+1	uan	nhi
+2	quisati	nhi
+3	nen	nhi
+4	ueue	nhi
+5	den	mixed
+6	helado	spa
+
+# sent_id = 4660
+# text = quisato, ohcon tlatzotzontiu tlatzotzontiu uan tons nen Nestor ye mox ohcon san omotlale, sa tlacactoc uan tons momaman quiluia mox quiniqui helado
+# text[orig] = kisato, ujkon tlatsotsontiu tlatsotsontiu uan tons ne Nestor ye mux ujkon san u mu tlale, sa tlakaktok huan tons mu mama kiljuia mux kiniki helado
+# text[spa] = fue a salir, asi va tocando, tocando y entonces nestor el esque solo asi se sento, solo esta escuchando y entonces tu mama le dice apoco quiere helado
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1342.28
+# timestamp[end] = 1352.939
+1	quisato,	nhi
+2	ohcon	nhi
+3	tlatzotzontiu	nhi
+4	tlatzotzontiu	nhi
+5	uan	nhi
+6	tons	spa
+7	nen	nhi
+8	Nestor	NE-Person
+9	ye	nhi
+10	mox	nhi
+11	ohcon	nhi
+12	san	nhi
+13	omotlale,	nhi
+14	sa	nhi
+15	tlacactoc	nhi
+16	uan	nhi
+17	tons	spa
+18	momaman	mixed
+19	quiluia	nhi
+20	mox	nhi
+21	quiniqui	nhi
+22	helado	spa
+
+# sent_id = 4661
+# text = san moquichtohtochoa xa quemeh san pinaui quihtoa mox ticniqui helado aún amo onicualicac peso amo onicualicac nion tleno
+# text[orig] = san mu kichtojtochuhua xa keme san pinahui kijtua mux tik niki helado uan amo u ni kualikak peso amo u ni kualikak niun tleno
+# text[spa] = solo agacha su cuello como que nadamas tiene pena, le dice que si apoco quiere helado y no traje, el peso nok traje nada
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1353.764
+# timestamp[end] = 1363.846
+1	san	nhi
+2	moquichtohtochoa	nhi
+3	xa	nhi
+4	quemeh	adapted-spanish-loan
+5	san	nhi
+6	pinaui	nhi
+7	quihtoa	nhi
+8	mox	nhi
+9	ticniqui	nhi
+10	helado	spa
+11	aún	spa
+12	amo	nhi
+13	onicualicac	nhi
+14	peso	spa
+15	amo	nhi
+16	onicualicac	nhi
+17	nion	adapted-spanish-loan
+18	tleno	nhi
+
+# sent_id = 4662
+# text = quihtoa nomama yeh quipiya tomen
+# text[orig] = kijtua nu mama yej kipia tumen
+# text[spa] = dice, mi mama ella tiene dinero
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1364.843
+# timestamp[end] = 1366.342
+1	quihtoa	nhi
+2	nomama	mixed
+3	yeh	nhi
+4	quipiya	nhi
+5	tomen	adapted-spanish-loan
+
+# sent_id = 4663
+# text = quihtoa nomaman yeh quipiya tomen tla, tla tla nican tla onini calihtic nomaman yeh quemah onechcouihca porque yeh quipiya tomen
+# text[orig] = kijtua nu mama yej ki pia tumen tla, tla tla nikan tla u ni ini kalijtik nu mama yej kema u nech kuhuijka porque yej kipia tumen
+# text[spa] = dice, mi mama tiene dinero, si si si estuviera en la casa mi mama ella si me hubiera comprado porque ella tiene dinero
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1367.545
+# timestamp[end] = 1376.841
+1	quihtoa	nhi
+2	nomaman	mixed
+3	yeh	nhi
+4	quipiya	nhi
+5	tomen	adapted-spanish-loan
+6	tla,	nhi
+7	tla	nhi
+8	tla	nhi
+9	nican	nhi
+10	tla	nhi
+11	onini	nhi
+12	calihtic	nhi
+13	nomaman	mixed
+14	yeh	nhi
+15	quemah	nhi
+16	onechcouihca	nhi
+17	porque	spa
+18	yeh	nhi
+19	quipiya	nhi
+20	tomen	adapted-spanish-loan
+
+# sent_id = 4664
+# text = quihtoa uan queh ocnimileh momaman otimoc tzacuile tlacatl, quiluia xa hasta tepinaute
+# text[orig] = kijtua huan ke uk nimile mu mama u timuk tsakuile tlakatl, kiljuia xa hasta tepinaujte
+# text[spa] = dice y como es que penso tu mama, bajo, detuvo al señor, le dice hasta le da pena
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1377.687
+# timestamp[end] = 1383.669
+1	quihtoa	nhi
+2	uan	nhi
+3	queh	adapted-spanish-loan
+4	ocnimileh	nhi
+5	momaman	mixed
+6	otimoc	nhi
+7	tzacuile	nhi
+8	tlacatl,	nhi
+9	quiluia	nhi
+10	xa	nhi
+11	hasta	spa
+12	tepinaute	nhi
+
+# sent_id = 4665
+# text = amo quiniquis qui... mactlafiaro pues amo neh, yi quimati canin, canin chanchiua pues neh ualas ocse viaje yi quitlaxtlauilis
+# text[orig] = amo ki nikis ki, mak tlafiaro pues amo nej, yi ki mati kanin, kanin chanchihua pues nej hualas okse viaje yi ki tlaxtlahuilis
+# text[spa] = no va a querer fiarle pues no este, ya sabe donde, donde vive pues la otra  vez que venga ya le va a pagar
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1384.346
+# timestamp[end] = 1393.841
+1	amo	nhi
+2	quiniquis	nhi
+3	qui...	nhi
+4	mactlafiaro	mixed
+5	pues	spa
+6	amo	nhi
+7	neh,	nhi
+8	yi	nhi
+9	quimati	nhi
+10	canin,	nhi
+11	canin	nhi
+12	chanchiua	nhi
+13	pues	spa
+14	neh	nhi
+15	ualas	nhi
+16	ocse	nhi
+17	viaje	spa
+18	yi	nhi
+19	quitlaxtlauilis	nhi
+
+# sent_id = 4666
+# text = macfiarohto san setzin helado para nen iconeu quiluia uan mox yen Nestor quiluia mox trato maquincoua ome
+# text[orig] = mak fiarujto san setsi helado para nen i kuneuj kiljuia huan mux yen Nestor  kiljuia mux trato ma kin kuhua ume
+# text[spa] = que le este fiando solo un helado para su hijo, y esque el nestor le dice que afuerza compre dos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1394.668
+# timestamp[end] = 1404.113
+1	macfiarohto	mixed
+2	san	nhi
+3	setzin	nhi
+4	helado	spa
+5	para	spa
+6	nen	nhi
+7	iconeu	nhi
+8	quiluia	nhi
+9	uan	nhi
+10	mox	nhi
+11	yen	nhi
+12	Nestor	NE-Person
+13	quiluia	nhi
+14	mox	nhi
+15	trato	spa
+16	maquincoua	nhi
+17	ome	nhi
+
+# sent_id = 4667
+# text = se para yehuatl uan se para nen momaman
+# text[orig] = se para yejuatl uan se para ne mu mama
+# text[spa] = uno para el y otro para tu mama
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1404.829
+# timestamp[end] = 1407.175
+1	se	nhi
+2	para	spa
+3	yehuatl	nhi
+4	uan	nhi
+5	se	nhi
+6	para	spa
+7	nen	nhi
+8	momaman	mixed
+
+# sent_id = 4668
+# text = quihtoa porque tlamo yeh quiixitos, tlamo yeh quixitztos tons milauac oquintlahtlan ome ohcon quipipitzohtiu pipitzohtiu
+# text[orig] = kijtua porque tlamo yej ki ixitstos, tlamo yej kixitstos tons milak o kin tlajtlan ome ujkon ki pipitsojtiuj pipitsojtiu
+# text[spa] = dice por que si no ella nadamas la va estar viendo, si no ella lo va a estar viendo entonces deberas florentino dos, asi lo va chupando, lo va chupando
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1407.816
+# timestamp[end] = 1416.461
+1	quihtoa	nhi
+2	porque	spa
+3	tlamo	nhi
+4	yeh	nhi
+5	quiixitos,	nhi
+6	tlamo	nhi
+7	yeh	nhi
+8	quixitztos	nhi
+9	tons	spa
+10	milauac	nhi
+11	oquintlahtlan	nhi
+12	ome	nhi
+13	ohcon	nhi
+14	quipipitzohtiu	nhi
+15	pipitzohtiu	nhi
+
+# sent_id = 4669
+# text = tlamo yopeu quiluia mox ne, mox de abuelita quenin mox nen ohcon quemeh sequihtoa queh si fuera tlacatl yi ueyi
+# text[orig] = tlamo yupeu kiljuia mux ne, mux de abuelita kenin mux ne ujkon keme se kijtua ke si fuera tlakatl yi hueyi
+# text[spa] = o si no ya empezo a decirle que este, de su abuelita, como este asi como, dice como si fuera un hombre grande
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1417.209
+# timestamp[end] = 1425.375
+1	tlamo	nhi
+2	yopeu	nhi
+3	quiluia	nhi
+4	mox	nhi
+5	ne,	nhi
+6	mox	nhi
+7	de	spa
+8	abuelita	spa
+9	quenin	nhi
+10	mox	nhi
+11	nen	nhi
+12	ohcon	nhi
+13	quemeh	adapted-spanish-loan
+14	sequihtoa	nhi
+15	queh	adapted-spanish-loan
+16	si	spa
+17	fuera	spa
+18	tlacatl	nhi
+19	yi	nhi
+20	ueyi	nhi
+
+# sent_id = 4670
+# text = mox nen iabuelita Felipahtzin mox ochanchiuaya ualnica no más que acmo catqui, ocsipa teh mox tiquiluia mox se abuelita mox toca Ignacia pero acmo otiquixmat
+# text[orig] = mux ne y abuelita felipatsi mux u chanchuhuaya hualnika nomas ke akmo katki, oksipa te mux ti kiljuia mux se abuelita mux tuka ignacia pero akmo u tik ixmat
+# text[spa] = esque su abuelita felipita, vivia para aca nadamas que ya no esta, otra vez es que tu le dices que una abuelita que se llama ignacia, pero que ya no la conociste
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1425.76
+# timestamp[end] = 1436.461
+1	mox	nhi
+2	nen	nhi
+3	iabuelita	mixed
+4	Felipahtzin	NE-Person
+5	mox	nhi
+6	ochanchiuaya	nhi
+7	ualnica	nhi
+8	no	nhi
+9	más	spa
+10	que	spa
+11	acmo	nhi
+12	catqui,	nhi
+13	ocsipa	nhi
+14	teh	nhi
+15	mox	nhi
+16	tiquiluia	nhi
+17	mox	nhi
+18	se	nhi
+19	abuelita	spa
+20	mox	nhi
+21	toca	nhi
+22	Ignacia	NE-Person
+23	pero	spa
+24	acmo	nhi
+25	otiquixmat	nhi
+
+# sent_id = 4671
+# text = ohcon mox tlensa nohnontztoya pero amo canah quihtos yolahsis axan yi cuahualicas a la amo
+# text[orig] = ujkon mux tlen sa nujnutstuya pero amo kanaj kijtos yulasis axan yi kuajhualikas a la amo
+# text[spa] = asi esque va platicando de lo que sea pero no es como para decir que ya se aburrio, lo va a traer a la fuerza, no
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1437.118
+# timestamp[end] = 1442.909
+1	ohcon	nhi
+2	mox	nhi
+3	tlensa	nhi
+4	nohnontztoya	nhi
+5	pero	spa
+6	amo	nhi
+7	canah	nhi
+8	quihtos	nhi
+9	yolahsis	nhi
+10	axan	nhi
+11	yi	nhi
+12	cuahualicas	nhi
+13	a	spa
+14	la	spa
+15	amo	nhi
+
+# sent_id = 4672
+# text = quihtoa nen Feli yeh sa quihtohtos yi tiyasqueh yi tiyasqueh
+# text[orig] = kijtua nen Feli yej sa kijtohtos yi tiaske, yi tiaske
+# text[spa] = dice que feli el nadamas va estar diciendo, ya nos vamos, ya nos vamos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1444.79
+# timestamp[end] = 1447.672
+1	quihtoa	nhi
+2	nen	nhi
+3	Feli	NE-Person
+4	yeh	nhi
+5	sa	nhi
+6	quihtohtos	nhi
+7	yi	nhi
+8	tiyasqueh	nhi
+9	yi	nhi
+10	tiyasqueh	nhi
+
+# sent_id = 4673
+# text = uan ocse yeh amo
+# text[orig] = uan okse yej amo
+# text[spa] = y el otro no
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1448.399
+# timestamp[end] = 1449.708
+1	uan	nhi
+2	ocse	nhi
+3	yeh	nhi
+4	amo	nhi
+
+# sent_id = 4674
+# text = aquihqueh necateh
+# text[orig] = akijke nekate
+# text[spa] = quienes son ellos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1456.883
+# timestamp[end] = 1457.774
+1	aquihqueh	nhi
+2	necateh	nhi
+
+# sent_id = 4675
+# text = otiquitito niyomomacauqueh
+# text[orig] = u tikitito ni yu mu makaujke
+# text[spa] = fueron a trabajr ahorita ya salieron
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1461.761
+# timestamp[end] = 1463.552
+1	otiquitito	nhi
+2	niyomomacauqueh	nhi
+
+# sent_id = 4676
+# text = pero yi tlen tonal ompa oualaya siqui tlacameh uan amo
+# text[orig] = pero yi tlen tunal umpa u hualaya siki tlakame huan amo tlen
+# text[spa] = pero antes ahi venia unos señores y no
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1477.436
+# timestamp[end] = 1480.663
+1	pero	spa
+2	yi	nhi
+3	tlen	nhi
+4	tonal	nhi
+5	ompa	nhi
+6	oualaya	nhi
+7	siqui	nhi
+8	tlacameh	nhi
+9	uan	nhi
+10	amo	nhi
+
+# sent_id = 4677
+# text = xa que yi quipiya yi quemeh yi quipiya miac xiuitl xa siquiera otlauiton
+# text[orig] = xa ke yi kipia yi keme yi ki pia miak xiuitl xa sikiera u tlahuiton
+# text[spa] = alomejor ya a de tener muchos años, alomejor se derrumbo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1494.758
+# timestamp[end] = 1499.077
+1	xa	nhi
+2	que	spa
+3	yi	nhi
+4	quipiya	nhi
+5	yi	nhi
+6	quemeh	adapted-spanish-loan
+7	yi	nhi
+8	quipiya	nhi
+9	miac	nhi
+10	xiuitl	nhi
+11	xa	nhi
+12	siquiera	spa
+13	otlauiton	nhi
+
+# sent_id = 4678
+# text = o tlen, tlenoh ompa tlenoh isqui ompa ocatca mox aquin mox isqui ochanchiuaya ompa non
+# text[orig] = o tlen, tleno umpa tleno iski umpa u katka mux akin mux iski u chanchihuaya umpa nun
+# text[spa] = o que, que era lo que ahi habia, apoco alguien vivio ahi
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1499.999
+# timestamp[end] = 1506.726
+1	o	spa
+2	tlen,	nhi
+3	tlenoh	nhi
+4	ompa	nhi
+5	tlenoh	nhi
+6	isqui	nhi
+7	ompa	nhi
+8	ocatca	nhi
+9	mox	nhi
+10	aquin	nhi
+11	mox	nhi
+12	isqui	nhi
+13	ochanchiuaya	nhi
+14	ompa	nhi
+15	non	nhi
+
+# sent_id = 4679
+# text = xa quen tehuan no más que como yi tlen tonal, quemeh ich libros sequita mox neh, bueno tehuan mox ich neh libros den cuando otiyayah primaria
+# text[orig] = xa ken tejuan numas que como yi tlen tunal, keme ich libros se kita mux nej, bueno tejuan mux ich ne libros den cuando u tiayan primaria
+# text[spa] = alomejor como nosotros nadamas que como antes, com en los libros se ve, bueno nosotros, en el libro de cuando ibamos en la primaria
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1523.97
+# timestamp[end] = 1533.625
+1	xa	nhi
+2	quen	nhi
+3	tehuan	nhi
+4	no	nhi
+5	más	spa
+6	que	spa
+7	como	spa
+8	yi	nhi
+9	tlen	nhi
+10	tonal,	nhi
+11	quemeh	adapted-spanish-loan
+12	ich	nhi
+13	libros	spa
+14	sequita	nhi
+15	mox	nhi
+16	neh,	nhi
+17	bueno	spa
+18	tehuan	nhi
+19	mox	nhi
+20	ich	nhi
+21	neh	nhi
+22	libros	spa
+23	den	mixed
+24	cuando	spa
+25	otiyayah	nhi
+26	primaria	spa
+
+# sent_id = 4680
+# text = mox otiquitaya mox primeros primeros tlacameh mox oualquisqueh mox de mono
+# text[orig] = mux u ti kitaya mux primeros primeros tlakame mux u  hualkiske mux de mono
+# text[spa] = veiamos que los primeros, primeros hombres, salieron del mono
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1534.58
+# timestamp[end] = 1539.444
+1	mox	nhi
+2	otiquitaya	nhi
+3	mox	nhi
+4	primeros	spa
+5	primeros	spa
+6	tlacameh	nhi
+7	mox	nhi
+8	oualquisqueh	nhi
+9	mox	nhi
+10	de	nhi
+11	mono	spa
+
+# sent_id = 4681
+# text = den mono uan yeh tlen milauac ich in templo sequiluia pues primer primer hombre oyah yen Adan
+# text[orig] = den mono huan yej tlen milak ichin templo se kiljuia pues primer primer hombre uya yen Adan
+# text[spa] = del mono y la verdad en el templo nos dicen pues el primer, primer hombre fue adan
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1540.402
+# timestamp[end] = 1546.638
+1	den	mixed
+2	mono	spa
+3	uan	nhi
+4	yeh	nhi
+5	tlen	nhi
+6	milauac	nhi
+7	ich	nhi
+8	in	nhi
+9	templo	spa
+10	sequiluia	nhi
+11	pues	spa
+12	primer	spa
+13	primer	spa
+14	hombre	spa
+15	oyah	nhi
+16	yen	nhi
+17	Adan	NE-Person
+
+# sent_id = 4682
+# text = uan según uan de ich Adán ompa yo... Dios yoquihtoh pues como isel ahora sí isel isqui nen yolahsis ica non mejor o... oquis oc ahora sí de icostilla ocquixteh siuatl
+# text[orig] = uan segun huan de ich Adan umpa yu Dios yu kijto pues  como isel ora si isel iski nej yulasis ikanun mejor o o kis ok ora si de i costilla ok kixte sihuatl
+# text[spa] = y segun, y de adan ahi ya dios ya dijo pues como esta solo ahora si esta solo va estar, se va aburrir por eso mejor salio ahora si de su costilla saco a la mujer
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1547.676
+# timestamp[end] = 1562.43
+1	uan	nhi
+2	según	spa
+3	uan	nhi
+4	de	spa
+5	ich	nhi
+6	Adán	NE-Person
+7	ompa	nhi
+8	yo...	nhi
+9	Dios	spa
+10	yoquihtoh	nhi
+11	pues	spa
+12	como	spa
+13	isel	nhi
+14	ahora	spa
+15	sí	spa
+16	isel	nhi
+17	isqui	nhi
+18	nen	nhi
+19	yolahsis	nhi
+20	ica	nhi
+21	non	nhi
+22	mejor	spa
+23	o...	nhi
+24	oquis	nhi
+25	oc	nhi
+26	ahora	spa
+27	sí	spa
+28	de	spa
+29	icostilla	mixed
+30	ocquixteh	nhi
+31	siuatl	nhi
+
+# sent_id = 4683
+# text = uan yeh ich in libro cualihtohtiu ocse cosa
+# text[orig] = huan yej ichin libro kualijtohtiu okse cosa
+# text[spa] = y en el libro dice otra cosa
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1563.439
+# timestamp[end] = 1565.949
+1	uan	nhi
+2	yeh	nhi
+3	ich	nhi
+4	in	nhi
+5	libro	spa
+6	cualihtohtiu	nhi
+7	ocse	nhi
+8	cosa	spa
+
+# sent_id = 4684
+# text = pues amo ocatca intilmah
+# text[orig] = pues amo u katka in tilma
+# text[spa] = pues no habia ropa
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1571.81
+# timestamp[end] = 1573.238
+1	pues	spa
+2	amo	nhi
+3	ocatca	nhi
+4	intilmah	nhi
+
+# sent_id = 4685
+# text = de hecho, bueno ich in sequita ich i... nen, ich in Biblia sequita
+# text[orig] = dehecho, bueno ichin se kita  ichi nen, ichin biblia se kita
+# text[spa] = dehecho, bueno en, vemos en, el la biblia vemos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1575.724
+# timestamp[end] = 1582.261
+1	de	spa
+2	hecho,	spa
+3	bueno	spa
+4	ich	nhi
+5	in	nhi
+6	sequita	nhi
+7	ich	nhi
+8	i...	nhi
+9	nen,	nhi
+10	ich	nhi
+11	in	nhi
+12	Biblia	spa
+13	sequita	nhi
+
+# sent_id = 4686
+# text = sequita, bueno ich nen Biblia sec... tla siuatl amo occuani necah este mox manzana tleno xocotl
+# text[orig] = se kita, bueno ich nen biblia sek tla sihuatl amo ok kuani neka este mux manzana tleno xokotl
+# text[spa] = lo vemos, bueno en la biblia si la mujer no hubiera comido ese este manzana  algo agrio
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1588.066
+# timestamp[end] = 1596.83
+1	sequita,	nhi
+2	bueno	spa
+3	ich	nhi
+4	nen	nhi
+5	Biblia	spa
+6	sec...	nhi
+7	tla	nhi
+8	siuatl	nhi
+9	amo	nhi
+10	occuani	nhi
+11	necah	nhi
+12	este	spa
+13	mox	nhi
+14	manzana	spa
+15	tleno	nhi
+16	xocotl	nhi
+
+# sent_id = 4687
+# text = tla amo occuani oisquia tehuan milauac ahorita otiisquiah titisictiqueh, amo otitlaquemisquiah uan milauac amo setlachiyasquia
+# text[orig] = tla amo ok kuani u iskia tejuan milak ahorita u ti iskia ti tisiktike, amo u ti tlakemiskia uan milak amo se tlachiakia
+# text[spa] = si no lo hubiera comido hubiera, nosotros deberas ahorita estuvieramos desnudos, no nos vistieramos y deveras no ibamos a ver
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1597.975
+# timestamp[end] = 1607.309
+1	tla	nhi
+2	amo	nhi
+3	occuani	nhi
+4	oisquia	nhi
+5	tehuan	nhi
+6	milauac	nhi
+7	ahorita	spa
+8	otiisquiah	nhi
+9	titisictiqueh,	nhi
+10	amo	nhi
+11	otitlaquemisquiah	nhi
+12	uan	nhi
+13	milauac	nhi
+14	amo	nhi
+15	setlachiyasquia	nhi
+
+# sent_id = 4688
+# text = mota, omotasquia quemeh setlachixtoc pero de milauac yeh amo, amo setlachiyasquia nada más que porque siuatl oquicuah occonvenceroh coatl
+# text[orig] = muta, u mutaskia keme se tlachixtok pero de milak yej amo, amo se tlachiaskia nadamas que porque sihuatl u kikua ok convencero kuhuatl
+# text[spa] = se ve, se veria como si estuvieramos biendo pero de verdad, no ibamos a ver, nadamas que porque la mujer comio, la convencio la vibora
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1607.729
+# timestamp[end] = 1619.356
+1	mota,	nhi
+2	omotasquia	nhi
+3	quemeh	adapted-spanish-loan
+4	setlachixtoc	nhi
+5	pero	spa
+6	de	spa
+7	milauac	nhi
+8	yeh	nhi
+9	amo,	nhi
+10	amo	nhi
+11	setlachiyasquia	nhi
+12	nada	spa
+13	más	spa
+14	que	spa
+15	porque	spa
+16	siuatl	nhi
+17	oquicuah	nhi
+18	occonvenceroh	mixed
+19	coatl	nhi
+
+# sent_id = 4689
+# text = ahora sí cachi neh octlacamat, oquicuah necah este xocotl uan ocmacac itlacau ica non yo... milauac yo... yopeu mota
+# text[orig] = ora si kachi nej ok tlakamat, o kikua neka este xukotl huan uk makak i tlakauh ikanun yu milak yu yupeuj muta
+# text[spa] = ahora si pues le hizo mas caso, se comio esa manzana y le dio a su esposo por eso ya deberas ya empezaron a verse
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1621.659
+# timestamp[end] = 1632.159
+1	ahora	nhi
+2	sí	nhi
+3	cachi	spa
+4	neh	nhi
+5	octlacamat,	nhi
+6	oquicuah	nhi
+7	necah	nhi
+8	este	spa
+9	xocotl	nhi
+10	uan	nhi
+11	ocmacac	nhi
+12	itlacau	nhi
+13	ica	nhi
+14	non	nhi
+15	yo...	nhi
+16	milauac	nhi
+17	yo...	nhi
+18	yopeu	nhi
+19	mota	nhi
+
+# sent_id = 4690
+# text = yopeu tlachiya, yopeu mota pues tleca tihtisictiqueh
+# text[orig] = yupeuj tlachia, yupeuj muta pues tleka tijtisiktike
+# text[spa] = ya empezaron a ver, ya se veian pues porque estan desnudos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1632.658
+# timestamp[end] = 1636.522
+1	yopeu	nhi
+2	tlachiya,	nhi
+3	yopeu	nhi
+4	mota	nhi
+5	pues	nhi
+6	tleca	nhi
+7	tihtisictiqueh	nhi
+
+# sent_id = 4691
+# text = tla quemanian ompa oseisquia tla bueno sec... se... oseyasquia quemeh se ome se o se quesqui
+# text[orig] = tla kemania umpa u se  iskia tla bueno sek se u se yaskia keme se umi  se o se keski
+# text[spa] = si un dia ahi estuvieramos bueno si vamos unos dos o unos cuantos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1658.706
+# timestamp[end] = 1664.997
+1	tla	nhi
+2	quemanian	nhi
+3	ompa	nhi
+4	oseisquia	nhi
+5	tla	nhi
+6	bueno	spa
+7	sec...	nhi
+8	se...	nhi
+9	oseyasquia	nhi
+10	quemeh	adapted-spanish-loan
+11	se	nhi
+12	ome	nhi
+13	se	nhi
+14	o	spa
+15	se	nhi
+16	quesqui	nhi
+
+# sent_id = 4692
+# text = uan ompa secochis xa tlensa seccahcaquis
+# text[orig] = uan umpa se kuchis xa tlensa sek kajkakis
+# text[spa] = y ahi dormimos alomejor vamos a escuchar muchas cosas
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1666.077
+# timestamp[end] = 1668.713
+1	uan	nhi
+2	ompa	nhi
+3	secochis	nhi
+4	xa	nhi
+5	tlensa	nhi
+6	seccahcaquis	nhi
+
+# sent_id = 4693
+# text = pauitziya nican Yehuala ich in templo
+# text[orig] = pahuitsia nika yehuala ichin templo
+# text[spa] = iban a salir en el templo de yehuala
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1684.147
+# timestamp[end] = 1686.302
+1	pauitziya	nhi
+2	nican	nhi
+3	Yehuala	NE-Place
+4	ich	nhi
+5	in	nhi
+6	templo	spa
+
+# sent_id = 4694
+# text = que quihtoa nican tlacpac nican ic ompa cacalotl ualtlaniuic sa cerca cacalotl ya quesqui xiuitl quipiya xa quemeh se ome yeyi xiuitl quipiya
+# text[orig] = ke kijtua nika tlakpak nika cumpa kakalotl hualtlaniuik sa serca kakalotl ya keski xiuitl kipia xa keme se umi yeyi xiuitl kipia
+# text[spa] = como dicen que aqui arriba, aki en el cerro abajito, cerca del cerro, ya cuantos años a de tener alomejor como dos o tres años a de tener
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1708.28
+# timestamp[end] = 1717.134
+1	que	spa
+2	quihtoa	nhi
+3	nican	nhi
+4	tlacpac	nhi
+5	nican	nhi
+6	ic	nhi
+7	ompa	nhi
+8	cacalotl	nhi
+9	ualtlaniuic	nhi
+10	sa	nhi
+11	cerca	spa
+12	cacalotl	NE-Place
+13	ya	spa
+14	quesqui	nhi
+15	xiuitl	nhi
+16	quipiya	nhi
+17	xa	nhi
+18	quemeh	adapted-spanish-loan
+19	se	nhi
+20	ome	nhi
+21	yeyi	nhi
+22	xiuitl	nhi
+23	quipiya	nhi
+
+# sent_id = 4695
+# text = non Jonathan quihtoa Maximino mox ixtambor, non tlen nen difuntito difuntito Fermin ipiluan
+# text[orig] = nun Jonathan kijtua maximino mux ixtambor, nun tlen nen dijuntito dijuntito fermin y piljua
+# text[spa] = jonathan, maximino de luce cara de tambor, el difunto, difunto fermin sus hijos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1719.565
+# timestamp[end] = 1727.346
+1	non	nhi
+2	Jonathan	NE-Person
+3	quihtoa	nhi
+4	Maximino	NE-Person
+5	mox	nhi
+6	ixtambor,	mixed
+7	non	nhi
+8	tlen	nhi
+9	nen	nhi
+10	difuntito	spa
+11	difuntito	spa
+12	Fermin	NE-Person
+13	ipiluan	nhi
+
+# sent_id = 4696
+# text = quihtoa mox simi icompic oualaya mox neneh oualcuahcuiya o tleno ocualtaya uan se viaje mox nen ohcon pero ohcon oualaya entre ome o yeye
+# text[orig] = kijtua mux simi ik umpik u hualaya mux nenej u hualkuajkuiya o tleno u kualitaya uan se viaje mux nej ujkon pero ojkon u hualaya entre ume o yeye
+# text[spa] = dicen que venian mucho por aca, venian por leña o que venian a ver y una vez este asi, pero asi venian entre dos o tres
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1727.887
+# timestamp[end] = 1738.19
+1	quihtoa	nhi
+2	mox	nhi
+3	simi	nhi
+5	icompic	nhi
+6	oualaya	nhi
+7	mox	nhi
+8	neneh	nhi
+9	oualcuahcuiya	nhi
+10	o	spa
+11	tleno	nhi
+12	ocualtaya	nhi
+13	uan	nhi
+14	se	nhi
+15	viaje	spa
+16	mox	nhi
+17	nen	nhi
+18	ohcon	nhi
+19	pero	spa
+20	ohcon	nhi
+21	oualaya	nhi
+22	entre	spa
+23	ome	nhi
+24	o	spa
+25	yeye	nhi
+
+# sent_id = 4697
+# text = moualyolchicauayah, uan después mox oualah yehuatl non mox Jonathan mox isel quemeh isel quemeh amo oquihtoh aquin quiluis ualas o quenin
+# text[orig] = mu hualyulchikahuaya, uan despues mux u huala yejuatl nun mux jonathan mux isel  keme isel keme amo u kijto akin kiljuis hualas o kenin
+# text[spa] = de venian acompañando, y despues vino solo el jonathan como solo, no penso en decirle a alguien que va a venir
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1738.458
+# timestamp[end] = 1748.022
+1	moualyolchicauayah,	nhi
+2	uan	nhi
+3	después	spa
+4	mox	nhi
+5	oualah	nhi
+6	yehuatl	nhi
+7	non	nhi
+8	mox	nhi
+9	Jonathan	NE-Person
+10	mox	nhi
+11	isel	nhi
+12	quemeh	adapted-spanish-loan
+13	isel	nhi
+14	quemeh	adapted-spanish-loan
+15	amo	nhi
+16	oquihtoh	nhi
+17	aquin	nhi
+18	quiluis	nhi
+19	ualas	nhi
+20	o	spa
+21	quenin	nhi
+
+# sent_id = 4698
+# text = quihtoa mox icompic canin mox omo... quemeh si fuera aquin ocpantitlan quemeh ocpan..., que si fuera omoxolau pero yeh amo omoxolau que si fuera aquin ocpanixtopeu
+# text[orig] = kijtua mux ikumpik kanin mux  umu kemej sifuera akin uk pantitlan keme uk pan, ke sifuera u mu xulauj pero yej amo u mu xulauj ke sifuera akin uk panixtupeuj
+# text[spa] = y dicen que por ahi como si fuera que alguien lo empujo como que lo, como si fuera que se resbalo pero no se resbalo, como si alguen lo hubiera empujado
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1748.793
+# timestamp[end] = 1757.719
+1	quihtoa	nhi
+2	mox	nhi
+4	icompic	nhi
+5	canin	nhi
+6	mox	nhi
+7	omo...	nhi
+8	quemeh	adapted-spanish-loan
+9	si	spa
+10	fuera	spa
+11	aquin	nhi
+12	ocpantitlan	nhi
+13	quemeh	adapted-spanish-loan
+14	ocpan...,	nhi
+15	que	spa
+16	si	spa
+17	fuera	spa
+18	omoxolau	nhi
+19	pero	spa
+20	yeh	nhi
+21	amo	nhi
+22	omoxolau	nhi
+23	que	spa
+24	si	spa
+25	fuera	spa
+26	aquin	nhi
+27	ocpanixtopeu	nhi
+
+# sent_id = 4699
+# text = xa yi opeu quitemoa yeh ompa o... ompa ocatca nepa quemeh omo... xa que omopanmimiloh quemeh opilcatoya queni
+# text[orig] = xa yik upeuj ki temuhua yej umpa u umpa u katka nepa keme u mu xa kej umu pamimilo keme u pilkatuya keni
+# text[spa] = ya empezarona buscarlo y el pues ahi ahi estaba como que se rodo estaba como colgado
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1757.983
+# timestamp[end] = 1763.474
+1	xa	nhi
+2	yi	nhi
+3	opeu	nhi
+4	quitemoa	nhi
+5	yeh	nhi
+6	ompa	nhi
+7	o...	nhi
+8	ompa	nhi
+9	ocatca	nhi
+10	nepa	nhi
+11	quemeh	adapted-spanish-loan
+12	omo...	nhi
+13	xa	nhi
+14	que	spa
+15	omopanmimiloh	nhi
+16	quemeh	adapted-spanish-loan
+17	opilcatoya	nhi
+18	queni	nhi
+
+# sent_id = 4700
+# text = quihtoa Cynthia quinonotza Esmeralda, neneh mox icompic catqui se cueva icompic ne cerca cacalotl hasta ualtlaniuic
+# text[orig] = kijtua Cynthia ki nunutsa Esmeralda, nenej mux kumpik katki se cueva cumpik ne serca cacalotl hasta hualtlaniuik
+# text[spa] = dice cynthia que le platica esmeralda, este por ahi hay una cueva por ahi cerca del cerro hasta abajito
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1768.292
+# timestamp[end] = 1777.737
+1	quihtoa	nhi
+2	Cynthia	NE-Person
+3	quinonotza	nhi
+4	Esmeralda,	NE-Person
+5	neneh	nhi
+6	mox	nhi
+7	icompic	nhi
+8	catqui	nhi
+9	se	nhi
+10	cueva	spa
+11	icompic	nhi
+12	ne	nhi
+13	cerca	spa
+14	cacalotl	NE-Place
+15	hasta	nhi
+16	ualtlaniuic	nhi
+
+# sent_id = 4701
+# text = ompa catqui se cueva pero mox quipiya queh puerta
+# text[orig] = umpa katki se cueva pero mux kipia kej puerta
+# text[spa] = ahi hay una cueva pero tiene como una puerta
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1778.263
+# timestamp[end] = 1780.608
+1	ompa	nhi
+2	catqui	nhi
+3	se	nhi
+4	cueva	spa
+5	pero	spa
+6	mox	nhi
+7	quipiya	nhi
+8	queh	adapted-spanish-loan
+9	puerta	spa
+
+# sent_id = 4702
+# text = quihtoa mox queh puerta mox de couitl
+# text[orig] = kijtua mux kej puerta mux de kuhuitl
+# text[spa] = dice es como una puerta de madera
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1781.452
+# timestamp[end] = 1783.425
+1	quihtoa	nhi
+2	mox	nhi
+3	queh	adapted-spanish-loan
+4	puerta	spa
+5	mox	nhi
+6	de	spa
+7	couitl	nhi
+
+# sent_id = 4703
+# text = tlapo, quemeh hasta queh tlamoyontoc que si fuera colmenas
+# text[orig] = tlapo, keme hasta kej tlamuyuntok kej sifuera colmenas
+# text[spa] = nan
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1811.731
+# timestamp[end] = 1814.531
+1	tlapo,	nhi
+2	quemeh	adapted-spanish-loan
+3	hasta	spa
+4	queh	adapted-spanish-loan
+5	tlamoyontoc	nhi
+6	que	spa
+7	si	spa
+8	fuera	spa
+9	colmenas	spa
+
+# sent_id = 4704
+# text = miac omimeh
+# text[orig] = miak umimeh
+# text[spa] = muchas huesos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1826.62
+# timestamp[end] = 1827.629
+1	miac	nhi
+2	omimeh	nhi
+
+# sent_id = 4705
+# text = pero amo oquihtoh axan chuueh xinechnextili
+# text[orig] = pero amo u kijto axan chuhue xi nech nextile
+# text[spa] = pero no dijo ahora vamos ve a enseñarme
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1845.804
+# timestamp[end] = 1847.804
+1	pero	spa
+2	amo	nhi
+3	oquihtoh	nhi
+4	axan	nhi
+5	chuueh	nhi
+6	xinechnextili	nhi
+
+# sent_id = 4706
+# text = quihtoa mox tzicuineh, tzicuineh
+# text[orig] = kijtua mux tsikuine, tsikuine
+# text[spa] = dicen que corren, corren
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1864.559
+# timestamp[end] = 1866.541
+1	quihtoa	nhi
+2	mox	nhi
+3	tzicuineh,	nhi
+4	tzicuineh	nhi
+
+# sent_id = 4707
+# text = amo tzicuineh
+# text[orig] = amo tsikuine
+# text[spa] = no corren
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1866.89
+# timestamp[end] = 1867.98
+1	amo	nhi
+2	tzicuineh	nhi
+
+# sent_id = 4708
+# text = uan quen no tla oxiquitzcaneh se ihuitl y xicualicane
+# text[orig] = uan ken nu tla u xi kitskane se ijuitl i xi kualikane
+# text[spa] = y que si hubieran agarrado una gallina y la traian
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1886.707
+# timestamp[end] = 1889.262
+1	uan	nhi
+2	quen	nhi
+3	no	nhi
+4	tla	nhi
+5	oxiquitzcaneh	nhi
+6	se	nhi
+7	ihuitl	nhi
+8	y	nhi
+9	xicualicane	nhi
+
+# sent_id = 4709
+# text = quemah
+# text[orig] = kema
+# text[spa] = si
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1891.059
+# timestamp[end] = 1891.65
+1	quemah	nhi
+
+# sent_id = 4710
+# text = pero xa quemeh xa san quinuica neh niquihtoa xa por, quemeh tlen motlanochiya o... o tleno xa ompa cauatiueh nen tlensa
+# text[orig] = pero xa keme xa san kin huika ne ni kijtua xa por, keme tlen mu tlanuchia o  o tleno xa umpa kahuatihue nen tlensa
+# text[spa] = pero alomejor como que solo los llevan, yo digo alomejor, por, como los que se .............o algo, alomejor ahi vana dejar lo que sea
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1913.741
+# timestamp[end] = 1924.556
+1	pero	nhi
+2	xa	spa
+3	quemeh	adapted-spanish-loan
+4	xa	nhi
+5	san	nhi
+6	quinuica	nhi
+7	neh	nhi
+8	niquihtoa	nhi
+9	xa	nhi
+10	por,	spa
+11	quemeh	adapted-spanish-loan
+12	tlen	nhi
+13	motlanochiya	nhi
+14	o...	spa
+15	o	spa
+16	tleno	nhi
+17	xa	nhi
+18	ompa	nhi
+19	cauatiueh	nhi
+20	nen	nhi
+21	tlensa	nhi
+
+# sent_id = 4711
+# text = quihtoa nen ohcon otechnotz xa ohcon yi quipiyas se xiuitl ome xiuitl ohcon, mati canin otitiquitqueh xa ic tlamaco mati canin
+# text[orig] = kijtua nen ujko u technuts xa ujkun yi kipias se xihuitl omu xihuitl ujkon, mati kanin u ti tikitkeh xa ik tlamako mati kanin
+# text[spa] = dice este, asi nos platicaba, alomejor asi ya a de tener un año dos años asi, no se donde trabajamos, alomejor por tlamako, no se donde
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1926.99
+# timestamp[end] = 1934.488
+1	quihtoa	nhi
+2	nen	nhi
+3	ohcon	nhi
+4	otechnots	nhi
+5	xa	nhi
+6	ohcon	nhi
+7	yi	nhi
+8	quipiyas	nhi
+9	se	nhi
+10	xiuitl	nhi
+11	ome	nhi
+12	xiuitl	nhi
+13	ohcon,	nhi
+14	mati	nhi
+15	canin	nhi
+16	otitiquitqueh	nhi
+17	xa	nhi
+18	ic	nhi
+19	tlamaco	nhi
+20	mati	nhi
+21	canin	nhi
+
+# sent_id = 4712
+# text = ohcon opeu technonotza Cynthia quihtoa mox quiluia Esmeralda mox simi icompic tlapiya se iprima queni non para nepa tlacuitlapan uan mox se viaje ompa oualahqueh nen mox ichcameh os tlenoh bueno mati ichcameh
+# text[orig] = ujkon upeuj tech nunutsa Cynthia kijtua mux kiljuia Esmeralda mux simi ikumpik tlapia se y prima keninon para nipa tlakutlapa huan mux se viaje umpa u hualajke nen mux ichkame os tleno bueno mati ichkame
+# text[spa] = asi nos empezo a platicar cynthia, dice que le dice esmeralda, que una de sus primas va a cuidar mucho por alla por atras y segun una vez ahi vinieron borregas o que bueno creo son borregas
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1935.247
+# timestamp[end] = 1947.342
+1	ohcon	nhi
+2	opeu	nhi
+3	technonotza	nhi
+4	Cynthia	NE-Person
+5	quihtoa	nhi
+6	mox	nhi
+7	quiluia	nhi
+8	Esmeralda	NE-Person
+9	mox	nhi
+10	simi	nhi
+11	icompic	nhi
+12	tlapiya	nhi
+13	se	nhi
+14	iprima	mixed
+15	queni	nhi
+16	non	nhi
+17	para	spa
+18	nepa	nhi
+19	tlacuitlapan	nhi
+20	uan	nhi
+21	mox	nhi
+22	se	nhi
+23	viaje	spa
+24	ompa	nhi
+25	oualahqueh	nhi
+26	nen	nhi
+27	mox	nhi
+28	ichcameh	nhi
+29	os	nhi
+30	tlenoh	nhi
+31	bueno	spa
+32	mati	nhi
+33	ichcameh	nhi
+
+# sent_id = 4713
+# text = uan quihtoa oualahqueh uan yeh mox iquinualicaue pero neh niquihtoa xa yen xa yen tipetl o quihtoa mox tipechane xa siquiera quinyoltilana tlapiyalmeh quihtoa oualahqueh tlapiyalmeh uan ompa ocalaquico
+# text[orig] = uan kijtuhua u hualajke huan yej mux i kin hualikahue pero ne ni kijtuhua xa yen xa yen tipetl o kijtua mux tipechane xa sikiera  kkin yultilana tlapialme kijtua u hualajke tlapialme huan umpa u kalakiko
+# text[spa] = y dice que vinieron y ella esque los siguio pero yo digo ade ser el cerro o dicen que el que vive en el cerro, jala a los animales, dice que vinieron los animales y ahi fueron a entrar
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1948.314
+# timestamp[end] = 1960.076
+1	uan	nhi
+2	quihtoa	nhi
+3	oualahqueh	nhi
+4	uan	nhi
+5	yeh	nhi
+6	mox	nhi
+7	iquinualicaue	nhi
+8	pero	spa
+9	neh	nhi
+10	niquihtoa	nhi
+11	xa	nhi
+12	yen	nhi
+13	xa	nhi
+14	yen	nhi
+15	tipetl	nhi
+16	o	spa
+17	quihtoa	nhi
+18	mox	nhi
+19	tipechane	nhi
+20	xa	nhi
+21	siquiera	spa
+22	quinyoltilana	nhi
+23	tlapiyalmeh	nhi
+24	quihtoa	nhi
+25	oualahqueh	nhi
+26	tlapiyalmeh	nhi
+27	uan	nhi
+28	ompa	nhi
+29	ocalaquico	nhi
+
+# sent_id = 4714
+# text = ich non mox cueva ompa ocalacqueh uan yeh mox oualaya uan quemeh omotlapoh puerta uan de ocalacqueh ichcameh mox omotzacu
+# text[orig] = ichi nun mux cueva umpa u kalako uan yej mux u  hualaya huan keme u mu tlapo puerta huan de u kalakh keh ichkame mux u mutsakh
+# text[spa] = en esa cueva ahi fueron a entrar y ella venia y como que se abrio la puerta y de que se metieron las borregas se cerro
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1961.149
+# timestamp[end] = 1968.512
+1	ich	nhi
+2	non	nhi
+3	mox	nhi
+4	cueva	spa
+5	ompa	nhi
+6	ocalacqueh	nhi
+7	uan	nhi
+8	yeh	nhi
+9	mox	nhi
+10	oualaya	nhi
+11	uan	nhi
+12	quemeh	adapted-spanish-loan
+13	omotlapoh	nhi
+14	puerta	spa
+15	uan	nhi
+16	de	spa
+17	ocalacqueh	nhi
+18	ichcameh	nhi
+19	mox	nhi
+20	omotzacu	nhi
+
+# sent_id = 4715
+# text = acmo oualquisqueh quihtoa milauac xa yen tipetl quin...
+# text[orig] = akmo u hualkiskeh kijtuhua milak xa yen tipetl kin
+# text[spa] = ya no salieron, dicen que deberas a de ser el cerro
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1969.261
+# timestamp[end] = 1973.279
+1	acmo	nhi
+2	oualquisqueh	nhi
+3	quihtoa	nhi
+4	milauac	nhi
+5	xa	nhi
+6	yen	nhi
+7	tipetl	nhi
+8	quin...	nhi
+
+# sent_id = 4716
+# text = xamo yen tehuan tiome uan Adan uan nen Florencia
+# text[orig] = xamo yen tejuan ti ume uan Adan uan nen florencia
+# text[spa] = apoco no eramos nosotros dos y adan y florencia
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 1991.999
+# timestamp[end] = 1995.227
+1	xamo	nhi
+2	yen	nhi
+3	tehuan	nhi
+4	tiome	nhi
+5	uan	nhi
+6	Adan	NE-Person
+7	uan	nhi
+8	nen	nhi
+9	Florencia	NE-Person
+
+# sent_id = 4717
+# text = es que como tetlalpa semomohtia uan quen cachi secmomohtia quihtoa mox cuacuiltecos amo cualtiqueh
+# text[orig] = esque como te tlalpa se mumujtia uan ke kachi sek mumujtia kijtua mux cuacuiltecos  amo kualtique
+# text[spa] = esque como es terreno ajeno nos asustamos y mas porque nos asustan dicen que los de cuacuila no son buenos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2006.131
+# timestamp[end] = 2012.267
+1	es	spa
+2	que	spa
+3	como	spa
+4	tetlalpa	nhi
+5	semomohtia	nhi
+6	uan	nhi
+7	quen	spa
+8	cachi	nhi
+9	secmomohtia	nhi
+10	quihtoa	nhi
+11	mox	nhi
+12	cuacuiltecos	nhi
+13	amo	nhi
+14	cualtiqueh	nhi
+
+# sent_id = 4718
+# text = pues nen campa oticauacoh quemanian iuan Maximino non otitlehcocah, non cuando, quemah xa quipiya que ome xiuitl non nen
+# text[orig] = pues nen campa u ti kauhuako kemania ihuan Maximino nun u ti tlejkuka, nun cuando, kema xa kipia keh omi xihuitl nun nej
+# text[spa] = pues este, donde venimos a dejar la otra vez con maximino cuando subimos, cuando, si ya a de tener dos años
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2018.663
+# timestamp[end] = 2026.994
+1	pues	spa
+2	nen	nhi
+3	campa	nhi
+4	oticauacoh	nhi
+5	quemanian	nhi
+6	iuan	nhi
+7	Maximino	NE-Person
+8	non	nhi
+9	otitlehcocah,	nhi
+10	non	nhi
+11	cuando,	spa
+12	quemah	nhi
+13	xa	nhi
+14	quipiya	nhi
+15	que	spa
+16	ome	nhi
+17	xiuitl	nhi
+18	non	nhi
+19	nen	nhi
+
+# sent_id = 4719
+# text = campa moualpan, oquitlahtlan non otletlehcoya hasta tlacpac uan quen non tla oticchiuaneh caso cachi otitlehcocah otitlehcocah mox otipauitzcah ich in non mox cueva
+# text[orig] = kumpu mu hualpan, o ki tlajtlan nun u tletlejkuya hasta tlakpak uan ken nun tla u tik chihuane caso kachi u ti tlejkujka u ti tlejkujka mux u ti pahuitska ichin nun mux cueva
+# text[spa] = donde se baja, florentino ahi donde subia hasta arriba y si le hubieramos hecho caso y subiamos mas, subiamos mas, apoco ibamos a ir a salir en la cueva
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2028.822
+# timestamp[end] = 2036.568
+1	campa	nhi
+2	moualpan,	nhi
+3	oquitlahtlan	nhi
+4	non	nhi
+5	otletlehcoya	nhi
+6	hasta	nhi
+7	tlacpac	nhi
+8	uan	nhi
+9	quen	nhi
+10	non	nhi
+11	tla	nhi
+12	oticchiuaneh	nhi
+13	caso	spa
+14	cachi	nhi
+15	otitlehcocah	nhi
+16	otitlehcocah	nhi
+17	mox	nhi
+18	otipauitzcah	nhi
+19	ich	nhi
+20	in	nhi
+21	non	nhi
+22	mox	nhi
+23	cueva	spa
+
+# sent_id = 4720
+# text = ompa
+# text[orig] = umpa
+# text[spa] = ahi
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2037.431
+# timestamp[end] = 2038.113
+1	ompa	nhi
+
+# sent_id = 4721
+# text = ana
+# text[orig] = rosa
+# text[spa] = rosa
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2053.606
+# timestamp[end] = 2054.206
+1	ana	NE-Person
+
+# sent_id = 4722
+# text = pero mox ompa non lado
+# text[orig] = pero mux umpa nun lado
+# text[spa] = pero apoco es en ese lado
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2056.914
+# timestamp[end] = 2058.323
+1	pero	spa
+2	mox	nhi
+3	ompa	nhi
+4	non	nhi
+5	lado	spa
+
+# sent_id = 4723
+# text = nepa ahcoic
+# text[orig] = nepa ajkuik
+# text[spa] = alla arriba
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2061.542
+# timestamp[end] = 2062.178
+1	nepa	nhi
+2	ahcoic	nhi
+
+# sent_id = 4724
+# text = simi oc cocohtoya icorazón
+# text[orig] = simi ok kokojtuya y corazon
+# text[spa] = le dolia mucho su corazon
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2089.562
+# timestamp[end] = 2091.317
+1	simi	nhi
+2	oc	nhi
+3	cocohtoya	nhi
+4	icorazón	mixed
+
+# sent_id = 4725
+# text = uan amayic oquihtoaya pues axan neh niyas uan teh ximocaua
+# text[orig] = uan amayik u kijtohuaya pues axan ne niyas huan te xi mu kahua
+# text[spa] = y nunca decia pues ahora yo voy a ir y tu quedate
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2098.154
+# timestamp[end] = 2101.509
+1	uan	nhi
+2	amayic	nhi
+3	oquihtoaya	nhi
+4	pues	spa
+5	axan	nhi
+6	neh	nhi
+7	niyas	nhi
+8	uan	nhi
+9	teh	nhi
+10	ximocaua	nhi
+
+# sent_id = 4726
+# text = Leobardo
+# text[orig] = leobardo
+# text[spa] = leobardo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2114.062
+# timestamp[end] = 2114.707
+1	Leobardo	NE-Person
+
+# sent_id = 4727
+# text = uan aquin ocmocaueh itonan
+# text[orig] = uan aki uk mu kahue y tunan
+# text[spa] = y quien se quedo a su hija
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2116.369
+# timestamp[end] = 2117.787
+1	uan	nhi
+2	aquin	nhi
+3	ocmocaueh	nhi
+4	itonan	nhi
+
+# sent_id = 4728
+# text = uan aquin ompa oquitac
+# text[orig] = uan akin umpa u kitaya
+# text[spa] = y quien la veia ahi
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2123.933
+# timestamp[end] = 2125.151
+1	uan	nhi
+2	aquin	nhi
+3	ompa	nhi
+4	oquitac	nhi
+
+# sent_id = 4729
+# text = xa ocatca tzohtzocotzin itonan queh
+# text[orig] = xa ukatka tsutsukutsi y tuna keh
+# text[spa] = alomejor estaba chiquita su hija
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2180.062
+# timestamp[end] = 2181.971
+1	xa	nhi
+2	ocatca	nhi
+3	tzohtzocotzin	nhi
+4	itonan	nhi
+5	queh	spa
+
+# sent_id = 4730
+# text = ome tlapoual
+# text[orig] = umi tlapuhual
+# text[spa] = dos meses
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2187.504
+# timestamp[end] = 2188.395
+1	ome	nhi
+2	tlapoual	nhi
+
+# sent_id = 4731
+# text = pero xa no o... otzitzicuinqueh canin omo...
+# text[orig] = pero xa nu u, u tsitsikuinkeh kanin u mu
+# text[spa] = pero alomejor tambien corrieron, donde se
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2264.443
+# timestamp[end] = 2267.72
+1	pero	spa
+2	xa	nhi
+3	no	nhi
+4	o...	nhi
+5	otzitzicuinqueh	nhi
+6	canin	nhi
+7	omo...	nhi
+
+# sent_id = 4732
+# text = cuaahsiya
+# text[orig] = kuahasiya
+# text[spa] = pegaba su cabeza
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2290.219
+# timestamp[end] = 2291.088
+1	cuaahsiya	nhi
+
+# sent_id = 4733
+# text = grandes
+# text[orig] = huejueyeh
+# text[spa] = grandes
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2362.235
+# timestamp[end] = 2363.017
+1	grandes	spa
+
+# sent_id = 4734
+# text = amo quimahsis
+# text[orig] = amo kin masis
+# text[spa] = no les alcance
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2369.519
+# timestamp[end] = 2370.438
+1	amo	nhi
+2	quimahsis	nhi
+
+# sent_id = 4735
+# text = xa yoltoc, quen, quen milauac quen quihtoa quinyoltilana milauac tlapiyalmeh o tlenoh
+# text[orig] = xa yultok, ken, ken milak ken kijtuhua kin yultilana milak tlapialme o tleno
+# text[spa] = alomejor esta vivo, como deveras dicen que jala a los animales o que cosa
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2403.646
+# timestamp[end] = 2410.058
+1	xa	nhi
+2	yoltoc,	nhi
+3	quen,	nhi
+4	quen	nhi
+5	milauac	nhi
+6	quen	nhi
+7	quihtoa	nhi
+8	quinyoltilana	nhi
+9	milauac	nhi
+10	tlapiyalmeh	nhi
+11	o	spa
+12	tlenoh	nhi
+
+# sent_id = 4736
+# text = a veces sequihtos yi icompic seyas, uan se isel
+# text[orig] = aveces se kijtos yi kumpik seyas, uan se isel
+# text[spa] = aveces decimos que vamos a ir por ahi, y solo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2412.026
+# timestamp[end] = 2416.132
+1	a	spa
+2	veces	spa
+3	sequihtos	nhi
+4	yi	nhi
+5	icompic	nhi
+6	seyas,	nhi
+7	uan	nhi
+8	se	nhi
+9	isel	nhi
+
+# sent_id = 4737
+# text = xa ompa semocauas
+# text[orig] = xa umpa se mu kahuas
+# text[spa] = alomejor ahi nos quedamos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2416.703
+# timestamp[end] = 2417.746
+1	xa	nhi
+2	ompa	nhi
+3	semocauas	nhi
+
+# sent_id = 4738
+# text = onamomohti, al, quemeh cuando al momento xa amo pero yen después san nicnimilia tla tlenoh aquin ocpasaroani
+# text[orig] = u namuhmuhjtij, al, keme cuando al momento xa amo pero yen despues san nik nimilia tla tleno akin uk pasaruhuani
+# text[spa] = se asustaron, al, como cuando al momento alomejor no, pero despues solo piensan si le hubiera pasado algo a alguien
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2448.202
+# timestamp[end] = 2456.748
+1	onamomohti,	nhi
+2	al,	spa
+3	quemeh	adapted-spanish-loan
+4	cuando	spa
+5	al	spa
+6	momento	spa
+7	xa	nhi
+8	amo	nhi
+9	pero	spa
+10	yen	nhi
+11	después	spa
+12	san	nhi
+13	nicnimilia	nhi
+14	tla	nhi
+15	tlenoh	nhi
+16	aquin	nhi
+17	ocpasaroani	mixed
+
+# sent_id = 4739
+# text = pues sí
+# text[orig] = pues si
+# text[spa] = pues si
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2466.741
+# timestamp[end] = 2467.282
+1	pues	spa
+2	sí	spa
+
+# sent_id = 4740
+# text = ihcuac ueue temohteh ocatca Omitlán
+# text[orig] = ijkuak huehue temujte u katka omitlan
+# text[spa] = pues en ese tiempo el señor estaba mucho en omitlan
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2469.562
+# timestamp[end] = 2471.78
+1	ihcuac	nhi
+2	ueue	nhi
+3	temohteh	nhi
+4	ocatca	nhi
+5	Omitlán	NE-Place
+
+# sent_id = 4741
+# text = a veces coconeh youeh in escuela tlenoh sequinmaca
+# text[orig] = aveces kukunej yuhuen escuela tlenon se kin makas
+# text[spa] = aveces los niños van a la escuela, que les vamos a dar
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2495.965
+# timestamp[end] = 2498.848
+1	a	spa
+2	veces	spa
+3	coconeh	nhi
+4	youeh	nhi
+5	in	nhi
+6	escuela	spa
+7	tlenoh	nhi
+8	sequinmaca	nhi
+
+# sent_id = 4742
+# text = amo mitzcauaya
+# text[orig] = amo mits kauaya
+# text[spa] = no te dejaba
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2505.089
+# timestamp[end] = 2505.901
+1	amo	nhi
+2	mitzcauaya	nhi
+
+# sent_id = 4743
+# text = niman oc quemeh
+# text[orig] = nima uk kemeh
+# text[spa] = luego lo este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2519.054
+# timestamp[end] = 2520.154
+1	niman	nhi
+2	oc	nhi
+3	quemeh	adapted-spanish-loan
+
+# sent_id = 4744
+# text = motzonticon uan moxtololo yo...
+# text[orig] = mu tsontikon huan mu ixtotolu yu
+# text[spa] = tu cabeza y tus ojos ya
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2550.806
+# timestamp[end] = 2552.912
+1	motzonticon	nhi
+2	uan	nhi
+3	moxtololo	nhi
+4	yo...	nhi
+
+# sent_id = 4745
+# text = oyah ocanato in tlali
+# text[orig] = uya u kanatun tlali
+# text[spa] = fue a traer la tierra
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2558.158
+# timestamp[end] = 2559.699
+1	oyah	nhi
+2	ocanato	nhi
+3	in	nhi
+4	tlali	nhi
+
+# sent_id = 4746
+# text = uan yeh occhiualtaya yehuatl, xamo occhiualtaya yehuatl macana in tlali, uan amayic oquinic hasta ma yen nepa tlacpac
+# text[orig] = uan yej uk chihualtaya yejuatl, xamo uk chihualtaya yejuatl makanan tlali, huan amayik ukinik hasta ma  yen nipa tlakpak
+# text[spa] = y el le obligaba a el, verdad que le estaba obligando a el que vaya por la tierra, y nunca quiso hasta que alla ariba
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2560.687
+# timestamp[end] = 2567.177
+1	uan	nhi
+2	yeh	nhi
+3	occhiualtaya	nhi
+4	yehuatl,	nhi
+5	xamo	nhi
+6	occhiualtaya	nhi
+7	yehuatl	nhi
+8	macana	nhi
+9	in	nhi
+10	tlali,	nhi
+11	uan	nhi
+12	amayic	nhi
+13	oquinic	nhi
+14	hasta	spa
+15	ma	nhi
+16	yen	nhi
+17	nepa	nhi
+18	tlacpac	nhi
+
+# sent_id = 4747
+# text = chiualtaya mayoui xiquita non otitiquitito ica in salon uan neh quihtoa amo quihtoa neh Emilio mox yeh yen iitzcuintli, yeh xamona yeh yehuatl ocpanmimiloh nen titl techahsiya
+# text[orig] = chihualtaya ma yuhui ixkita nun u ti  tikititu ikan salun huan nej kijtuhua amo kijtuhua nej Emilio mux ye yen i itscuitli, yej xamuna ye yejuatl uk panmimilo nen titl tech asiya
+# text[spa] = le obligaban  a que vaya, ves cuando fuimos a trabajr con el asadon y este dice, dice emilio que es el perro, alomejor el empujo la piedra que nos alcanzaba
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2567.497
+# timestamp[end] = 2580.388
+1	chiualtaya	nhi
+2	mayoui	nhi
+3	xiquita	nhi
+4	non	nhi
+5	otitiquitito	nhi
+6	ica	nhi
+7	in	nhi
+8	salon	spa
+9	uan	nhi
+10	neh	nhi
+11	quihtoa	nhi
+12	amo	nhi
+13	quihtoa	nhi
+14	neh	nhi
+15	Emilio	NE-Person
+16	mox	nhi
+17	yeh	nhi
+18	yen	nhi
+19	iitscuintli,	nhi
+20	yeh	nhi
+21	xamona	nhi
+22	yeh	nhi
+23	yehuatl	nhi
+24	ocpanmimiloh	nhi
+25	nen	nhi
+26	titl	nhi
+27	techahsiya	nhi
+
+# sent_id = 4748
+# text = non san de isiuca
+# text[orig] = nun san de isiujka
+# text[spa] = eso fue de rapido
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2605.508
+# timestamp[end] = 2607.22
+1	non	nhi
+2	san	nhi
+3	de	spa
+4	isiuca	nhi
+
+# sent_id = 4749
+# text = san cualcan tiquihtoa san opeu tiquiquixquia tiquiquixquia uan san se ueyi rarito nochi hasta ich moxayac
+# text[orig] = san kualkan ti kijtuhua san upeuj ti kikixkia ti kikixkia huan san se hueyi rarito nuchi hasta ich mu xayak
+# text[spa] = solo en la mañana dices que nadamas te empezo a dar comezon comezon y ya en un ratito todo hasta en tu cara
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2608.102
+# timestamp[end] = 2614.726
+1	san	nhi
+2	cualcan	nhi
+3	tiquihtoa	nhi
+4	san	nhi
+5	opeu	nhi
+6	tiquiquixquia	nhi
+7	tiquiquixquia	nhi
+8	uan	nhi
+9	san	nhi
+10	se	nhi
+11	ueyi	nhi
+12	rarito	spa
+13	nochi	nhi
+14	hasta	spa
+15	ich	nhi
+16	moxayac	nhi
+
+# sent_id = 4750
+# text = uan yeh san niman omonacteh
+# text[orig] = uan yej san nima u mu nakteh
+# text[spa] = y luego se detuvo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2627.311
+# timestamp[end] = 2628.347
+1	uan	nhi
+2	yeh	nhi
+3	san	nhi
+4	niman	nhi
+5	omonacteh	nhi
+
+# sent_id = 4751
+# text = yeh xa milauac a veces sequihtoa senintinimi pero a veces mas ihquin tlanestoc o tleno yeh xa ehecatl canin secmo..., secmoixnamictia
+# text[orig] = yej xa milak aveces se kijtuhua se nintinimi pero aveces mas ijkin tlanestok  o tleno yej xa ejekatl kanin sek mu, sek mu ixnamiktiya
+# text[spa] = alomejor deveras aveces decimos que andamos pero aveces aunque asi esta de dia o algo a de ser aire o donde, nos lo encontramos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2666.167
+# timestamp[end] = 2674.595
+1	yeh	nhi
+2	xa	nhi
+3	milauac	nhi
+4	a	spa
+5	veces	spa
+6	sequihtoa	nhi
+7	senintinimi	nhi
+8	pero	spa
+9	a	spa
+10	veces	spa
+11	mas	spa
+12	ihquin	nhi
+13	tlanestoc	nhi
+14	o	spa
+15	tleno	nhi
+16	yeh	nhi
+17	xa	nhi
+18	ehecatl	nhi
+19	canin	nhi
+20	secmo...,	nhi
+21	secmoixnamictia	nhi
+
+# sent_id = 4752
+# text = yehuatl ocnamic
+# text[orig] = yejual uk namik
+# text[spa] = ese le quedo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2682.66
+# timestamp[end] = 2683.528
+1	yehuatl	nhi
+2	ocnamic	nhi
+
+# sent_id = 4753
+# text = pero non desde cocotzin
+# text[orig] = pero nun desde kukutsi
+# text[spa] = pero eso desde chiquito
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2693.945
+# timestamp[end] = 2695.422
+1	pero	spa
+2	non	spa
+3	desde	spa
+4	cocotzin	nhi
+
+# sent_id = 4754
+# text = niquilnamictoc ocatca conegatl
+# text[orig] = ni kilnamiktok ukatka kunegatl
+# text[spa] = me acuerdo que estaba bebe
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2695.987
+# timestamp[end] = 2697.769
+1	niquilnamictoc	nhi
+2	ocatca	nhi
+3	conegatl	nhi
+
+# sent_id = 4755
+# text = hasta oc ayamo ouiliya o...
+# text[orig] = hasta uk ayamo u huiliya u
+# text[spa] = hasta todavia no podia
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2698.254
+# timestamp[end] = 2700.049
+1	hasta	spa
+2	oc	nhi
+3	ayamo	nhi
+4	ouiliya	nhi
+5	o...	spa
+
+# sent_id = 4756
+# text = hasta oc ayamo ouiliya o... este onihnimiya nion por omouilanaya oticuicaya templo
+# text[orig] = hasta uk ayamo u huiliya u este u nijnimiya niun por u mu huilanaya u ti kuikaya templo
+# text[spa] = hasta todavia no podia este caminar ni por gatear, lo llevabas al templo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2700.761
+# timestamp[end] = 2706.826
+1	hasta	spa
+2	oc	nhi
+3	ayamo	nhi
+4	ouiliya	nhi
+5	o...	nhi
+6	este	spa
+7	onihnimiya	nhi
+8	nion	adapted-spanish-loan
+9	por	spa
+10	omouilanaya	nhi
+11	oticuicaya	nhi
+12	templo	spa
+
+# sent_id = 4757
+# text = por ich icxiuan ich imauan ich ixayac nochi
+# text[orig] = por ich ikxihua ich imahua ich ixayak nuchi
+# text[spa] = por sus pies en sus manos en su cara todo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2707.403
+# timestamp[end] = 2710.589
+1	por	spa
+2	ich	nhi
+3	icxiuan	nhi
+4	ich	nhi
+5	imauan	nhi
+6	ich	nhi
+7	ixayac	nhi
+8	nochi	nhi
+
+# sent_id = 4758
+# text = uehueyi sauameh hasta chihchichiltiqueh ocatcah
+# text[orig] = huejueyi sahuame hasta chijchichiltikeh u katkah
+# text[spa] = granos grandes hasta estaban rojos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2711.55
+# timestamp[end] = 2714.422
+1	uehueyi	nhi
+2	sauameh	nhi
+3	hasta	spa
+4	chihchichiltiqueh	nhi
+5	ocatcah	nhi
+
+# sent_id = 4759
+# text = a veces tlanamictl, a veces mohcayotl
+# text[orig] = aveces tlanamiktl, aveces mujkayutl
+# text[spa] = aveces...........aveces miedo
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2753.381
+# timestamp[end] = 2756.004
+1	a	spa
+2	veces	spa
+3	tlanamictl,	nhi
+4	a	spa
+5	veces	spa
+6	mohcayotl	nhi
+
+# sent_id = 4760
+# text = uan a veces amo semopahtia ohcon panoa, uan panoa
+# text[orig] = uan aveces amo se mu pajtia ujkon panuhua, huan panuhua
+# text[spa] = y aveces no nos curamos, asi pasa y pasa
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2756.624
+# timestamp[end] = 2759.915
+1	uan	nhi
+2	a	spa
+3	veces	spa
+4	amo	nhi
+5	semopahtia	nhi
+6	ohcon	nhi
+7	panoa,	nhi
+8	uan	nhi
+9	panoa	nhi
+
+# sent_id = 4761
+# text = yeh neneh se...
+# text[orig] = yej nene se
+# text[spa] = este nos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2760.937
+# timestamp[end] = 2762.35
+1	yeh	nhi
+2	neneh	nhi
+3	se...	nhi
+
+# sent_id = 4762
+# text = yeh se... neneh
+# text[orig] = yej se nenej
+# text[spa] = nos este
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2763.632
+# timestamp[end] = 2764.509
+1	yeh	nhi
+2	se...	nhi
+3	neneh	nhi
+
+# sent_id = 4763
+# text = milauac mo... san mosinchiua uan yi peua se...
+# text[orig] = milak mu, sa mu sinchihua huan yi pehua se
+# text[spa] = deveras se, se junta y ya empezamos a
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2765.656
+# timestamp[end] = 2768.406
+1	milauac	nhi
+2	mo...	nhi
+3	san	nhi
+4	mosinchiua	nhi
+5	uan	nhi
+6	yi	nhi
+7	peua	nhi
+8	se...	nhi
+
+# sent_id = 4764
+# text = semococoa hasta acmo secmati tlenoh sec... neneh tlenoh secpiya
+# text[orig] = se mu kukuhua hasta akmo sek mati tlenon sek nenej tlenon sek pia
+# text[spa] = nos enfermamos hasta ya no sabemos que este, tenemos
+# doc_id = speaker1_Tetel_Narra_ZWZ835_WWT836_2022-05-25-a
+# timestamp[start] = 2768.992
+# timestamp[end] = 2772.102
+1	semococoa	nhi
+2	hasta	spa
+3	acmo	nhi
+4	secmati	nhi
+5	tlenoh	nhi
+6	sec...	nhi
+7	neneh	nhi
+8	tlenoh	nhi
+9	secpiya	nhi
+
